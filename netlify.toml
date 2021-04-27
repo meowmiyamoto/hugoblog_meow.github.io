@@ -1,6 +1,6 @@
 [build]
   publish = "hugoblog/public"
-  command = "cd hugoblog && hugo --minify --gc --themesDir ../.."
+  command = "cd ./ && hugo --minify --gc --themesDir ../.."
   
 [build.environment]
   HUGO_VERSION = "0.82.0"
