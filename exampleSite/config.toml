@@ -1,15 +1,15 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/reader/"
-title = "Reader | Hugo Personal Blog Template"
-theme = "reader-hugo"
+baseURL = "https://menglish.jp/"
+title = "Menglish  | 海外在住イラストレーターmeow(めお)のブログ、「みんぐりっしゅ」"
 # post pagination
-paginate = "6"
+paginate = "12"
 # post excerpt
 summaryLength = "20"
+DefaultContentLanguage = "ja"
 # google analytics
 googleAnalytics = "" # Ex: UA-123-45
 # disqus short name
-disqusShortname = "themefisher-template" # get your shortname form here : https://disqus.com
+disqusShortname = "menglish-jp" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # desable language from here
 
@@ -24,7 +24,7 @@ unsafe = true
 
 # site variables
 [params.variables]
-primary_color = "#4FD675"
+primary_color = "#41C9B4"
 text_color = "#555"
 text_color_dark = "#333"
 text_color_light = "#777"
@@ -42,7 +42,7 @@ primary_font = "Nunito Sans:ital,wght@0,400;0,600;0,700;0,800;1,800"
 primary_font_type = "sans-serif" # [serif/sans-serif]
 secondary_font = ""
 secondary_font_type = "" # [serif/sans-serif]
-icon_font = "Font Awesome 5 Free"
+icon_font = "Font Awesome 4 Free"
 
 ############################# Plugins ##############################
 # CSS Plugins
@@ -75,13 +75,13 @@ link = "plugins/search/search.js"
 [params]
 favicon = "images/favicon.png"
 logo = "images/logo.png"
-logo_width = "100px"
+logo_width = "130px"
 menu_align = "center" # available option (left, right, or center )
 # Meta data
-author = "Themefisher"
+author = "Mao Miyamoto"
 description = "This is meta description"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/meowmiyamoto@gmail.com/" # contact form works with https://formspree.io
 # Go to https://formspree.io, and create an account by click on signup button. Now verify your email address by click on varify button in the mail you got in your inbox. form action will looks like this contact_form_action = "https://formspree.io/your.name@email.com/" 
 
 # search
@@ -89,11 +89,11 @@ search = true
 # featured
 featured_post = true
 # layout
-post_layout= "full" # layout value (full, grid or list)
+post_layout= "grid" # layout value (full, grid or list)
 # Sidebar
 sidebar = "right" # sidebar value (left, right or false)
 # main taxonomy that will show at header and post card
-main_taxonomy = "tag" # optional value (tag or category)
+main_taxonomy = "category" # optional value (tag or category)
 
 # Preloader
 [params.preloader]
@@ -102,7 +102,7 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Subscription
 [params.subscription]
-enable = true
+enable = false
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
@@ -125,9 +125,29 @@ button_link = "https://themefisher.com/"
 enable = false
 expire_days = 2
 
+# table of content
+[markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+    ordered = false
+
+# related article
+[related]
+    threshold = 0 
+    includeNewer = true
+    toLower = false
+
+    [[related.indices]]
+        name = "tags"
+        weight = 100
+
+    [[related.indices]]
+        name = "categories"
+        weight = 10
+
 ######################## sidebar widgets #########################
 [params.widgets]
-sidebar = ["search", "about-me", "promotion", "authors", "subscription", "categories", "recent-post", "tags", "social"]
+sidebar = [ "promotion", "about-me", "subscription", "categories", "recent-post", "tags"]
 # available widget : search,about-me,authors,categories,tags,recent-post,social,promotion,subscription
 
 
@@ -136,6 +156,7 @@ sidebar = ["search", "about-me", "promotion", "authors", "subscription", "catego
 name = "facebook"
 icon = "fab fa-facebook" # Fontawesome Icons : https://fontawesome.com/icons
 link = "#"
+enable = false
 
 [[params.social]]
 name = "twitter"
@@ -146,6 +167,7 @@ link = "#"
 name = "linkedin"
 icon = "fab fa-linkedin-in" # Fontawesome Icons : https://fontawesome.com/icons
 link = "#"
+enable = false
 
 [[params.social]]
 name = "github"
@@ -158,283 +180,54 @@ icon = "fab fa-youtube" # Fontawesome Icons : https://fontawesome.com/icons
 link = "#"
 
 
-################################### English language #####################################
-[Languages.en]
-languageName = "En"
-languageCode = "en-us"
-contentDir = "content/english"
+################################### Japanese language #####################################
+[Languages.ja]
+languageName = "Ja"
+languageCode = "ja"
+contentDir = "content/japanese"
 weight = 1
-heading = "What Would You <br> Like To Read Today?"
+heading = "Menglish"
+subheading = "海外デザイナー<br>めおのブログ、<ミングリッシュ>"
 
-[Languages.en.about_me]
-title = "Hi, I am Alex!"
-image = "images/author.jpg"
-bio = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vel in in donec iaculis tempus odio nunc laoreet . Libero ullamcorper."
+[Languages.ja.about_me]
+title = "Hi, I am meow!"
+image = "images/author.png"
+bio = "ボストン在住フリーランスイラストレーター。めおと読みます。フリーランス、英語、海外キャリア、ビザ、海外生活について書きます。"
 
-############# english navigation ##############
+############# japanese navigation ##############
 
 # Dropdown menu
-[[Languages.en.menu.main]]
+[[Languages.ja.menu.main]]
 weight = 1
-name = "homepage"
-hasChildren = true
+name = "home"
+pre = "<i class='fas fa-home'></i>"
+hasChildren = false
 
-  [[Languages.en.menu.main]]
-  parent = "homepage"
-  name = "Homepage Full Width"
-  url = "homepage/full/"
-  weight = 1
-
-  [[Languages.en.menu.main]]
-  parent = "homepage"
-  name = "Homepage Full With Left Sidebar"
-  url = "homepage/full-left/"
-  weight = 2
-
-  [[Languages.en.menu.main]]
-  parent = "homepage"
-  name = "Homepage Full With Right Sidebar"
-  url = "homepage/full-right/"
-  weight = 3
-  
-  [[Languages.en.menu.main]]
-  parent = "homepage"
-  name = "Homepage List Style"
-  url = "homepage/list/"
-  weight = 4
-
-  [[Languages.en.menu.main]]
-  parent = "homepage"
-  name = "Homepage List With Left Sidebar"
-  url = "homepage/list-left/"
-  weight = 5
-
-  [[Languages.en.menu.main]]
-  parent = "homepage"
-  name = "Homepage List With Right Sidebar"
-  url = "homepage/list-right/"
-  weight = 6
-  
-  [[Languages.en.menu.main]]
-  parent = "homepage"
-  name = "Homepage Grid Style"
-  url = "homepage/grid/"
-  weight = 7
-
-  [[Languages.en.menu.main]]
-  parent = "homepage"
-  name = "Homepage Grid With Left Sidebar"
-  url = "homepage/grid-left/"
-  weight = 8
-
-  [[Languages.en.menu.main]]
-  parent = "homepage"
-  name = "Homepage Grid With Right Sidebar"
-  url = "homepage/grid-right/"
-  weight = 9
-
-
-[[Languages.en.menu.main]]
-name = "About"
-URL = "#"
+[[Languages.ja.menu.main]]
+name = "フリーランス"
+pre = "<i class='fas fa-laptop'></i>"
+URL = "/categories/videography"
 weight = 2
   
-  [[Languages.en.menu.main]]
-  parent = "About"
-  name = "About Me"
-  url = "about-me"
-  weight = 1
-
-  [[Languages.en.menu.main]]
-  parent = "About"
-  name = "About Us"
-  url = "about-us"
-  weight = 2
-
-[[Languages.en.menu.main]]
-name = "Contact"
-URL = "contact"
+[[Languages.ja.menu.main]]
+name = " 海外で働く"
+pre = "<i class='fa fa-globe-americas'></i>"
+url = "about-me"
 weight = 3
 
-# Dropdown menu
-[[Languages.en.menu.main]]
-weight = 4
-name = "Pages"
-hasChildren = true
-
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "Author"
-  url = "author"
-  weight = 1
-
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "Category"
-  url = "categories/creativity"
-  weight = 2
-
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "Tags"
-  url = "tags/food"
-  weight = 3
-
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "404 Page"
-  url = "404"
-  weight = 4
+[[Languages.ja.menu.main]]
+name = "考え方"
+pre = "<i class='far fa-comment'></i>"
+url = "about-me"
+weight = 3
 
 
 # footer menu
-[[Languages.en.menu.footer]]
-name = "Privacy Policy"
-URL = "privacy-policy"
+[[Languages.ja.menu.footer]]
+name = "© 2021 Mao Miyamoto All rights reserved."
 weight = 1
 
-[[Languages.en.menu.footer]]
-name = "Terms Conditions"
-URL = "terms-conditions"
-weight = 2
-
-
-################################### French language #####################################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-heading = "Qu'aimeriez-vous <br> lire aujourd'hui?"
-
-[Languages.fr.about_me]
-title = "Hi, I am Alex!"
-image = "images/author.jpg"
-bio = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vel in in donec iaculis tempus odio nunc laoreet . Libero ullamcorper."
-
-############# french navigation ##############
-
-# Dropdown menu
-[[Languages.fr.menu.main]]
-weight = 1
-name = "homepage"
-hasChildren = true
-
-  [[Languages.fr.menu.main]]
-  parent = "homepage"
-  name = "Homepage Full Width"
-  url = "homepage/full/"
-  weight = 1
-
-  [[Languages.fr.menu.main]]
-  parent = "homepage"
-  name = "Homepage Full With Left Sidebar"
-  url = "homepage/full-left/"
-  weight = 2
-
-  [[Languages.fr.menu.main]]
-  parent = "homepage"
-  name = "Homepage Full With Right Sidebar"
-  url = "homepage/full-right/"
-  weight = 3
-  
-  [[Languages.fr.menu.main]]
-  parent = "homepage"
-  name = "Homepage List Style"
-  url = "homepage/list/"
-  weight = 4
-
-  [[Languages.fr.menu.main]]
-  parent = "homepage"
-  name = "Homepage List With Left Sidebar"
-  url = "homepage/list-left/"
-  weight = 5
-
-  [[Languages.fr.menu.main]]
-  parent = "homepage"
-  name = "Homepage List With Right Sidebar"
-  url = "homepage/list-right/"
-  weight = 6
-  
-  [[Languages.fr.menu.main]]
-  parent = "homepage"
-  name = "Homepage Grid Style"
-  url = "homepage/grid/"
-  weight = 7
-
-  [[Languages.fr.menu.main]]
-  parent = "homepage"
-  name = "Homepage Grid With Left Sidebar"
-  url = "homepage/grid-left/"
-  weight = 8
-
-  [[Languages.fr.menu.main]]
-  parent = "homepage"
-  name = "Homepage Grid With Right Sidebar"
-  url = "homepage/grid-right/"
-  weight = 9
-
-
-[[Languages.fr.menu.main]]
-name = "About"
-URL = "#"
-weight = 2
-  
-  [[Languages.fr.menu.main]]
-  parent = "About"
-  name = "About Me"
-  url = "about-me"
-  weight = 1
-
-  [[Languages.fr.menu.main]]
-  parent = "About"
-  name = "About Us"
-  url = "about-us"
-  weight = 2
-
-[[Languages.fr.menu.main]]
-name = "Contact"
+[[Languages.ja.menu.footer]]
+name = "お問い合わせはこちら"
 URL = "contact"
-weight = 3
-
-# Dropdown menu
-[[Languages.fr.menu.main]]
-weight = 4
-name = "Pages"
-hasChildren = true
-
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  name = "Author"
-  url = "author"
-  weight = 1
-
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  name = "Category"
-  url = "categories/creativity"
-  weight = 2
-
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  name = "Tags"
-  url = "tags/food"
-  weight = 3
-
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  name = "404 Page"
-  url = "404"
-  weight = 4
-
-
-# footer menu
-[[Languages.fr.menu.footer]]
-name = "Privacy Policy"
-URL = "privacy-policy"
-weight = 1
-
-[[Languages.fr.menu.footer]]
-name = "Terms Conditions"
-URL = "terms-conditions"
 weight = 2
