@@ -770,7 +770,6 @@
     left: 2rem;
   }
 
-
   blockquote {
     font-size: 20px !important;
     color: $text-color;
@@ -882,11 +881,12 @@
     height: 50px;
     border-radius: 50%;
     color: #fff;
-    font-family: FontAwesome;
+    font-family: "Font Awesome 5 Free";
+    content: "\f03a";
+    font-weight: 900;
     font-size: 20px;
     text-align: center;
     line-height: 50px;
-    content: "\f0ca";
     }
 
     .toc-title{

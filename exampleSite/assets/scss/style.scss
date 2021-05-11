@@ -24,6 +24,9 @@ $icon-font: '{{.icon_font}}';
 
 @import 'common';
 
+@import 'share';
+
 @import 'templates/navigation.scss';
 
 @import 'templates/main.scss';
+

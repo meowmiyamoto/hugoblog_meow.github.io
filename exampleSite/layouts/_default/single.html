@@ -70,7 +70,7 @@
               </a>
             </li>-->
             <li class="list-inline-item">
-              <i class="far fa-sync"></i>{{ .Page.ReadingTime }} {{ i18n "minute_read" }}
+              <i class="fas fa-sync-alt"></i>{{ .Lastmod.Format "2006.01.02, Mon" }}
             </li>
             <li class="list-inline-item">
               <i class="far fa-calendar-alt"></i>{{ .PublishDate.Format "02 Jan, 2006" }}
@@ -95,8 +95,15 @@
             </li>
           </ul>
 
-          <div class="content">{{ .Content }}</div>
+        <!--social media share-->
+{{ partial "share.html" . }}
+
+          <div class="content">
+          {{ .Content }}</div>
         </article>
+
+        <!--social media share-->
+        {{ partial "share.html" . }}
         <!--related article-->
         <div class="content">
                   <h2>{{ i18n "related_post" }}</h2>

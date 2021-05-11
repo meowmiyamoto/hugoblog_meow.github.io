@@ -1,0 +1,53 @@
+.sns-share ul {
+  text-align: center;
+  background-color: $light;
+}
+
+ .sns-share li {
+  display: inline-block;
+  width: 80px;
+  margin: 8px;
+  font-style: bold;
+  text-decoration: none;
+  }
+
+.sns-share-btn {
+  display: block;
+  width: 100%;
+  margin: 15px 0;
+  padding: 6px 0;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transform: translate3d(0, 0, 0);
+  cursor: pointer;
+  transition: all 0.2s ease-out;
+}
+
+.sns-share-btn:hover {
+  color: $light;
+  transform: translate3d(0, 5px, 0);
+}
+
+.sns-share-btn-fb {
+  background-color: #3b5998;
+}
+
+.sns-share-btn-tw {
+  background-color: #55acee;
+}
+
+.sns-share-btn-line {
+  background-color: #00b900;
+}
+
+.sns-share-btn-hb {
+  background-color: #00a4de;
+}
+
+.sns-share-btn-po {
+  background-color: #ef4156;
+}

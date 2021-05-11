@@ -42,7 +42,7 @@ primary_font = "Nunito Sans:ital,wght@0,400;0,600;0,700;0,800;1,800"
 primary_font_type = "sans-serif" # [serif/sans-serif]
 secondary_font = ""
 secondary_font_type = "" # [serif/sans-serif]
-icon_font = "Font Awesome 4 Free"
+icon_font = "Font Awesome 5 Free"
 
 ############################# Plugins ##############################
 # CSS Plugins
@@ -109,7 +109,7 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this co
 
 # Instagram feed
 [params.instafeed]
-enable = true
+enable = false
 access_token = "" # place your instagram access token here
 
 # promotion
