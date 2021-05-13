@@ -10,7 +10,7 @@ description: "フリーランス"
 # Taxonomies
 categories: ["フリーランス","副業"]
 tags: ["フリーランス"]
-type: "regular" # available type (epic, trending, popular, or regular)
+type: "epic" # available type (epic, trending, popular, or regular)
 draft: false
 share: true
 ---

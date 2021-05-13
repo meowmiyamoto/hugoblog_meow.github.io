@@ -10,7 +10,7 @@ description: "大学留学、留学、大学院留学、International Students O
 # Taxonomies
 categories: ["海外移住","アメリカ就活","海外フリーランス"]
 tags: ["海外で働く", "フリーランス"]
-type: "epic" # available type (epic, trending, popular, or regular)
+type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 toc: true
 ---
