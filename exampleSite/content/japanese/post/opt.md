@@ -4,8 +4,7 @@ date: 2021-04-01
 lastmod: 2021-04-20
 # post thumb
 images:
-  - "images/blog/blog-4.jpg"
-  - "images/blog/blog-1.jpg"
+  - "images/blog/opt.jpg"
 # description
 description: "大学留学、留学、大学院留学、International Students Office, ISO, 留学生課、留学生オフィス"
 # Taxonomies

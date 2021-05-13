@@ -1,15 +1,14 @@
 ---
 title: "STEM-OPTを申請するには？【理系だけじゃない｜アメリカ就活｜アメリカで働く】"
-date: 2021-04-01T15:40:24+06:00
-edited: 
+date: 2021-04-03
+lastmod: 
 # post thumb
 images:
-  - "images/blog/blog-4.jpg"
-  - "images/blog/blog-1.jpg"
+  - "images/blog/stem-opt.jpg"
 # description
 description: "大学留学、留学、大学院留学、International Students Office, ISO, 留学生課、留学生オフィス"
 # Taxonomies
-categories: ["海外移住","アメリカ就活","海外フリーランス"]
+categories: ["海外移住","アメリカ就活"]
 tags: ["海外で働く", "フリーランス"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false

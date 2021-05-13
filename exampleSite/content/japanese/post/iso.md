@@ -3,7 +3,7 @@ title: "留学生オフィスを利用する際の注意点【騙される前に
 date: 2021-03-20T15:40:24+06:00
 # post thumb
 images:
-  - "images/blog/blog-1.jpg"
+  - "images/blog/iso.jpg"
 # description
 description: "大学留学、留学、大学院留学、International Students Office, ISO, 留学生課、留学生オフィス"
 # Taxonomies

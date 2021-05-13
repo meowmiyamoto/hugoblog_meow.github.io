@@ -3,8 +3,6 @@ title: "Elements That You Can Use In This Template."
 date: 2020-03-15T15:40:24+06:00
 # post thumb
 images:
-  - "images/blog/blog-10.jpg"
-  - "images/blog/blog-1.jpg"
 #author
 author: "John Doe"
 # description
@@ -13,7 +11,7 @@ description: "This is meta description"
 categories: ["demo","elements"]
 tags: ["demo","elements"]
 type: "regular" # available type (epic, trending, popular, or regular)
-draft: false
+draft: true
 ---
 
 

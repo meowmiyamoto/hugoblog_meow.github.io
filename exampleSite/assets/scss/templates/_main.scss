@@ -510,7 +510,11 @@
     word-break: break-word;
     overflow-wrap: break-word;
     font-size: 17px;
-    line-height: 1.93;
+    line-height: 2.05;
+  }
+
+  p {
+  padding-bottom: 40px;
   }
 
   h2 {
@@ -520,6 +524,7 @@
     line-height: 1.6;
     position: relative;
     padding: .6em;
+    margin-bottom: 50px;
     background: $primary-color;
     }
 
@@ -541,7 +546,7 @@
     }
 
   h3{
-    margin: 2.6em 0 0.7em;
+    margin: 2.6em 0 1.7em;
     padding: 10px 0 10px 10px;
     border-left-width: 4px;
     border-left-style: solid;

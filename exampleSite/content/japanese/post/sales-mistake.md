@@ -4,12 +4,12 @@ date: 2021-04-12T15:40:24+06:00
 edited: 
 # post thumb
 images:
-  - "images/blog/blog-5.jpg"
+  - "images/blog/sales-mistake.jpg"
 # description
 description: "フリーランス"
 # Taxonomies
 categories: ["フリーランス","営業"]
-tags: ["フリーランス101"]
+tags: ["フリーランス"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 ---

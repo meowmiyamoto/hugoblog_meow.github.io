@@ -1,15 +1,15 @@
 ---
 title: "「ぜひあなたに」と絵の仕事を依頼される営業術【営業苦手でもできる｜フリーランス｜イラストレーター】"
-date: 2021-05-09T15:40:24+06:00
-edited: 
+lastmod: 2021-05-09
+date: 2021-05-03 
 # post thumb
 images:
-  - "images/blog/blog-5.jpg"
+  - "images/blog/sales-technique.jpg"
 # description
 description: "フリーランス"
 # Taxonomies
 categories: ["フリーランス","営業"]
-tags: ["フリーランス101"]
+tags: ["フリーランス"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 share: true

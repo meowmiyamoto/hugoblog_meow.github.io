@@ -4,20 +4,22 @@ date: 2021-04-12T15:40:24+06:00
 edited: 
 # post thumb
 images:
-  - "images/blog/blog-5.jpg"
+  - "images/blog/freelance-concept.jpg"
 # description
 description: "フリーランス"
 # Taxonomies
 categories: ["フリーランス", "イラストレーター"]
 tags: ["フリーランス"]
-type: "regular" # available type (epic, trending, popular, or regular)
+type: "trending" # available type (epic, trending, popular, or regular)
 draft: false
 ---
 
 
-こんにちは！めおです。
+こんにちは！めお(<u><a href="https://twitter.com/meeowmiya">@meeowmiya</a></u>)です。
 
+{{< say-left >}}
 これからフリーランスを頑張りたいけど、何をやればいいのかまったく分からないな
+{{< /say-left >}}
 
 こう言った疑問にお答えします。
 

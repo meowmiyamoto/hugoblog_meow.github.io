@@ -206,13 +206,13 @@ hasChildren = false
 [[Languages.ja.menu.main]]
 name = "フリーランス"
 pre = "<i class='fas fa-laptop'></i>"
-URL = "/categories/videography"
+URL = "/tags/フリーランス"
 weight = 2
   
 [[Languages.ja.menu.main]]
 name = " 海外で働く"
 pre = "<i class='fa fa-globe-americas'></i>"
-url = "about-me"
+url = "/tags/海外で働く"
 weight = 3
 
 [[Languages.ja.menu.main]]
