@@ -61,10 +61,19 @@ toB案件とtoC案件の違いは<span class="keiko-red">**「企業と仕事す
 <span class="keiko-red">**toB案件の獲得に必要なのは「スキル」「営業」「ポートフォリオサイト」「単価」の４つ**</span>です。この４つが大切な理由は、フリーランスの本質について書いた次の記事で詳しく説明します。
 
 スキルの身に着け方については次の記事で詳しく書いています。
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/side-hustle-niche/" data-iframely-url="//cdn.iframe.ly/YqCt5f3?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
 
 営業のやり方については次の記事で詳しく書いています。
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/side-hustle-niche/" data-iframely-url="//cdn.iframe.ly/YqCt5f3?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
 
 ポートフォリオサイトの作り方については次の記事で詳しく書いています。
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/side-hustle-niche/" data-iframely-url="//cdn.iframe.ly/YqCt5f3?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
 
 物理的なポートフォリオファイルについては、個人的には「別にいらない」という印象です。デジタル化が進んでいる今、先方で直接ポートフォリオサイトを見せれば良いだけですし、お願いされたときはポートフォリオサイトをまとめなおしてpdf化すれば良いと思います。
 

@@ -204,7 +204,7 @@ raw Markdown line up prettily. You can also use inline Markdown.
 
 Markdown | Less | Pretty
 --- | --- | ---
-*Still* | `renders` | **nicely**
+*Still* <br> does| `render` | **nicely**
 1 | 2 | 3
 
 <hr>

@@ -7,7 +7,7 @@ paginate = "12"
 summaryLength = "20"
 DefaultContentLanguage = "ja"
 # google analytics
-googleAnalytics = "" # Ex: UA-123-45
+googleAnalytics = "G-XK4PR4PGZL" # Ex: UA-123-45
 # disqus short name
 disqusShortname = "menglish-jp" # get your shortname form here : https://disqus.com
 # disable language
@@ -77,6 +77,7 @@ favicon = "images/favicon.png"
 logo = "images/logo.png"
 logo_width = "130px"
 menu_align = "center" # available option (left, right, or center )
+AmazonID = "halflinger-22"
 # Meta data
 author = "Mao Miyamoto"
 description = "This is meta description"

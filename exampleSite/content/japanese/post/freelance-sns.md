@@ -39,15 +39,17 @@ share: true
 
 ### ①ユーザーのほとんどは企業案件を発注できない
 
-インフルエンサーのフォロワー欄を見ればわかりますが、「応援してくれる」SNSユーザーのほとんどはあなたを採用する権限もお金も持たない一般人です。「良い成績をとる」のに「クラスの人気者」になっても仕方ないのと同じで「フリーランスで仕事をとる」ために「SNSの人気者」になっても仕方ありません。フリーランスするためにSNSを頑張る、は努力の方向性がズレています。
+インフルエンサーのフォロワー欄を見ればわかりますが、<span class="keiko-red">**「応援してくれる」SNSユーザーのほとんどはあなたを採用する権限もお金も持たない一般人です。**</span>「良い成績をとる」のに「クラスの人気者」になっても仕方ないのと同じで「フリーランスで仕事をとる」ために「SNSの人気者」になっても仕方ありません。フリーランスするためにSNSを頑張る、は努力の方向性がズレています。
+
+{{< tweet 1389697854474760194 >}}
 
 ### ② 「バズ」と「案件獲得」には因果関係がない
 
-例えば、アメリカでのプールの溺死事故件数と、ニコラス・ケイジ出演映画の公開数はめちゃくちゃ相関していますが、そこに因果関係はありません。同じように「バズ」と「案件獲得」も因果関係がなく、「バズるコンテンツ」とプロの反応・コンペの結果は全く別物です。
+<p><div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 50.1558%; padding-top: 120px;"><a href="http://tylervigen.com/spurious-correlations" data-iframely-url="//cdn.iframe.ly/QlOqz0T"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script></p>
+
+例えば<span class="keiko-red">**アメリカでのプールの溺死事故件数と、ニコラス・ケイジ出演映画の公開数はめちゃくちゃ相関していますが、そこに因果関係はありません。**</span>同じように「バズ」と「案件獲得」も因果関係がなく、「バズるコンテンツ」とプロの反応・コンペの結果は全く別物です。
 
 ## SNSをやることがマイナスな理由
-
-
 
 SNSは正しく使わなければむしろマイナスの印象を与えることにもなり兼ねず、使い方に注意が必要です。
 
@@ -58,7 +60,7 @@ SNSは正しく使わなければむしろマイナスの印象を与えるこ�
 
 ### ④ネガティブに見られる
 
-バズやフォロワーはある程度テクニックでコントロールできます。リテラシーのある採用担当者なら、影響力が錯覚資産であることを知っています。プロの目から見て響く作品がなく、影響力だけある人は逆に「胡散臭い」と不信感を持たれます。
+<span class="keiko-red">**バズやフォロワーはある程度テクニックでコントロールできます。**</span>リテラシーのある採用担当者なら、影響力が錯覚資産であることを知っています。プロの目から見て響く作品がなく、影響力だけある人は逆に「胡散臭い」と不信感を持たれます。
 
 ### ⑤影響力にタダ乗りされる
 
@@ -75,17 +77,42 @@ SNSは正しく使わなければむしろマイナスの印象を与えるこ�
 
 ### 採用権限のある人が集まる場所
 
-これは営業するのが一番早いです。海外だと採用専門のSNSとしてLinkedInがありますが、日本では同等のサービスはまだありません（知っている方いたら教えてください）。また「仕事探し」を明言しているクラウドソーシングサービスも採用担当者の目にも引っかかりやすいです。
+<span class="keiko-red">**採用してもらうには営業するのが一番早いです。**</span>海外だと採用専門のSNSとしてLinkedInがありますが、日本では同等のサービスはまだありません（知っている方いたら教えてください）。また「仕事探し」を明言しているクラウドソーシングサービスも採用担当者の目にも引っかかりやすいです。
 
-ココナラ
-ランサーズ
+<p><div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://coconala.com/" data-iframely-url="//cdn.iframe.ly/unxePRa"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script></p>
+<p><div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.lancers.jp" data-iframely-url="//cdn.iframe.ly/dXoAuAM?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script></p>
 
 営業についてはこちらの記事をご一読ください。
 
-### プロの目に留まる作品と正しいフォーマット
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/sales-technique/" data-iframely-url="//cdn.iframe.ly/kMRmgMJ?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
+
+
+### プロの目に留まる作品と正しいフォーマット
 
 これはポートフォリオを作るのが一番早いです。ポートフォリオの作り方についてはこちらの記事をご一読ください。ポートフォリオを持って営業に行くイメージです。
 
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/portfolio/" data-iframely-url="//cdn.iframe.ly/OWZ64mO?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
+
 ## まとめ
 
-以上、SNSをしなくてもフリーランスが可能な5つの理由でした！あくまでフリーランサーとしての一意見ですが、SNSやるより作品を作ったり営業する方が何倍も速く、フリーランサーとしての確実なキャリアにたどり着きます。華やかさをとるか、確実性をとるか、考える材料にして頂ければと思います。
+以上、SNSをしなくてもフリーランスが可能な5つの理由でした！あくまでフリーランサーとしての一意見ですが、<span class="keiko-red">**SNSやるより作品を作ったり営業する方が何倍も速く、フリーランサーとしての確実なキャリアを築けます。**</span>華やかさをとるか、確実性をとるか、考える材料にして頂ければと思います。
+
+{{% amazon 
+  itemId="4152098872"
+  title="デジタル・ミニマリスト: 本当に大切なことに集中する"
+  author="カル・ニューポート (著), 長場 雄 (イラスト), 佐々木 典士 (その他), 池田 真紀子 (翻訳)"
+  publisher="早川書房"
+  imageUrl="https://images-na.ssl-images-amazon.com/images/I/41TDuh5LDAL._SX346_BO1,204,203,200_.jpg"
+%}}
+
+{{% amazon 
+  itemId="4434274783"
+  title="人生にSNSは不要〜幸せの扉を開く自己中からのメッセージ65〜"
+  author="宗信徳志  (著)"
+  publisher="みらいパブリッシング"
+  imageUrl="https://images-na.ssl-images-amazon.com/images/I/41KhN-biqdL._SX339_BO1,204,203,200_.jpg"
+%}}

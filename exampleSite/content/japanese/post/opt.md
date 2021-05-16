@@ -71,6 +71,7 @@ OPT手続きはプログラム修了90日前から開始でき、OPT開始日は
 
 私は運良く卒業前から就活を始め、OPT開始日にビザスポンサー付き就職で内定を得ることができました。詳しくはこちらの記事に書いています。
 {{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/o1/" data-iframely-url="//cdn.iframe.ly/Wz1YyD7?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 {{< /notice >}}
 
 ## 雇用主の報告には「サインする前のオファーレター」を！

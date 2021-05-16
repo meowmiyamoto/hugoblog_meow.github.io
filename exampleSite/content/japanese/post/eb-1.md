@@ -40,6 +40,9 @@ toc: true
 雇用ベース永住権の中でも最も審査が進むのが早い最優先枠をEB-1と呼び、私が当時持っていたO-1ビザからの切り替えがいちばんやりやすいビザでした。EB-1では<span class="keiko-red">**科学、芸術、教育、ビジネス、スポーツの分野において非凡で並外れた能力を保持した人に発行**</span>されます。採用基準がO-1ビザと似ており、O-1ビザで使った推薦状や実績の証明がそのまま使えました。
 
 O-1取得に関してはこちらの記事をご覧ください。
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/o1/" data-iframely-url="//cdn.iframe.ly/Wz1YyD7?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
 
 EB-1では以下の10項目のうち3項目を満たす必要があります（私が申請したときに満たした項目は太字にしています）。
 
@@ -73,6 +76,10 @@ O-1ビザ取得時にはEB-1を満たすにはエビデンスが弱かったけ�
 EB-1が難しいのは、やはり<span class="keiko-red">**非凡で並外れた能力の証明**</span>です。社会人3年目では正直言ってそんなものはありません。しかし、私の所属する「メディカル・イラストレーター」という業界はあまりにも小さいため、「業界における並外れた能力を証明」しやすく、実際に「業績トップ」の実績でO-1が認可されたこともあったため、同じように<span class="keiko-red">**業績を可能な限り狭める**</span>戦略をとりました。
 
 例えば「イラストレーター」として世界のトップのになるのが難しくても「障害のある子供向けの教育コンテンツを作るイラストレーター」という括りでなら、競合が一気に減って断然トップを狙いやすくなります。とは言え、もちろん大会や業界紙があったり推薦状を集められるぐらいには「業界」として成り立っていないといけないので、良いバランスを探すことがキモになります。
+
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/side-hustle-niche/" data-iframely-url="//cdn.iframe.ly/YqCt5f3?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
 
 ## EB-1申請のために実際に行ったこと
 EB-1を申請するために私が行ったことは、先ほどの3項目を満たすこと＋推薦状を追加です。

@@ -514,7 +514,7 @@
   }
 
   p {
-  padding-bottom: 40px;
+  padding-bottom: 20px;
   }
 
   h2 {
@@ -663,6 +663,29 @@
     margin-bottom: 0;
   }
 
+  .amazon-box {
+    border: solid 2px #e0e0e0;
+    border-radius: 6px;
+    padding: 20px;
+    margin-bottom: 1rem;
+    }
+
+.amazon-image {
+    display: inline-block;
+    margin-right: 10px;
+    float: left;
+    max-width: 120px;
+    }
+
+    .amazon-name {
+    text-decoration-line: underline;
+    margin-bottom: 10px;
+    }
+
+    .clear-left {
+    clear: left;
+}
+
   .notices {
     margin: 2rem 0;
     position: relative;
@@ -678,7 +701,7 @@
     position: absolute;
     top: 2px;
     color: $white;
-    font-family: "themify";
+    font-family: "Font Awesome 5 Free";
     font-weight: 900;
     content: "\e717";
     left: 10px;
@@ -697,21 +720,21 @@
     left: 2rem;
   }
 
-  .notices.link p::before {
+    .notices.link p::before {
     position: absolute;
     top: 22px;
+    padding: 0 9px;
     color: $primary-color;
     background: $white;
-    font-family: "themify";
+    font-family: "Font Awesome 5 Free";
     font-weight: 900;
     content: "\f02e";
-    left: 10px;
+    left: 1px;
   }
 
     .notices.link p {
-    margin: 2em 0;
-    border: solid 3px $primary-color;
-    border-radius: 6px;
+    margin: 1em 0;
+    border-bottom: 3px solid $primary-color;
   }
 
     .notices.link p::after {
@@ -723,7 +746,36 @@
     top: 22px;
     color: $primary-color;
     background:$white;
-    left: 1rem;
+    left: 1.2rem;
+  }
+
+  .notices.link2 p::before {
+    position: absolute;
+    top: 22px;
+    color: $primary-color;
+    background: $white;
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f02e";
+    left: 10px;
+  }
+
+    .notices.link2 p {
+    margin: 2em 0;
+    border: solid 3px $primary-color;
+    border-radius: 6px;
+  }
+
+    .notices.link2 p::after {
+    content: '関連記事';
+    font-weight:bold;
+    padding: 0 9px;
+    margin: 0 9px;
+    position: absolute;
+    top: 22px;
+    color: $primary-color;
+    background:$white;
+    left: 1.2rem;
   }
 
   .notices.note p::after {
