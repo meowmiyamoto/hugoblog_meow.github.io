@@ -38,6 +38,7 @@ share: true
 ## 「SNS頑張る」は努力の方向性がズレている
 
 ### ①ユーザーのほとんどは企業案件を発注できない
+![image](../../images/undraw/undraw_online_friends.svg)<br><br>
 
 インフルエンサーのフォロワー欄を見ればわかりますが、<span class="keiko-red">**「応援してくれる」SNSユーザーのほとんどはあなたを採用する権限もお金も持たない一般人です。**</span>「良い成績をとる」のに「クラスの人気者」になっても仕方ないのと同じで「フリーランスで仕事をとる」ために「SNSの人気者」になっても仕方ありません。フリーランスするためにSNSを頑張る、は努力の方向性がズレています。
 
@@ -54,12 +55,12 @@ share: true
 SNSは正しく使わなければむしろマイナスの印象を与えることにもなり兼ねず、使い方に注意が必要です。
 
 ### ③「バズるコンテンツ」を作る時間が無駄
-
+![image](../../images/undraw/undraw_programmer.svg)<br><br>
 コンテンツ作りには時間がかかります。「バズるコンテンツ」で案件獲得にたどり着くのは偶然なので、趣味のギャンブルに留める方が現実的です。
 
 
 ### ④ネガティブに見られる
-
+![image](../../images/undraw/undraw_viral_tweet.svg)<br><br>
 <span class="keiko-red">**バズやフォロワーはある程度テクニックでコントロールできます。**</span>リテラシーのある採用担当者なら、影響力が錯覚資産であることを知っています。プロの目から見て響く作品がなく、影響力だけある人は逆に「胡散臭い」と不信感を持たれます。
 
 ### ⑤影響力にタダ乗りされる
@@ -76,7 +77,7 @@ SNSは正しく使わなければむしろマイナスの印象を与えるこ�
 ことが大切です。
 
 ### 採用権限のある人が集まる場所
-
+![image](../../images/undraw/undraw_work_time.svg)<br><br>
 <span class="keiko-red">**採用してもらうには営業するのが一番早いです。**</span>海外だと採用専門のSNSとしてLinkedInがありますが、日本では同等のサービスはまだありません（知っている方いたら教えてください）。また「仕事探し」を明言しているクラウドソーシングサービスも採用担当者の目にも引っかかりやすいです。
 
 <p><div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://coconala.com/" data-iframely-url="//cdn.iframe.ly/unxePRa"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script></p>
@@ -90,7 +91,7 @@ SNSは正しく使わなければむしろマイナスの印象を与えるこ�
 
 
 ### プロの目に留まる作品と正しいフォーマット
-
+![image](../../images/undraw/undraw_portfolio_website.svg)<br><br>
 これはポートフォリオを作るのが一番早いです。ポートフォリオの作り方についてはこちらの記事をご一読ください。ポートフォリオを持って営業に行くイメージです。
 
 {{< notice "link" >}}
