@@ -60,24 +60,20 @@ toB案件とtoC案件の違いは<span class="keiko-red">**「企業と仕事す
 ## toB案件獲得のプロセス
 <span class="keiko-red">**toB案件の獲得に必要なのは「スキル」「営業」「ポートフォリオサイト」「単価」の４つ**</span>です。この４つが大切な理由は、フリーランスの本質について書いた次の記事で詳しく説明します。
 
-スキルの身に着け方については次の記事で詳しく書いています。
-{{< notice "link" >}}
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/side-hustle-niche/" data-iframely-url="//cdn.iframe.ly/YqCt5f3?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
-{{< /notice >}}
+**スキルの身に着け方**については次の記事で詳しく書いています。
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/skill/" data-iframely-url="//cdn.iframe.ly/0RZ06W9?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script><br><br>
 
-営業のやり方については次の記事で詳しく書いています。
-{{< notice "link" >}}
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/side-hustle-niche/" data-iframely-url="//cdn.iframe.ly/YqCt5f3?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
-{{< /notice >}}
 
-ポートフォリオサイトの作り方については次の記事で詳しく書いています。
-{{< notice "link" >}}
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/side-hustle-niche/" data-iframely-url="//cdn.iframe.ly/YqCt5f3?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
-{{< /notice >}}
+**営業のやり方**については次の記事で詳しく書いています。
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/sales-technique/" data-iframely-url="//cdn.iframe.ly/kMRmgMJ?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script><br><br>
 
-物理的なポートフォリオファイルについては、個人的には「別にいらない」という印象です。デジタル化が進んでいる今、先方で直接ポートフォリオサイトを見せれば良いだけですし、お願いされたときはポートフォリオサイトをまとめなおしてpdf化すれば良いと思います。
+**ポートフォリオサイトの作り方**については次の記事で詳しく書いています。
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/portfolio/" data-iframely-url="//cdn.iframe.ly/OWZ64mO?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script><br><br>
 
-単価の決め方については次の記事で詳しく書いています。
+
+<span class="keiko-red">**物理的なポートフォリオファイルについては、個人的には「別にいらない」という印象です。**</span>デジタル化が進んでいる今、先方で直接ポートフォリオサイトを見せれば良いだけですし、お願いされたときはポートフォリオサイトをまとめなおしてpdf化すれば良いと思います。
+
+**単価の決め方**については次の記事で詳しく書いています。<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/pricing/" data-iframely-url="//cdn.iframe.ly/rIfOpCo?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 ## まとめ
 以上、「toB案件」がオススメな３つの理由でした！上記を満たすクライアントであれば、必ずしも「企業」でなくても一緒に仕事するメリットは大きいです。例えば、私は大学所属の研究者の個人案件をよく受けます。彼らは研究予算を持っていて、チーム戦であることが多く、大学のインフラに乗っかれるのでtoB案件の条件を完ぺきに満たします。競合が全くいないのでオススメです。

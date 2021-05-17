@@ -66,3 +66,11 @@ share: true
 
 ## まとめ
 以上、「ぜひあなたに」と向こうから案件を依頼される3ステップの営業必勝法でした！「売る」のが苦手でも「助ける」アプローチを続けることで案件は向こうからやってきます。ぜひチャレンジしてみてください。
+
+{{% amazon 
+  itemId="4902969513"
+  title="営業の魔法"
+  author="中村 信仁  (著)"
+  publisher="ビーコミュニケーションズ"
+  imageUrl="https://images-na.ssl-images-amazon.com/images/I/41zuTcGYT9L._SX338_BO1,204,203,200_.jpg"
+%}}

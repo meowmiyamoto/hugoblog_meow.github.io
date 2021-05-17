@@ -53,9 +53,11 @@ draft: false
 
 ### 新しいスキルを身につけるための基本ステップ
 「スキルがない」という人に向けて、新しいスキルを手に入れるときに自分のとるステップを解説します。
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/skill/" data-iframely-url="//cdn.iframe.ly/0RZ06W9?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 ### ニッチ戦略
 この記事の前提である「独立」つまり「それだけで食っていける」を目指すためにはニッチを見極めるのは重要です。同じスキルでも、熟練度とニッチによってフリーランスには簡単にも無理ゲーにもなります。
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/side-hustle-niche/" data-iframely-url="//cdn.iframe.ly/YqCt5f3?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 
 ## ②質の良いクライアントとつながる「営業」
@@ -63,18 +65,23 @@ draft: false
 
 ### 営業は我々が思っているよりずっと多様
 営業に苦手意識を感じる人は、自分がそうであったように勝手に営業のハードル上げています。こちらの記事では、営業に関するよくある勘違いについて解説しています。苦手意識を取り払って自分のスタイルを見つけることで営業は楽しいものになりますし、うまく営業することで営業自体も減らしていくことができます。
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/sales-mistake/" data-iframely-url="//cdn.iframe.ly/xivqw0Z?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
-### 営業が苦手でもやりやすいる営業術
+### 営業が苦手でもやりやすい営業術
 これまでに営業職での経験がないと、苦手意識を感じやすいスキルです。営業もスキルのひとつなので、練習を積めば得意になってきます。この記事では、初めてでも始めやすい営業の手法について紹介します。
 
-### 質の高いクライアントを獲得する営業戦略
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/sales-technique/" data-iframely-url="//cdn.iframe.ly/kMRmgMJ?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+
 
 ## ツールを上手に使う
 上記で解説した通り、ポートフォリオ、SNS、契約書や法人化、確定申告などは全て「スキル」と「クライアント」を支えるツールだと位置付けられます。フリーランスは、とりあえずポートフォリオと単価設定があれば始められます。これも、一発で質の高いものを作ることがオススメです。そうすれば、以後の変更を最小限に減らし、変更しても最小限の労力に抑えられます。また案件獲得後「また一緒に働きたい」と思ってもらえる工夫で、クライアントとは繋がり続けることができます。
 
 ### ポートフォリオ
-### 単価設定
 
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/portfolio/" data-iframely-url="//cdn.iframe.ly/OWZ64mO?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+
+### 単価設定
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/pricing/" data-iframely-url="//cdn.iframe.ly/rIfOpCo?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 ## 中級者以上向けの積み上げ
 フリーランスを開始するにあたって必要なのは以上です。もちろん、ツールは充実してるに越したことはありませんが、以下はフリーランスを開始するにおいては優先順位が低く、徐々に勉強していけばいいと思います。先に上記の優先順位が高いものの質を先にあげることをオススメします。
@@ -84,6 +91,10 @@ draft: false
 * 著作権
 * 確定申告
 * 節税
+
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/freelance-sns/" data-iframely-url="//cdn.iframe.ly/7iYCouV?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
 
 ## まとめ
 以上、「フリーランスの独立戦略」のご紹介でした！
