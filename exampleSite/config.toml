@@ -153,32 +153,12 @@ sidebar = [ "promotion", "about-me", "subscription", "categories", "recent-post"
 
 
 ############################# social site ########################
-[[params.social]]
-name = "facebook"
-icon = "fab fa-facebook" # Fontawesome Icons : https://fontawesome.com/icons
-link = "#"
-enable = false
 
 [[params.social]]
 name = "twitter"
 icon = "fab fa-twitter" # Fontawesome Icons : https://fontawesome.com/icons
-link = "#"
+link = "https://twitter.com/meeowmiya"
 
-[[params.social]]
-name = "linkedin"
-icon = "fab fa-linkedin-in" # Fontawesome Icons : https://fontawesome.com/icons
-link = "#"
-enable = false
-
-[[params.social]]
-name = "github"
-icon = "fab fa-github" # Fontawesome Icons : https://fontawesome.com/icons
-link = "#"
-
-[[params.social]]
-name = "youtube"
-icon = "fab fa-youtube" # Fontawesome Icons : https://fontawesome.com/icons
-link = "#"
 
 
 ################################### Japanese language #####################################
