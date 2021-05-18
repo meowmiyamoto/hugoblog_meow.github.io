@@ -197,7 +197,7 @@ url = "/tags/海外で働く"
 weight = 3
 
 [[Languages.ja.menu.main]]
-name = "考え方"
+name = "プロフィール"
 pre = "<i class='far fa-comment'></i>"
 url = "about-me"
 weight = 3
