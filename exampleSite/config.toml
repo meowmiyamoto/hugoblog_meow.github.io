@@ -7,7 +7,7 @@ paginate = "12"
 summaryLength = "20"
 DefaultContentLanguage = "ja"
 # google analytics
-googleAnalytics = "G-XK4PR4PGZL" # Ex: UA-123-45
+googleAnalytics = "272215959" # Ex: UA-123-45
 # disqus short name
 disqusShortname = "menglish-jp" # get your shortname form here : https://disqus.com
 # disable language

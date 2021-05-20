@@ -31,7 +31,7 @@ link:
   enable : true
   title : "関連リンク"
   image : "images/undraw/undraw_social_life.svg"
-  content : "**イラストポートフォリオサイト（英語）**<br><u>https://maomiyamoto.com/</u><br>
+  content : "**イラストポートフォリオサイト（英語）**<br><u>http://maomiyamoto.com/</u><br>
 <br>**Twitter**<br>
    <u>https://twitter.com/meeowmiya</u>"
 
