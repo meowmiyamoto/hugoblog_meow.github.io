@@ -22,7 +22,7 @@ profile:
   enable : true
   title : "自己紹介"
   image : "images/sample.jpg"
-  content : "当ブログにアクセスいただきありがとうございます。私はボストンを拠点にフリーランスイラストレーターをしており、アメリカ、カナダ、日本、ドイツ、中国など世界中から仕事を受注しています。<br><br>大阪出身で、関西の国立大学で生物学を学び、肺がんにおける分子生物学的メカニズムを研究していました。在学中に科学・医療の知識を持ってイラストを描く**メディカル・イラストレーション**に興味を持ち、2014年、渡米。アメリカの大学院にて修士号を取得し、Board of Certification of Medical Illustratorsからメディカルイラストレーターの世界公認資格を取得しています。<br><br>
+  content : "<br>当ブログにアクセスいただきありがとうございます。私はボストンを拠点にフリーランスイラストレーターをしており、アメリカ、カナダ、日本、ドイツ、中国など世界中から仕事を受注しています。<br><br>大阪出身で、関西の国立大学で生物学を学び、肺がんにおける分子生物学的メカニズムを研究していました。在学中に科学・医療の知識を持ってイラストを描く**メディカル・イラストレーション**に興味を持ち、2014年、渡米。アメリカの大学院にて修士号を取得し、Board of Certification of Medical Illustratorsからメディカルイラストレーターの世界公認資格を取得しています。<br><br>
 
 生物学的研究の経験を生かした3DCG、映像、イラストが得意で、「科学の面白さ、美しさ」を伝えるのが仕事です。学術雑誌の表紙やシェーマ、VCプレゼン資料や教科書イラストなどを手がけています。"
 
@@ -31,7 +31,7 @@ link:
   enable : true
   title : "関連リンク"
   image : "images/undraw/undraw_social_life.svg"
-  content : "**イラストポートフォリオサイト（英語）**<br><u>http://maomiyamoto.com/</u><br>
+  content : "**イラストポートフォリオサイト（英語）**<br><u>[http://maomiyamoto.com/](http://maomiyamoto.com/)</u><br>
 <br>**Twitter**<br>
    <u>https://twitter.com/meeowmiya</u>"
 
