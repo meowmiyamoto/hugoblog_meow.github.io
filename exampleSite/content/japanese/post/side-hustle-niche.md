@@ -1,7 +1,7 @@
 ---
 title: "フリーランサーとしての「専門性」をどこに置くか問題【フリーランス｜ニッチ戦略】"
-date: 2021-05-06
-lastmod: 2021-05-11
+date: 2021-05-02
+lastmod: 2021-05-03
 # post thumb
 images:
   - "images/blog/side-hustle-niche.jpg"
@@ -15,7 +15,7 @@ draft: false
 share: true
 ---
 
-こんにちは！めお(<u><a href="https://twitter.com/meeowmiya">@meeowmiya</a></u>)です。
+こんにちは！めお(<u><a href="https://twitter.com/meeowmiya" target="_blank">@meeowmiya</a></u>)です。
 
 {{< say-left >}}
 フリーランスではニッチ選びが大切って聞くけど、どんなニッチがいいのかな

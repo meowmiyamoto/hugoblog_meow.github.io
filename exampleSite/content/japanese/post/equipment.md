@@ -1,21 +1,21 @@
 ---
 title: "【厳選！】私のフリーランス職場環境を紹介します。"
-date: 2021-05-07
-lastmod: 2021-05-11
+date: 2021-05-05
+lastmod: 2021-05-07
 # post thumb
 images:
   - "images/blog/equipment.jpg"
 # description
 description: "フリーランス"
 # Taxonomies
-categories: ["フリーランス","支払い"]
+categories: ["フリーランス","おすすめ商品"]
 tags: ["フリーランス"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 share: true
 ---
 
-こんにちは！めお(<u><a href="https://twitter.com/meeowmiya">@meeowmiya</a></u>)です。
+こんにちは！めお(<u><a href="https://twitter.com/meeowmiya" target="_blank">@meeowmiya</a></u>)です。
 
 {{< say-left >}}
 フリーランスを始めるのに必要な機材は何かな？

@@ -8,12 +8,13 @@ images:
 # description
 description: "大学留学、留学、大学院留学、International Students Office, ISO, 留学生課、留学生オフィス"
 # Taxonomies
-categories: ["海外移住","アメリカ就活","海外フリーランス"]
+categories: ["海外移住","アメリカ就活"]
 tags: ["海外で働く", "フリーランス"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
-toc: true
+share: true
 ---
+こんにちは！めお(<u><a href="https://twitter.com/meeowmiya" target="_blank">@meeowmiya</a></u>)です。
 
 現在渡米5年半、社会人になって3年半。グリーンカードを取得しました。
 

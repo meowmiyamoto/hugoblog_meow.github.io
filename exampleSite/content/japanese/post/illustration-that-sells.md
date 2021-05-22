@@ -1,7 +1,7 @@
 ---
 title: "売れるイラストは「使いやすい9割、オリジナル1割」【フリーランス】"
-date: 2021-05-07
-lastmod: 2021-05-11
+date: 2021-05-04
+lastmod: 2021-05-08
 # post thumb
 images:
   - "images/blog/illustration-that-sells.jpg"
@@ -15,7 +15,7 @@ draft: false
 share: true
 ---
 
-こんにちは！めお(<u><a href="https://twitter.com/meeowmiya">@meeowmiya</a></u>)です。
+こんにちは！めお(<u><a href="https://twitter.com/meeowmiya" target="_blank">@meeowmiya</a></u>)です。
 
 {{< say-left >}}
 フリーランスとして求められている「売れるイラスト」って何？どう練習すればいいの？

@@ -31,9 +31,10 @@ link:
   enable : true
   title : "関連リンク"
   image : "images/undraw/undraw_social_life.svg"
-  content : "**イラストポートフォリオサイト（英語）**<br><u>[http://maomiyamoto.com/](http://maomiyamoto.com/)</u><br>
-<br>**Twitter**<br>
-   <u>https://twitter.com/meeowmiya</u>"
+  website: "**イラストポートフォリオサイト（英語）**"
+  websiteURL: "http://maomiyamoto.com/"
+  twitter: "**Twitter**"
+  twitterURL: "https://twitter.com/meeowmiya"
 
 # Youtube
 youtube:
@@ -64,3 +65,4 @@ partners:
 ボストン在住、フリーランスイラストレーター。
 
 世界公認資格を持ち、世界中のクライアントと仕事をするメディカル・イラストレーターです。当ブログでは主にメディア運営、情報発信をしています。
+

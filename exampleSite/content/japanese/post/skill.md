@@ -15,7 +15,7 @@ draft: false
 share: true
 ---
 
-こんにちは！めお(<u><a href="https://twitter.com/meeowmiya">@meeowmiya</a></u>)です。
+こんにちは！めお(<u><a href="https://twitter.com/meeowmiya" target="_blank">@meeowmiya</a></u>)です。
 
 {{< say-left >}}
 スキルを身に着けたいけど、達成までのイメージが沸かないな。うまくないから、やる気も出ないな

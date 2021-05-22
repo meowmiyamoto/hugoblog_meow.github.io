@@ -1,7 +1,7 @@
 ---
 title: "プロのイラストレーターが語る著作権【イラスト使用料】"
-date: 2021-05-06
-lastmod: 2021-05-11
+date: 2021-05-01
+lastmod: 2021-05-06
 # post thumb
 images:
   - "images/blog/copyright.jpg"
@@ -15,7 +15,7 @@ draft: false
 share: true
 ---
 
-こんにちは！めお(<u><a href="https://twitter.com/meeowmiya">@meeowmiya</a></u>)です。
+こんにちは！めお(<u><a href="https://twitter.com/meeowmiya" target="_blank">@meeowmiya</a></u>)です。
 
 {{< say-left >}}
 フリーランスでは著作権などの法律周りをどうすればいいんだろう。法律もよくわからないし、足元みられないか不安だな

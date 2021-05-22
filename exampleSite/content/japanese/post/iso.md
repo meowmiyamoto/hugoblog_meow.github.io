@@ -11,8 +11,9 @@ categories: ["海外留学","アメリカ就活"]
 tags: ["大学院留学"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
-toc: true
+share: true
 ---
+こんにちは！めお(<u><a href="https://twitter.com/meeowmiya" target="_blank">@meeowmiya</a></u>)です。
 
 就学中から卒業後の就活まで、留学生は「移民」であるが故に現地の学生とルールが違います。しかし学部や研究科、先生やスタッフたちは留学生に関するルールに明るくなく、「留学生オフィス（International students office, ISOなどとも言う）に相談してね」と言われることも多いです。留学生同士で話をしていると、留学生オフィスは学校によってフレンドリーだったり敵意があったりと色々で、気軽に相談してトラブルに巻き込まれる生徒は少なくありません。そのため、トラブルを防ぐために利用する前にいくつか注意点があります。また、既にトラブルに巻き込まれてしまった場合、取れる対策もいくつかあります。
 

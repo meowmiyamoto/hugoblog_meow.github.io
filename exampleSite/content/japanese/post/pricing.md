@@ -8,14 +8,15 @@ images:
 # description
 description: "フリーランス"
 # Taxonomies
-categories: ["フリーランス", "単価設定"]
+categories: ["フリーランス", "お金のこと", "イラストレーター"]
 tags: ["フリーランス"]
 type: "trending" # available type (epic, trending, popular, or regular)
 draft: false
+share: true
 ---
 
 
-こんにちは！めお(<u><a href="https://twitter.com/meeowmiya">@meeowmiya</a></u>)です。
+こんにちは！めお(<u><a href="https://twitter.com/meeowmiya" target="_blank">@meeowmiya</a></u>)です。
 
 {{< say-left >}}
 フリーランスの単価ってどうやって決めたらいいの？

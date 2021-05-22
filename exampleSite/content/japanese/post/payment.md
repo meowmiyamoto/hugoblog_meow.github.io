@@ -8,14 +8,14 @@ images:
 # description
 description: "フリーランス"
 # Taxonomies
-categories: ["フリーランス","支払い"]
+categories: ["フリーランス","お金のこと","イラストレーター"]
 tags: ["フリーランス"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 share: true
 ---
 
-こんにちは！めお(<u><a href="https://twitter.com/meeowmiya">@meeowmiya</a></u>)です。
+こんにちは！めお(<u><a href="https://twitter.com/meeowmiya" target="_blank">@meeowmiya</a></u>)です。
 
 {{< say-left >}}
 フリーランスで金銭トラブルについてよく聞くけど、私は大丈夫かな。何か防げる方法はないかな

@@ -1,7 +1,7 @@
 ---
 title: "副業を始めたい人に「完全デジタルな業種」をオススメする３つの理由【フリーランス｜ノマド】"
-date: 2021-05-09
-lastmod: 2021-05-10
+date: 2021-05-12
+lastmod: 2021-05-15
 # post thumb
 images:
   - "images/blog/side-hustle-digital.jpg"
@@ -15,7 +15,7 @@ draft: false
 share: true
 ---
 
-こんにちは！めお(<u><a href="https://twitter.com/meeowmiya">@meeowmiya</a></u>)です。
+こんにちは！めお(<u><a href="https://twitter.com/meeowmiya" target="_blank">@meeowmiya</a></u>)です。
 
 {{< say-left >}}
 副業を始めたいけど、これと言って得意なものや、やりたいこともない。何か良い指標はないかな

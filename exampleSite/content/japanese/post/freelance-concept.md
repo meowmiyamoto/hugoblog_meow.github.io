@@ -8,14 +8,15 @@ images:
 # description
 description: "フリーランス"
 # Taxonomies
-categories: ["フリーランス", "イラストレーター"]
+categories: ["フリーランス", "イラスト", "イラストレーター"]
 tags: ["フリーランス"]
 type: "trending" # available type (epic, trending, popular, or regular)
 draft: false
+share: true
 ---
 
 
-こんにちは！めお(<u><a href="https://twitter.com/meeowmiya">@meeowmiya</a></u>)です。
+こんにちは！めお(<u><a href="https://twitter.com/meeowmiya" target="_blank">@meeowmiya</a></u>)です。
 
 {{< say-left >}}
 これからフリーランスを頑張りたいけど、何をやればいいのかまったく分からないな

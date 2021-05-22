@@ -69,7 +69,10 @@
     <div class="row justify-content-around align-items-center">
       <div class="col-lg-5 col-md-6 mb-4 mb-md-0">
         <h2 class="mb-4">{{.title | markdownify}}</h2>
-        <p>{{.content | markdownify}}</p>
+        <p>{{.website | markdownify}}<br>
+        <u><a href="{{.websiteURL | safeURL}}" target="_blank">{{.websiteURL | markdownify}}</a></u></p>
+        <p>{{.twitter | markdownify}}<br>
+        <u><a href="{{.twitterURL | safeURL}}" target="_blank">{{.twitterURL | markdownify}}</a></u></p>
       </div>
     <div class="col-lg-4 col-md-6">
         <img src="{{.image| absURL}}" class="img-fluid" loading="lazy">

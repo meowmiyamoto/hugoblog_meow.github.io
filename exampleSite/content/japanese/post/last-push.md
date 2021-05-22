@@ -1,7 +1,7 @@
 ---
 title: "フリーランサーへの「最後に一押し」になった3つの言葉"
-date: 2021-05-08
-lastmod: 2021-05-10
+date: 2021-05-10
+lastmod: 2021-05-12
 edited: 
 # post thumb
 images:
@@ -16,7 +16,7 @@ draft: false
 share: true
 ---
 
-こんにちは！めお(<u><a href="https://twitter.com/meeowmiya">@meeowmiya</a></u>)です。
+こんにちは！めお(<u><a href="https://twitter.com/meeowmiya" target="_blank">@meeowmiya</a></u>)です。
 
 {{< say-left >}}
 フリーランスに向けて準備してるのに、フリーランサーになれそうな気配が一切ない。こんなのでいいの？

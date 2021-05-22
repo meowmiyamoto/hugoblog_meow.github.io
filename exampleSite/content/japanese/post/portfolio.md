@@ -1,21 +1,21 @@
 ---
 title: "2年以上放置しても仕事が途切れないポートフォリオWebサイト【フリーランス｜ポートフォリオ】"
-date: 2021-05-03
-lastmod: 2021-05-11
+date: 2021-04-25
+lastmod: 2021-04-30
 # post thumb
 images:
   - "images/blog/portfolio.jpg"
 # description
 description: "フリーランス"
 # Taxonomies
-categories: ["フリーランス","イラスト","ポートフォリオ"]
+categories: ["フリーランス","イラスト","ポートフォリオ","イラストレーター"]
 tags: ["フリーランス"]
 type: "popular" # available type (epic, trending, popular, or regular)
 draft: false
 share: true
 ---
 
-こんにちは！めお(<u><a href="https://twitter.com/meeowmiya">@meeowmiya</a></u>)です。
+こんにちは！めお(<u><a href="https://twitter.com/meeowmiya" target="_blank">@meeowmiya</a></u>)です。
 
 {{< say-left >}}
 フリーランスのポートフォリオの作り方がわからないよ。更新し続けられるか不安だな...

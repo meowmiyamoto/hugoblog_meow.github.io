@@ -1,6 +1,6 @@
 ---
 title: "SNSをしなくてもフリーランスが可能な5つの理由【プロが教えます｜SNS活用】"
-date: 2021-05-04
+date: 2021-04-22
 lastmod: 2021-05-11
 # post thumb
 images:
@@ -15,7 +15,7 @@ draft: false
 share: true
 ---
 
-こんにちは！めお(<u><a href="https://twitter.com/meeowmiya">@meeowmiya</a></u>)です。
+こんにちは！めお(<u><a href="https://twitter.com/meeowmiya" target="_blank">@meeowmiya</a></u>)です。
 
 {{< say-left >}}
 フリーランスするならSNSもしなきゃダメかな

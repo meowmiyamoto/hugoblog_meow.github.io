@@ -1,6 +1,7 @@
 ---
 title: "営業はもっと自由で多様！よくある「営業」の勘違い【駆け出し｜独立｜営業苦手｜フリーランス｜売り込み】"
-date: 2021-04-12T15:40:24+06:00
+date: 2021-04-13
+lastmod: 2021-05-01
 edited: 
 # post thumb
 images:
@@ -12,9 +13,10 @@ categories: ["フリーランス","営業"]
 tags: ["フリーランス"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
+share: true
 ---
 
-こんにちは！めお(<u><a href="https://twitter.com/meeowmiya">@meeowmiya</a></u>)です。
+こんにちは！めお(<u><a href="https://twitter.com/meeowmiya" target="_blank">@meeowmiya</a></u>)です。
 
 {{< say-left >}}
 フリーランスを頑張りたいけど、営業って苦手だな、できるかな

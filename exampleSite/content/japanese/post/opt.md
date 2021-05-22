@@ -12,15 +12,12 @@ categories: ["海外留学","アメリカ就活"]
 tags: ["大学院留学", "ビザ"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
-toc: true
+share: true
 ---
 
-この記事では **OPT (Optional Practical Training)** の手続きやルールについて説明します。
+こんにちは！めお(<u><a href="https://twitter.com/meeowmiya" target="_blank">@meeowmiya</a></u>)です。
 
-
-こんにちは！めおです。
-
-アメリカ大学院留学を経て現地企業に就職し、今はグリーンカードを取得してフリーランスとして働いています。
+アメリカ大学院留学を経て現地企業に就職し、今はグリーンカードを取得してフリーランスとして働いています。この記事では **OPT (Optional Practical Training)** の手続きやルールについて説明します。
 
 学生ビザ（F-1)を使ってアメリカに留学し、就学しているプログラムを終了した後はOPTという、アメリカで働くことができるF-1ビザのボーナスステージがあります。私もアメリカで社会人として残留するための大切な第一ステップとしてOPTを経験しました。この記事では、自身の経験を経て学んだ、知っておくべき情報や気をつけるべきポイントについてわかりやすく解説します。
 

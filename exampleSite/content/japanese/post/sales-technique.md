@@ -1,7 +1,7 @@
 ---
 title: "「ぜひあなたに」と絵の仕事を依頼される営業術【営業苦手でもできる｜フリーランス｜イラストレーター】"
 lastmod: 2021-05-09
-date: 2021-05-03 
+date: 2021-04-23 
 # post thumb
 images:
   - "images/blog/sales-technique.jpg"
@@ -15,7 +15,7 @@ draft: false
 share: true
 ---
 
-こんにちは！めお(<u><a href="https://twitter.com/meeowmiya">@meeowmiya</a></u>)です。
+こんにちは！めお(<u><a href="https://twitter.com/meeowmiya" target="_blank">@meeowmiya</a></u>)です。
 
 {{< say-left >}}
 営業しても仕事に繋がらないな。何か間違ってるのかな

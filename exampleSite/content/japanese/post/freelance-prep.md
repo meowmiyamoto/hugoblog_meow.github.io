@@ -1,6 +1,6 @@
 ---
 title: "いつかフリーランスしたい人が会社員時代やっておくといい10のこと【副業｜独立】"
-date: 2021-05-02
+date: 2021-04-20
 lastmod: 2021-05-11
 # post thumb
 images:
@@ -15,7 +15,7 @@ draft: false
 share: true
 ---
 
-こんにちは！めお(<u><a href="https://twitter.com/meeowmiya">@meeowmiya</a></u>)です。
+こんにちは！めお(<u><a href="https://twitter.com/meeowmiya" target="_blank">@meeowmiya</a></u>)です。
 
 {{< say-left >}}
 フリーランスで独立したいと思ってるけど、どういう準備をすればいいんだろう

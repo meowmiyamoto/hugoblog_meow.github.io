@@ -52,7 +52,7 @@
       <div class="col-md-5 text-md-right text-center mb-4">
         <ul class="list-inline footer-list mb-0">
           {{ range site.Params.social }}
-          <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+          <li class="list-inline-item"><a href="{{ .link | safeURL }}" target="_blank"><i class="{{ .icon }}"></i></a></li>
           {{ end }}
         </ul>
       </div>

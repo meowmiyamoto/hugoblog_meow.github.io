@@ -12,8 +12,9 @@ categories: ["海外移住","アメリカ就活"]
 tags: ["海外で働く", "フリーランス"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
-toc: true
+share: true
 ---
+こんにちは！めお(<u><a href="https://twitter.com/meeowmiya" target="_blank">@meeowmiya</a></u>)です。
 
 学生ビザ（F-1)でのアメリカに留学を修了後は OPTというシステムを使ってアメリカで働くことができます。更にその中でも、STEMと呼ばれる特定の専攻を修了している場合は、STEM-OPTというアップグレードの対象になります。STEMというとScience, Technology, Engineering, Mathということで、「理系のためのOPT」のように聞こえますが、文系であってもSTEM-OPTが申請可能だったり、逆に理系専攻でもSTEM-OPTを申請できないケースもあります。この記事ではSTEM-OPTの概要にふれ、主に自分の専攻がSTEM-OPTの対象かどうかの評価方法を解説します。
 

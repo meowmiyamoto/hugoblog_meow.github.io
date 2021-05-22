@@ -1,7 +1,7 @@
 ---
 title: "フリーランスは「toB案件」がオススメな３つの理由"
-date: 2021-05-09
-lastmod: 2021-05-10
+date: 2021-05-15
+lastmod: 2021-05-20
 edited: 
 # post thumb
 images:
@@ -16,7 +16,7 @@ draft: false
 share: true
 ---
 
-こんにちは！めお(<u><a href="https://twitter.com/meeowmiya">@meeowmiya</a></u>)です。
+こんにちは！めお(<u><a href="https://twitter.com/meeowmiya" target="_blank">@meeowmiya</a></u>)です。
 
 {{< say-left >}}
 よく聞く「toB案件」ってなに？何が良いの？
