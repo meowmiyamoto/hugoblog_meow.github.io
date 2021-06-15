@@ -9,7 +9,7 @@ images:
 description: "大学留学、留学、大学院留学、International Students Office, ISO, 留学生課、留学生オフィス"
 # Taxonomies
 categories: ["海外留学","アメリカ就活"]
-tags: ["大学院留学", "ビザ"]
+tags: ["海外で働く", "ビザ"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 share: true
