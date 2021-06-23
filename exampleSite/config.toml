@@ -9,7 +9,7 @@ DefaultContentLanguage = "ja"
 # google analytics
 googleAnalytics = "UA-74441948-2" # Ex: UA-123-45
 # disqus short name
-disqusShortname = "menglish-jp" # get your shortname form here : https://disqus.com
+disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # desable language from here
 
