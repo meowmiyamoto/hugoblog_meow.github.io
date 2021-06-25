@@ -80,10 +80,16 @@ menu_align = "center" # available option (left, right, or center )
 AmazonID = "halflinger-22"
 # Meta data
 author = "Mao Miyamoto"
-description = "This is meta description"
+title = "Menglish（みんぐりっしゅ）"
+description = "海外在住イラストレーターmeow(めお)のブログ、「みんぐりっしゅ」"
+images = ["../../images/backgrounds/header-bg.png.jpg"]
 # contact form action
 contact_form_action = "https://formspree.io/f/xeqvgnzk" # contact form works with https://formspree.io
 # Go to https://formspree.io, and create an account by click on signup button. Now verify your email address by click on varify button in the mail you got in your inbox. form action will looks like this contact_form_action = "https://formspree.io/your.name@email.com/" 
+
+
+[taxonomies]
+  series = "series"
 
 # search
 search = true
