@@ -15,7 +15,7 @@
 {{ end }}
 
 {{ with .Params.image }}
-<meta property="twitter:image" content="https://menglish.jp&amp;{{ . | absURL }}" />
+<meta property="twitter:image" content="{{ . | absURL }}" />
 {{ end }}
 
 {{ template "_internal/opengraph.html" . }}
