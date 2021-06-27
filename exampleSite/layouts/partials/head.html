@@ -15,9 +15,12 @@
 {{ end }}
 
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:site" content="@nytimesbits" />
-<meta name="twitter:creator" content="@nickbilton" />
-<meta name="twitter:image:src" content="/images/blog/english-reading-study.jpg" />
+<meta name="twitter:site" content="@meeowmiya" />
+<meta name="twitter:creator" content="@meeowmiya" />
+
+{{ with .Params.image }}
+<meta property="twitter:image" content="{{ . | absURL }}" />
+{{ end }}
 
 {{ template "_internal/opengraph.html" . }}
 {{ template "_internal/google_analytics_async.html" . }}
