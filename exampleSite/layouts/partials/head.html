@@ -12,16 +12,13 @@
 
 {{ with .Params.image }}
 <meta property="og:image" content="{{ . | absURL }}" />
+<meta name="twitter:image" content="{{ . | absURL }}" />
 {{ end }}
 
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:site" content="@meeowmiya" />
-<meta name="twitter:creator" content="@meeowmiya" />
-
 {{ with .Params.image }}
-<meta property="twitter:image" content="{{ . | absURL }}" />
 {{ end }}
 
 {{ template "_internal/opengraph.html" . }}
+{{ template "_internal/twitter_cards.html" . }}
 {{ template "_internal/google_analytics_async.html" . }}
 {{ site.Params.custom_script | safeHTML }}
