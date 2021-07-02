@@ -8,8 +8,8 @@ images:
 # description
 description: "在米7年、英語ネイティブレベルの私が今まで行ってきたライティング上達方法を紹介します"
 # Taxonomies
-categories: ["英語学習","ライティング", "イラストレーター"]
-tags: ["英語"]
+categories: ["英語独学","ライティング", "イラストレーター"]
+tags: ["英語独学"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 share: true

@@ -7,8 +7,8 @@ images: ["images/blog/english-reading-study.jpg"]
 # description
 description: "在米7年、英語ネイティブレベルの私が今まで行ってきたリーディング上達方法を紹介します"
 # Taxonomies
-categories: ["英語学習","リーディング"]
-tags: ["英語"]
+categories: ["英語独学","リーディング"]
+tags: ["英語独学"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 share: true

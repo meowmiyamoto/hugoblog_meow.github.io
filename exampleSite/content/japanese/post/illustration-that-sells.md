@@ -9,7 +9,7 @@ images:
 description: "フリーランス"
 # Taxonomies
 categories: ["フリーランス","イラスト"]
-tags: ["フリーランス"]
+tags: ["フリーランス", "イラスト上達"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 share: true
