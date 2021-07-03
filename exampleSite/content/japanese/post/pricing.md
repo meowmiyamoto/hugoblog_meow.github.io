@@ -10,7 +10,7 @@ description: "フリーランス"
 # Taxonomies
 categories: ["フリーランス", "お金のこと", "イラストレーター"]
 tags: ["フリーランス"]
-type: "trending" # available type (epic, trending, popular, or regular)
+type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 share: true
 ---
