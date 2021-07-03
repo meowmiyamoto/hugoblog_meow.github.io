@@ -40,6 +40,15 @@ share: true
 
 ## 出願の基本戦略
 
+メディカルイラストレーションについて知りたい方は、まずこちらの記事をご一読ください。
+
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/medical-illustration-concept/" data-iframely-url="//cdn.iframe.ly/W1XCkS0?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script><br>
+👆メディカルイラストレーターとは？<br><br>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/medical-illustration-tier/" data-iframely-url="//cdn.iframe.ly/0tUQpsS?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+👆メディカルイラストレーターになるには？
+{{< /notice >}}
+
 アメリカでの受験は日本と異なり、募集要項さえ満たしていれば何校でも受験可能です。また同じ専攻であれば各校の募集要項は大まかには同じです。そのため、全校の募集要項を満たすように準備し、全校出願することが一番理想的です。
 
 基本的に入試プロセスは二段階あります。
@@ -48,6 +57,11 @@ share: true
 2. キャンパス訪問、面接
 
 準備としては前半にほとんどのエネルギーを使い、キャンパス訪問と面接でマッチングをみるといった印象です。
+
+メディカルイラストレーションが学べる学校についてはこちらでまとめています。
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/medical-illustration-school/" data-iframely-url="//cdn.iframe.ly/pTt5ZKU?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
 
 それでは募集要項について見ていきましょう。
 
@@ -76,14 +90,25 @@ share: true
 
 かなり難易度の高い条件を戦略的にクリアし出願に持ち込むために、実際にプログラムを卒業した方に直接話を伺い、各校の入学課(Admission office)と出願前から連絡をとることが不可欠です。このステップは受験過程において一番大切だと思います。こちらの記事に詳しくまとめましたのでご一読ください。
 
-## 科学の必須取得単位取得について
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/medical-illustration-contact/" data-iframely-url="//cdn.iframe.ly/I27m3Cv?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
+
+## 必須取得単位取得について
 
 学部での専攻は問われませんが、理系分野の基礎単位を取得していることが基本です。アメリカやカナダでは欲しい単位だけ取得するために一時的に大学が開講するサマースクールに通うことができますが、日本では理系学部に通っていないとなかなか難しいです。理系単位へのアクセスがない方でも工夫次第でほとんどの単位を取得できます。必須単位の取得はこちらの記事で詳しくまとめています。
+
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/medical-illustration-credit/" data-iframely-url="//cdn.iframe.ly/252MeGY?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
 
 ## ポートフォリオについて
 
 大学２年でメディカルイラストレーターを志した段階ではイラストについては全くの初心者でした。プロとしてのスタートラインに立つために私が通ったスクールは以下にまとめています。
 
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/illustration-school/" data-iframely-url="//cdn.iframe.ly/M8clIPV?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
 
 これらのスクールでの課題をまとめることで出願用ポートフォリオを制作しました。ポートフォリオ完成まで、合計4年を費やしました。
 
@@ -97,7 +122,11 @@ share: true
 
 GRE（Graduate Record Examination）とはアメリカ大学院におけるセンター試験の役割を果たし、基礎学力をみられます。General Test（教養科目・数学、英語）とSubject Test（専門科目）の２種類があり、General Testのスコアのみが募集要項です。TOEFLは留学生としての英語スキルの証明に使われます。テストスコアの優先度は低く、大学院によってはGREは必須ではありませんが、足切り対策としてしっかり準備しましょう。スコアには1年ほど有効期限があるため、1-2ヶ月の短期間で、時間に余裕があるタイミングで通勤時間などで勉強してしっかりスコアを取り、チェックをつけることがオススメです。どちらも同じ「英語の試験」なので同時期に受験し、勉強期間をまとめることをオススメします。
 
-<!-- GRE、TOEFL対策についてはこちらの記事にまとめました-->
+GRE、TOEFL対策についてはこちらの記事にまとめました。
+
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/toefl-gre/" data-iframely-url="//cdn.iframe.ly/BHTKkMc?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
 
 ## 志望理由書（Personal Statement）について
 
@@ -146,4 +175,4 @@ SoPについての理解を深めるための役立ちリンクを以下にま�
 
 ## まとめ
 
-以上「メディカルイラストレーション大学院受験のロードマップ」でした！
+以上「メディカルイラストレーション大学院受験のロードマップ」でした！人口は少ないですが、だからこそ人生をかけられる魅力的なキャリアパスです。イラストレーターとしての選択肢として、参考になればと思います。
