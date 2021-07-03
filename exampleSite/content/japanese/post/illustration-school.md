@@ -1,10 +1,10 @@
 ---
-title: "イラストレーターとしてスタートラインに立つために私が通った学校【世界で活躍するプロが教えます】"
+title: "イラストレーターになるために私が通った学校【スクール選び | 世界で活躍するプロが教えます】"
 date: 2021-06-28
 lastmod: 2021-06-28
 # post thumb
 images:
-  - "images/blog/write-english-concept.jpg"
+  - "images/blog/illustration-school.jpg"
 # description
 description: "世界で活躍するプロが今まで通ってきたスクールと良いスクールの選び方を教えます"
 # Taxonomies

@@ -4,7 +4,7 @@ date: 2021-06-26
 lastmod: 2021-06-26
 # post thumb
 images:
-  - "images/blog/write-english-concept.jpg"
+  - "images/blog/medical-illustration-tier.jpg"
 # description
 description: "メディカルイラストレーターになるには？プロが教えます！"
 # Taxonomies

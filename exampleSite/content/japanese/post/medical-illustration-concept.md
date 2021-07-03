@@ -4,7 +4,7 @@ date: 2021-06-25
 lastmod: 2021-06-25
 # post thumb
 images:
-  - "images/blog/write-english-concept.jpg"
+  - "images/blog/medical-illustration-concept.jpg"
 # description
 description: "プロのメディカルイラストレーターによる職業紹介"
 # Taxonomies
@@ -18,7 +18,7 @@ share: true
 こんにちは！めお(<u><a href="https://twitter.com/meeowmiya" target="_blank">@meeowmiya</a></u>)です。アメリカでフリーランスメディカルイラストレーターとして活動しています。本記事では
 
 {{< say-left >}}
-メディカルイラストレーターってなに？普通のイラストレーターとどうちがうの？	
+メディカルイラストレーターってなに？普通のイラストレーターとどう違うの？	
 {{< /say-left >}}
 
 この記事を読むことで得られることは以下の通りです。
@@ -29,7 +29,7 @@ share: true
 
 私の略歴は以下の通りです。
 
-> **宮本麻央（みやもと　まお）**<br>メディカルイラストレーター歴5年。神戸大学理学研究科生物学専攻修了、University of Illinois at Chicagoメディカルイラストレーションプログラム修了。フリーランスとして大学・大学病院・研究機関・製薬企業のイラスト・映像制作、情報設計やコミュニケーションデザインを行う。アメリカ、日本、カナダ、ドイツ、中国など世界を相手に活躍。
+> **宮本麻央（みやもと　まお）**<br>メディカルイラストレーター歴5年。神戸大学大学院理学研究科生物学専攻修了、University of Illinois at Chicagoメディカルイラストレーションプログラム修了。フリーランスとして大学・大学病院・研究機関・製薬企業のイラスト・映像制作、情報設計やコミュニケーションデザインを行う。アメリカ、日本、カナダ、ドイツ、中国など世界を相手に活躍。
 
 <a href="maomiyamoto.com"><u>ポートフォリオはこちらから</u></a>
 
@@ -37,8 +37,8 @@ share: true
 
 <br> | 海外 | 日本
 --- | --- | ---
-研究機関| ハーバード大学<br>マサチューセッツ工科大学<br>スタンフォード大学<br>エモリー大学<br>カナダ国立研究機関<br>ソウル大学病院など | 東京大学<br>理化学研究所<br>北海道大学<br>東北大学<br>神戸大学など
-企業 | Johnson and Johnson<br> Jassen<br> Astra Zeneca<br> GSK<br> Boehringer Ingelheimなど | Amanaなど
+研究機関| ハーバード大学<br>マサチューセッツ工科大学<br>スタンフォード大学<br>エモリー大学<br>カナダ国立研究機構<br>ソウル大学病院など | 東京大学<br>理化学研究所<br>北海道大学<br>東北大学<br>神戸大学など
+企業 | Johnson and Johnson<br> Jassen<br> Astra Zeneca<br> GSK<br>Boehringer Ingelheimなど | Amanaなど
 
 
 

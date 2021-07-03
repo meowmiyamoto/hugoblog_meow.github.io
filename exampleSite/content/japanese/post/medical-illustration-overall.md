@@ -4,7 +4,7 @@ date: 2021-07-02
 lastmod: 2021-07-02
 # post thumb
 images:
-  - "images/blog/write-english-concept.jpg"
+  - "images/blog/medical-illustration-overall.jpg"
 # description
 description: "メディカルイラストレーション修士プログラム合格の戦略を卒業生が教えます！"
 # Taxonomies

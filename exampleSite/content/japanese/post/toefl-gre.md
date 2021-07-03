@@ -4,7 +4,7 @@ date: 2021-07-01
 lastmod: 2021-07-01
 # post thumb
 images:
-  - "images/blog/write-english-concept.jpg"
+  - "images/blog/toefl-gre.jpg"
 # description
 description: "海外大学院合格者が行ったTOEFL、GRE学習法を紹介します"
 # Taxonomies
@@ -81,7 +81,7 @@ GREはVerbal、Quantitativeにおいて最低点130点、最高点170点とい�
 
 ### Verbal
 
-三科目の中で最難関で、とにかく<span class="keiko-red">**英単語の引き出しを増やすことに注力するべき**</span>です。一方で日本語でのGRE対策教材はかなり少なく、残念ながらクオリティもそこそこです。参考までに、私が利用した教材を紹介します。
+三科目の中で最難関で、とにかく<span class="keiko-red">**英単語の引き出しを増やすことに注力するべき**</span>です。日本語でのGRE対策教材はかなり少なく、ぶっちゃけクオリティも低いので英英で勉強することをオススメします。参考までに、私が利用した日本語教材を紹介します。
 
 {{% amazon 
  itemId="4757420331"
@@ -94,7 +94,7 @@ GREはVerbal、Quantitativeにおいて最低点130点、最高点170点とい�
 
 GREの出題単語はかなり難解なので<span class="keiko-red">**TOEFLや受験対策用の教材、ましてやTOEICの単語帳では全く勉強になりません。**</span>この点は注意してください。
 
-また、英英になりますが、こちらのFlash Cardも参考にしました。<span class="keiko-red">**移動中やちょっとした空き時間でも勉強できるところがオススメ**</span>です。
+主な教材としてｈこちらのFlash Cardを参考にしました。<span class="keiko-red">**移動中やちょっとした空き時間でも勉強できるところがオススメ**</span>です。
 
 {{% amazon 
  itemId="1506249728"
@@ -104,7 +104,7 @@ GREの出題単語はかなり難解なので<span class="keiko-red">**TOEFLや�
  imageUrl="https://images-na.ssl-images-amazon.com/images/I/41B0kqZUwbL._SY478_BO1,204,203,200_.jpg"
 %}}
 
-<br>GRE公式の練習問題集はこちらから👇
+<br>あと練習問題もひたすら解きました。GRE公式の練習問題集が一番オススメです👇
 
 {{% amazon 
  itemId="9781259862410"

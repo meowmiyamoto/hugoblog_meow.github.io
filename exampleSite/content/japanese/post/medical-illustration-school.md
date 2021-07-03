@@ -4,7 +4,7 @@ date: 2021-06-27
 lastmod: 2021-06-27
 # post thumb
 images:
-  - "images/blog/write-english-concept.jpg"
+  - "images/blog/medical-illustration-school.jpg"
 # description
 description: "メディカルイラストレーションを学べる学校ってどこ？卒業生が教えます！"
 # Taxonomies
@@ -35,7 +35,7 @@ share: true
 
 ## メディカルイラストレーターとしてのオススメのキャリアパス
 
-私は日本で生物学の修士号をとり、アメリカのメディカルイラストレーションプログラムにて修士号を取得しました。通ったUniversity of Illinois Chicago (UIC)です（各校の特色については後述します）。UICは北米メディカルイラストレーター学会の公認プログラムのひとつです。私のとったパスというバイアスはありますが、メディカルイラストレーションを学ぶのであれば以下をオススメします。
+私は日本で生物学の修士号をとり、アメリカのメディカルイラストレーションプログラムにて修士号を取得しました。通ったのはUniversity of Illinois Chicago (UIC)です（各校の特色については後述します）。UICは北米メディカルイラストレーター学会の公認プログラムのひとつです。私のとったパスというバイアスはありますが、メディカルイラストレーションを学ぶのであれば以下をオススメします。
 
 1. アメリカ
 2. 学部では科学専攻し、修士でメディカルイラストレーション
@@ -57,10 +57,11 @@ share: true
 
 ## 北アメリカでメディカルイラストレーションを学べる大学院（公式）
 
-北アメリカには<a href="https://ami.org/" target="_blank"><u>Association of Medical Illustrators (AMI)</u></a>というメディカルイラストレーター学会があり、以下の四校を公式プログラムとして認めています。
+北アメリカには<a href="https://ami.org/" target="_blank"><u>Association of Medical Illustrators (AMI)</u></a>というメディカルイラストレーター学会があり、以下の四校を公式プログラムとして認めています。メディカルイラストレーション分野で一番権威を持っているのはこちらの学会です。キャリア形成においては一番信頼のおけるソースです。
 
-### <a href="https://ahs.uic.edu/biomedical-health-information-sciences/admissions-and-programs/ms-in-biomedical-visualization/"><u>University of Illinois at Chicago</u></a> (イリノイ大学シカゴ校・UIC)
+### University of Illinois at Chicago (イリノイ大学シカゴ校・UIC)
 
+> <a href="https://ahs.uic.edu/biomedical-health-information-sciences/admissions-and-programs/ms-in-biomedical-visualization/"><u>ホームページはこちら</u></a>
 
 場所 | アメリカ・イリノイ州シカゴ
 --- | --- 
@@ -71,8 +72,9 @@ share: true
 
 州立大学で、学費が圧倒的に安いです（アメリカの学費は日本の十倍はあるため、学費が低いのは大きいです）。イラストも学習できますが、<span class="keiko-red">**3Dやアニメーション、ゲームエンジンなどに力を入れているプログラム**</span>です。学生の数が多いため、社会人になっても支え合える同期にたくさん出会えるのも特徴です。
 
-### <a href="https://medicalart.johnshopkins.edu/"> <u> Johns Hopkins University</u></a> (ジョンズホプキンス大学)
+### Johns Hopkins University (ジョンズホプキンス大学)
 
+> <a href="https://medicalart.johnshopkins.edu/"> <u> ホームページはこちら</u></a>
 
 場所 | アメリカ・メリーランド州ボルチモア
 --- | --- 
@@ -86,6 +88,8 @@ share: true
 ### Toronto University (トロント大学)
 
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://bmc.med.utoronto.ca" data-iframely-url="//cdn.iframe.ly/HWX3Wfj?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+
+ホームページはこちら
 <br>
 
 場所 | カナダ・トロント
@@ -97,8 +101,9 @@ share: true
 
 北アメリカでは唯一カナダにあるプログラムです。<span class="keiko-red">**解剖学だけに限らず、より網羅的に科学（特に分子生物学）に力を入れています。**</span>UICと同じくいわゆる「王道メディカルイラストレーション」よりは3Dやアニメーションなどに力を入れています。 カナダ人をできるだけ入れる目的のため、日本・アメリカに関わらず留学生にとっては一番入りにくい学校の印象を受けました。
 
-### <a href="https://www.augusta.edu/alliedhealth/medicalillustration/"><u>Augusta University</u></a>（オーガスタ大学)
+### Augusta University（オーガスタ大学)
 
+> <a href="https://www.augusta.edu/alliedhealth/medicalillustration/"><u>ホームページはこちら</u></a>
 場所 | アメリカ・ジョージア州オーガスタ
 --- | --- 
 一クラスの人数  |   6人
