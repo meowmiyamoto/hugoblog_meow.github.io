@@ -15,9 +15,11 @@ draft: false
 share: true
 ---
 
-こんにちは！めお(<u><a href="https://twitter.com/meeowmiya" target="_blank">@meeowmiya</a></u>)です。です。アメリカでフリーランスイラストレーターとして活動しています。本記事では、
+こんにちは！めお(<u><a href="https://twitter.com/meeowmiya" target="_blank">@meeowmiya</a></u>)です。アメリカでフリーランスイラストレーターとして活動しています。本記事では、
 
+{{< say-left >}}
 このままだと日本やばいから何かあったら海外移住したい。海外移住って、逃げ切り戦略として実際どうなの？
+{{< /say-left >}}
 
 という疑問にお答えし、実際に海外在住の私が思う「海外移住に必要なマインドセット」について解説します。この記事を読むことで得られることは以下の通りです。
 
