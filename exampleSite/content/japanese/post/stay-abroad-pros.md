@@ -80,6 +80,9 @@ share: true
 ## ③日本だけでやっていくのはキツイ
 
 人生100年時代を考えると、日本だけでやっていくことにはまだまだ不安があります。特にデザイン・イラスト分野では<span class="keiko-red">**「海外で実績積んで帰国」という選択肢がまだまだ通用しそうですが、逆は相当難しいと感じてます。**</span>このあたりは👇の記事で詳しく書いているので参考にして頂ければと思います。
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/career-abroad-pros/" data-iframely-url="//cdn.iframe.ly/NMV6rf0?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
 
 ## ④時差とコミュニケーションラグ
 
