@@ -8,7 +8,7 @@ images:
 # description
 description: "フリーランス"
 # Taxonomies
-categories: ["フリーランス","ニッチ戦略"]
+categories: ["フリーランス","キャリア戦略","副業"]
 tags: ["フリーランス"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
