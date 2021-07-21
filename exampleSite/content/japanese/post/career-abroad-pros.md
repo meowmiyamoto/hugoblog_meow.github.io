@@ -74,7 +74,11 @@ share: true
 
 日本文化圏内ではなく「世界で戦う」上では👆のような物が揃って初めてスタート地点に立てます。<span class="keiko-red">**英語で商談ができない、就労するためのビザがない、銀行口座がない時点で、いくらスキルがあっても「継続的に仕事する」ことはとても難しいです。**</span>これらを積み立てるには時間も労力もかかります。そのため、できるだけ若くて体力もあるうちに海外で挑戦することはとても大切です。
 
-<!-- ちなみに「何かあったら海外移住すればいい」のような、海外移住を「国外逃亡」と考える人ほど海外移住で失敗します。詳しくは👇の記事で書いています。-->
+ちなみに「何かあったら海外移住すればいい」のような、海外移住を「国外逃亡」と考える人ほど海外移住で失敗します。詳しくは👇の記事で書いています
+
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/living-abroad-fail/" data-iframely-url="//cdn.iframe.ly/KtdMinj?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
 
 ### 大学卒でも「低学歴」
 
