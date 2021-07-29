@@ -83,7 +83,7 @@ menu_align = "center" # available option (left, right, or center )
 AmazonID = "halflinger-22"
 # Meta data
 author = "Mao Miyamoto"
-images = ["images/backgrounds/header-bg.png"]
+images = ["http://menglish.jp/images/backgrounds/header-bg.png"]
 description = "海外在住イラストレーターmeow(めお)のブログ、「みんぐりっしゅ」"
 # contact form action
 contact_form_action = "https://formspree.io/f/xeqvgnzk" # contact form works with https://formspree.io
