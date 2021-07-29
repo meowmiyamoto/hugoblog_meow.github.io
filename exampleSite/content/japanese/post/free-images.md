@@ -10,7 +10,7 @@ description: "ブログ、SNS投稿、プレゼン、図解、動画に役立つ
 # Taxonomies
 categories: ["イラスト"]
 tags: ["イラスト上達"]
-type: "regular" # available type (epic, trending, popular, or regular)
+type: "popular" # available type (epic, trending, popular, or regular)
 draft: false
 share: true
 ---
