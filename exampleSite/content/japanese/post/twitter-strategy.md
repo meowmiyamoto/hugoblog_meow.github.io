@@ -6,7 +6,7 @@ lastmod: 2021-05-31
 images:
   - "images/blog/twitter-strategy.jpg"
 # description
-description: "SNS運用"
+description: "半年で3000人ほどフォロワーを増やしました私のTwitter運用術を公開します"
 # Taxonomies
 categories: ["SNS運用","Webマーケティング"]
 tags: ["SNS運用"]

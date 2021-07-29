@@ -6,7 +6,7 @@ lastmod: 2021-05-06
 images:
   - "images/blog/copyright.jpg"
 # description
-description: "フリーランス"
+description: "プロのフリーランサーが著作権やイラスト使用料をどうしているか解説します。"
 # Taxonomies
 categories: ["フリーランス","イラスト"]
 tags: ["フリーランス"]

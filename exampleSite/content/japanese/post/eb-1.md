@@ -1,15 +1,15 @@
 ---
 title: "グリーンカード （永住権）取得のために私が行ったこと【2022年版｜最優先枠｜スポンサーなし｜海外移住｜アメリカで働く】"
-date: 2021-04-09T15:40:24+06:00
-edited: 
+date: 2021-04-09
+lastmod: 2021-04-09
 # post thumb
 images:
   - "images/blog/greencard.jpg"
 # description
-description: "大学留学、留学、大学院留学、International Students Office, ISO, 留学生課、留学生オフィス"
+description: "アメリカ在住フリーランサーが永住権獲得のために行ったことを全公開します。"
 # Taxonomies
 categories: ["海外移住","アメリカ就活"]
-tags: ["海外で働く", "フリーランス"]
+tags: ["海外で働く"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 share: true

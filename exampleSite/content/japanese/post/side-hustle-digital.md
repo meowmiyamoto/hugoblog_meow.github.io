@@ -6,7 +6,7 @@ lastmod: 2021-05-15
 images:
   - "images/blog/side-hustle-digital.jpg"
 # description
-description: "フリーランス"
+description: "プロのフリーランサーが副業・フリーランスに「完全デジタルな職種」をオススメする３つの理由について解説します。"
 # Taxonomies
 categories: ["フリーランス","副業"]
 tags: ["フリーランス"]

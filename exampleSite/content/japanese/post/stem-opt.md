@@ -6,10 +6,10 @@ lastmod:
 images:
   - "images/blog/stem-opt.jpg"
 # description
-description: "大学留学、留学、大学院留学、International Students Office, ISO, 留学生課、留学生オフィス"
+description: "アメリカ大学院卒業生が、就労プログラムSTEM-OPTについて解説します。"
 # Taxonomies
 categories: ["海外移住","アメリカ就活"]
-tags: ["海外で働く", "フリーランス"]
+tags: ["海外で働く"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 share: true

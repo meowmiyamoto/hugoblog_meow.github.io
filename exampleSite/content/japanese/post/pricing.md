@@ -6,7 +6,7 @@ lastmod: 2021-05-12
 images:
   - "images/blog/pricing.jpg"
 # description
-description: "フリーランス"
+description: "プロのフリーランサーが行なっている単価設定について解説します。"
 # Taxonomies
 categories: ["フリーランス", "お金のこと", "イラストレーター"]
 tags: ["フリーランス"]

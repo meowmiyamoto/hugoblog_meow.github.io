@@ -6,7 +6,7 @@ lastmod: 2021-05-11
 images:
   - "images/blog/freelance-sns.jpg"
 # description
-description: "フリーランス"
+description: "プロのフリーランサーがSNSを使うのをオススメしない5つの理由を解説します。"
 # Taxonomies
 categories: ["フリーランス","イラスト","SNS運用"]
 tags: ["フリーランス"]

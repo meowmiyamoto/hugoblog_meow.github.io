@@ -9,7 +9,7 @@ images:
 description: "メディカルイラストレーション大学院入試に必要な単位の取り方について合格者が教えます！"
 # Taxonomies
 categories: ["大学院留学", "メディカルイラストレーター"]
-tags: ["メディカルイラストレーター","大学院留学"]
+tags: ["メディカルイラストレーター"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 share: true

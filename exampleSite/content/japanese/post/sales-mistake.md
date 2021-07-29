@@ -7,7 +7,7 @@ edited:
 images:
   - "images/blog/sales-mistake.jpg"
 # description
-description: "フリーランス"
+description: "プロのフリーランサーが「よくある営業の勘違い」について解説します。"
 # Taxonomies
 categories: ["フリーランス","営業"]
 tags: ["フリーランス"]

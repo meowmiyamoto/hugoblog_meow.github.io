@@ -6,7 +6,7 @@ lastmod:
 images:
   - "images/blog/skill.jpg"
 # description
-description: "フリーランス"
+description: "プロのフリーランサーが、独立するためにスキルを身につけた方法を解説します。"
 # Taxonomies
 categories: ["フリーランス","副業", "スキル"]
 tags: ["フリーランス"]

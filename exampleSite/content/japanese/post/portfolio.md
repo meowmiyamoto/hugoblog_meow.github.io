@@ -6,7 +6,7 @@ lastmod: 2021-04-30
 images:
   - "images/blog/portfolio.jpg"
 # description
-description: "フリーランス"
+description: "世界で活躍するフリーランサーが、放置しても仕事が途切れないポートフォリオの作り方を解説します。"
 # Taxonomies
 categories: ["フリーランス","イラスト","ポートフォリオ","イラストレーター"]
 tags: ["フリーランス"]

@@ -6,10 +6,10 @@ lastmod: 2021-05-08
 images:
   - "images/blog/illustration-that-sells.jpg"
 # description
-description: "フリーランス"
+description: "プロのフリーランサーが「売れるイラスト」について解説します。"
 # Taxonomies
 categories: ["フリーランス","イラスト"]
-tags: ["フリーランス", "イラスト上達"]
+tags: ["フリーランス"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 share: true

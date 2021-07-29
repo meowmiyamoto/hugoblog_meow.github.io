@@ -1,12 +1,12 @@
 ---
 title: "失敗しないためのフリーランスの本質とロードマップ【独立｜副業｜イラストレーター】"
-date: 2021-04-12T15:40:24+06:00
-edited: 
+date: 2021-04-12
+lastmod: 2021-04-12
 # post thumb
 images:
   - "images/blog/freelance-concept.jpg"
 # description
-description: "フリーランス"
+description: "海外で活躍するプロのフリーランサーである私が独立までに行ったことを全て公開します。"
 # Taxonomies
 categories: ["フリーランス", "イラスト", "イラストレーター"]
 tags: ["フリーランス"]

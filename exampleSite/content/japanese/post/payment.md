@@ -6,7 +6,7 @@ lastmod: 2021-05-11
 images:
   - "images/blog/payment.jpg"
 # description
-description: "フリーランス"
+description: "プロのフリーランサーがトラブルを避けるために行なっている支払術を解説します。"
 # Taxonomies
 categories: ["フリーランス","お金のこと","イラストレーター"]
 tags: ["フリーランス"]

@@ -7,7 +7,7 @@ edited:
 images:
   - "images/blog/last-push.jpg"
 # description
-description: "フリーランス"
+description: "フリーランサーとして独立するために「最後の一押し」となった言葉を紹介します。"
 # Taxonomies
 categories: ["フリーランス","副業"]
 tags: ["フリーランス"]

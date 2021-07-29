@@ -6,7 +6,7 @@ lastmod: 2021-05-07
 images:
   - "images/blog/equipment.jpg"
 # description
-description: "フリーランス"
+description: "プロのフリーランサーである私が実際に使っている仕事道具を公開します。"
 # Taxonomies
 categories: ["フリーランス","おすすめ商品"]
 tags: ["フリーランス"]

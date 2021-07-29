@@ -5,7 +5,7 @@ date: 2021-03-20T15:40:24+06:00
 images:
   - "images/blog/iso.jpg"
 # description
-description: "大学留学、留学、大学院留学、International Students Office, ISO, 留学生課、留学生オフィス"
+description: "アメリカ大学院卒業生が、留学生オフィス(international Students Office)を使う際の注意点について解説します"
 # Taxonomies
 categories: ["海外留学","アメリカ就活"]
 tags: ["大学院留学"]

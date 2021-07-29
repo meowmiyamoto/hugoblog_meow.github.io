@@ -6,7 +6,7 @@ lastmod: 2021-05-03
 images:
   - "images/blog/side-hustle-niche.jpg"
 # description
-description: "フリーランス"
+description: "プロのフリーランサーが、安定して仕事を得るための正しい『ニッチ選び』について解説します。"
 # Taxonomies
 categories: ["フリーランス","キャリア戦略","副業"]
 tags: ["フリーランス"]

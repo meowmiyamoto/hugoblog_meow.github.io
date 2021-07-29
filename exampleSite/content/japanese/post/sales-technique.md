@@ -6,7 +6,7 @@ date: 2021-04-23
 images:
   - "images/blog/sales-technique.jpg"
 # description
-description: "フリーランス"
+description: "プロのフリーランサーが仕事を引きつけるために行なっている営業術を紹介します。"
 # Taxonomies
 categories: ["フリーランス","営業"]
 tags: ["フリーランス"]

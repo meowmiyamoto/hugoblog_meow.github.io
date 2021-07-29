@@ -6,7 +6,7 @@ lastmod: 2021-05-11
 images:
   - "images/blog/freelance-prep.jpg"
 # description
-description: "フリーランス"
+description: "プロのフリーランサーが、副業から独立するために必要な準備について解説します。"
 # Taxonomies
 categories: ["フリーランス","副業"]
 tags: ["フリーランス"]

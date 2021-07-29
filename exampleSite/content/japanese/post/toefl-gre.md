@@ -9,7 +9,7 @@ images:
 description: "海外大学院合格者が行ったTOEFL、GRE学習法を紹介します"
 # Taxonomies
 categories: ["英語独学", "大学院留学"]
-tags: ["英語独学","大学院留学"]
+tags: ["大学院留学"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 share: true

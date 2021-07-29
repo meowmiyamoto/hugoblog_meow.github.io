@@ -7,7 +7,7 @@ edited:
 images:
   - "images/blog/tob.jpg"
 # description
-description: "フリーランス"
+description: "海外で活躍するフリーランサーがtoB案件をオススメする理由を解説します。"
 # Taxonomies
 categories: ["フリーランス","副業"]
 tags: ["フリーランス"]

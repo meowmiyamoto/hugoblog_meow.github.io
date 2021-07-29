@@ -9,7 +9,7 @@ images:
 description: "プロのメディカルイラストレーターによる職業紹介"
 # Taxonomies
 categories: ["フリーランス", "メディカルイラストレーター"]
-tags: ["メディカルイラストレーター","フリーランス"]
+tags: ["メディカルイラストレーター"]
 type: "trending" # available type (epic, trending, popular, or regular)
 draft: false
 share: true

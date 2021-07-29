@@ -9,7 +9,7 @@ images:
 description: "メディカルイラストレーターになるには？プロが教えます！"
 # Taxonomies
 categories: ["フリーランス", "メディカルイラストレーター"]
-tags: ["メディカルイラストレーター","フリーランス"]
+tags: ["メディカルイラストレーター"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 share: true

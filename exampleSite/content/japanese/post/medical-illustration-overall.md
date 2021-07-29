@@ -9,7 +9,7 @@ images:
 description: "メディカルイラストレーション修士プログラム合格の戦略を卒業生が教えます！"
 # Taxonomies
 categories: ["大学院留学", "メディカルイラストレーター"]
-tags: ["メディカルイラストレーター","大学院留学"]
+tags: ["メディカルイラストレーター"]
 type: "trending" # available type (epic, trending, popular, or regular)
 draft: false
 share: true
