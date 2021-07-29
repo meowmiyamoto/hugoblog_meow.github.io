@@ -3,8 +3,7 @@ title: "人生100年時代に海外キャリアを積むべき３つの理由【
 date: 2021-07-20
 lastmod: 2021-07-20
 # post thumb
-images:
-  - "images/blog/career-abroad-pros.jpg"
+images = ["http://menglish.jp/images/blog/career-abroad-pros.jpg"]
 # description
 description: "実際に海外拠点でキャリア形成をしている私の思う「海外キャリアを積むメリット」について解説します。"
 # Taxonomies
