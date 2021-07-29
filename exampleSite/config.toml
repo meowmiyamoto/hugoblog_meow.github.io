@@ -21,6 +21,9 @@ home = ["HTML", "RSS", "JSON"]
 [markup.goldmark.renderer]
 unsafe = true
 
+# robots.txt
+enableRobotsTXT = false
+
 
 # site variables
 [params.variables]

@@ -6,7 +6,7 @@ lastmod: 2021-07-21
 images:
   - "images/blog/free-images.jpg"
 # description
-description: "ブログ、SNS投稿、プレゼン、図解、動画に役立つ無料素材配布サイトを30個まとめました。"
+description: "ブログ、SNS投稿、プレゼン、図解、動画に役立つ無料素材配布サイトを25個まとめました。"
 # Taxonomies
 categories: ["イラスト"]
 tags: ["イラスト上達"]
