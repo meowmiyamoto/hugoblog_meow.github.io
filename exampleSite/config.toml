@@ -22,8 +22,7 @@ home = ["HTML", "RSS", "JSON"]
 unsafe = true
 
 # robots.txt
-enableRobotsTXT = false
-
+enableRobotsTXT = true
 
 # site variables
 [params.variables]
