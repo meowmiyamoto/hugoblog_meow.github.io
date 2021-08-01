@@ -4,7 +4,7 @@ date: 2021-07-28
 lastmod: 2021-07-28
 # post thumb
 images:
-  - "images/blog/write-english-concept.jpg"
+  - "images/blog/wordpress-not-really.jpg"
 # description
 description: "ブログ解説に3回失敗した私がWordpressを使わない理由を解説します"
 # Taxonomies
