@@ -2,7 +2,7 @@
 title: "プライバシーポリシー"
 draft: false
 # description
-description: "This is meta description"
+description: "プライバシーポリシーについて"
 ---
 
 制定日：2021年5月22日

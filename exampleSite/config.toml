@@ -8,6 +8,8 @@ summaryLength = "20"
 DefaultContentLanguage = "ja"
 # google analytics
 googleAnalytics = "UA-74441948-2" # Ex: UA-123-45
+# google adsense
+adsensePublisher = "ca-pub-3482692642667396"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
