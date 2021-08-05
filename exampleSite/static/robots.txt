@@ -2,4 +2,8 @@ User-agent: Twitterbot
 Disallow: *
 
 Allow: /images
+Allow: /images/blog
 Allow: /archives
+
+User-agent: Mediapartners-Google
+Disallow: /
