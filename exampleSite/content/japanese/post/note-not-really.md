@@ -11,7 +11,7 @@ description: "note歴3年の私がnoteを使うのをやめた理由を解説し
 categories: ["メディア運用","ブログ"]
 tags: ["ブログ"]
 type: "regular" # available type (epic, trending, popular, or regular)
-draft: false
+draft: true
 share: true
 ---
 

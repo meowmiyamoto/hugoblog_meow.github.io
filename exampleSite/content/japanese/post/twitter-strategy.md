@@ -1,7 +1,7 @@
 ---
-title: "Twitterは誰にでも伸ばせる【SNS運用｜少ないツイートでバズる】"
+title: "情報商材を買わなくてもTwitterのフォロワーは5000人まで伸ばせる【無料｜SNS運用｜少ないツイートでバズる】"
 date: 2021-05-25
-lastmod: 2021-05-31
+lastmod: 2021-08-08
 # post thumb
 images:
   - "images/blog/twitter-strategy.jpg"

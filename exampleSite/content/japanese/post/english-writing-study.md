@@ -1,7 +1,7 @@
 ---
-title: "海外で働く私が行った英語ライティング勉強方法"
+title: "海外で働く私が英語でビジネスできるまでに行ったライティング勉強方法"
 date: 2021-05-23
-lastmod: 2021-05-31
+lastmod: 2021-08-08
 # post thumb
 images:
   - "images/blog/english-writing-study.jpg"
