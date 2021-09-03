@@ -1,3 +1,22 @@
+User-agent: *
+Disallow: /comments/feed/
+Disallow: /archives/
+Disallow: /preview/
+Disallow: /profiles/
+Disallow: /search
+
+User-agent: Mediapartners-Google* 
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+User-agent: Adsbot-Google
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
 User-agent: Twitterbot
 Disallow: *
 
@@ -5,5 +24,4 @@ Allow: /images
 Allow: /images/blog
 Allow: /archives
 
-User-agent: Mediapartners-Google
-Disallow: /
+Sitemap: https://menglish.jp/sitemap.xml
