@@ -18,10 +18,6 @@ User-agent: Googlebot
 Allow: /
 
 User-agent: Twitterbot
-Disallow: *
-
-Allow: /images
-Allow: /images/blog
-Allow: /archives
+Allow: /
 
 Sitemap: https://menglish.jp/sitemap.xml
