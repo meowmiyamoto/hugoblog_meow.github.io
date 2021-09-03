@@ -5,7 +5,7 @@ lastmod: 2021-05-27
 # post thumb
 images: ["images/blog/english-reading-study.jpg"]
 # post thumb
-twitter-images: ["https://menglish.jp/images/blog/english-reading-study.jpg"]
+twitter-images: ["https://menglish.jp/images/backgrounds/english-reading-study.jpg"]
 # description
 description: "在米7年、英語ネイティブレベルの私が今まで行ってきたリーディング上達方法を紹介します"
 # Taxonomies
