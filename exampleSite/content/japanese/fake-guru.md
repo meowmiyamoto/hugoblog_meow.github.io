@@ -13,6 +13,7 @@ tags: []
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 share: true
+layout: "blog"
 ---
 
 こんにちは！めお(<u><a href="https://twitter.com/meeowmiya" target="_blank">@meeowmiya</a></u>)です。本記事では、
