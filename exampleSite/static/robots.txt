@@ -19,6 +19,5 @@ Allow: /
 
 User-agent: Twitterbot
 Allow: /
-Allow: /post/
 
 Sitemap: https://menglish.jp/sitemap.xml
