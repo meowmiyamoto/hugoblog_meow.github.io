@@ -39,7 +39,7 @@ Twitterでフォロワー数を増やしたい。どうやって伸ばせばい�
 
 {{< tweet 1399462244031795201 >}}
 
-本記事では私が実践した方法を公開します。
+Twitterフォロワーを伸ばす方法は有料情報商材を中心に多く出回っていますが、そのノウハウはお金をかけるほど価値があるものではないと私は考えます。本記事では私が実践した方法を**無料で**公開します。
 
 {{< toc >}}
 
@@ -138,7 +138,7 @@ Twitterでフォロワー数を増やしたい。どうやって伸ばせばい�
 
 ### フォロワー数に応じて戦略を変える
 
-<span class="keiko-red">**戦略を変えなくても愚直にこれだけ続けてればフォロワーは増えます。**</span>記事数を稼ぐためのでっち上げだと思ってオッケーです。
+<span class="keiko-red">**戦略を変えなくても愚直にこれだけ続けてればフォロワーは増えます。**</span>
 
 ### ブランディング
 
@@ -160,10 +160,10 @@ Twitterでフォロワー数を増やしたい。どうやって伸ばせばい�
 
 ### 収益化について
 
-個人的な意見ですが、この程度の情報で収益化するのは相当セコイと思っています。「Twitter攻略法」などでお金を取ろうとするのは程度が知れていると思いますし、探せば本記事のような無料情報は手に入ります。こちらの記事のにゃふ〜さんも私と似た戦略を無料公開しています。
+個人的には、この程度の情報をコンテンツ化して収益化するのは相当セコイ詐欺師のやることだと思います。探せば本記事のような無料情報は手に入ります。こちらの記事のにゃふ〜さんも私と似た戦略を無料公開しています。
 
 {{< notice "link" >}}
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://note.com/niyahoo/n/n9374bd412ad4" data-iframely-url="//cdn.iframe.ly/MQ728ov?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://note.com/niyahoo/n/ne40278b6b226" data-iframely-url="//cdn.iframe.ly/rjByYyz?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 {{< /notice >}}
 
 ## まとめ

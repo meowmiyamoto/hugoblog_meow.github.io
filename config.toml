@@ -78,7 +78,7 @@ logo = "images/logo.png"
 logo_width = "130px"
 menu_align = "center" # available option (left, right, or center )
 # Meta data
-author = "Mao Miyamoto"
+author = "meow(めお)"
 description = "This is meta description"
 # contact form action
 contact_form_action = "https://formspree.io/meowmiyamoto@gmail.com/" # contact form works with https://formspree.io

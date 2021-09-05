@@ -30,8 +30,8 @@
             {{ range .}}
             {{ if (fileExists (add `assets/` .)) }}
             {{ $image:= resources.Get . }}
-            {{ $imageMD:= $image.Fill "700x330" }}
-            {{ $imageSM:= $image.Fill "380x180" }}
+            {{ $imageMD:= $image.Fill "800x418" }}
+            {{ $imageSM:= $image.Fill "400x209" }}
             <picture>
               <source srcset="{{ $imageSM.Permalink }}" media="(max-width: 575px)">
               <source srcset="{{ $imageMD.Permalink }}" media="(max-width: 991px)">

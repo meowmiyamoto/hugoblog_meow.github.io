@@ -83,7 +83,7 @@ logo_width = "130px"
 menu_align = "center" # available option (left, right, or center )
 AmazonID = "halflinger-22"
 # Meta data
-author = "Mao Miyamoto"
+author = "meow(めお)"
 images = ["https://menglish.jp/images/backgrounds/header-bg.png"]
 description = "海外在住イラストレーターmeow(めお)のブログ、「みんぐりっしゅ」"
 # contact form action
