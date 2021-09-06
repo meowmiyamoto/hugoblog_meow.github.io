@@ -4,7 +4,7 @@ date: 2021-09-05
 lastmod: 2021-09-05
 # post thumb
 images:
-  - "images/blog/adsene-site-unavailable.jpg"
+  - "images/blog/adsense-site-unavailable.jpg"
 # description
 description: "Googleアドセンス「サイトの停止・利用不可」の解決方法を解説します。"
 # Taxonomies
