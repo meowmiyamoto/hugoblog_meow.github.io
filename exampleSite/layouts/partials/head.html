@@ -15,10 +15,7 @@
 
 {{ template "_internal/opengraph.html" . }}
 
-{{- with $.Params.images -}}
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:image" content="https://menglish.jp/images/backgrounds/header-bg.png"/>
-
 <meta name="twitter:title" content="{{ .Title }}"/>
 <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}"/>
 <meta name="twitter:site" content="@meeowmiya"/>
