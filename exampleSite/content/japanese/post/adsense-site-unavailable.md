@@ -46,7 +46,7 @@ robots.txtとはGoogleやTwitterなどの検索エンジンに対して、サイ
 
 ### robots.txtの設定
 
-解決策としては簡単で、robots.txtを通じてGoogleにブログへのアクセスを許可します。まずrootディレクトリにrobots.txtという名前でtxtファイルを作り、以下をコピペします。
+解決策としては簡単で、<span class="keiko-red">**robots.txtを作成してGoogleにブログへのアクセスを許可します。**</span>まずrootディレクトリにrobots.txtという名前でtxtファイルを作り、以下をコピペします。
 
 ```javascript
 User-agent: *
@@ -67,15 +67,13 @@ Allow: /
 Sitemap: https://サイトURL/sitemap.xml
 ```
 
-
-
 簡単に説明すると、まず最初の2行で、すべての検索エンジン(User-agent: \*\)にサイト全体のアクセスをブロック(Disallow: /)します。3-14行目は様々なGoogle検索エンジン(Mediapartners-google \*\, Googlebot-mobile, Adsbot-Google, Googlebot)にサイト全体のアクセスを許可(Allow: /)しています。サイトマップについては次項で解説します。
 
 ## ②サイトマップを設定する
 
 ### サイトマップとは
 
-サイトマップとは、サイトのページ構成を一覧で記載したテキストファイルで、検索エンジンにサイト内容をわかりやすく伝えます。SEO強化に重要なサイトマップはアドセンスにも大きな役割を担っています。
+サイトマップとは、サイトのページ構成を一覧で記載したテキストファイルで、検索エンジンにサイト内容をわかりやすく伝えます。<span class="keiko-red">**SEO強化に重要なサイトマップはアドセンスにも大きな役割を担っています。**</span>
 
 
 ### Googleサーチコンソールに登録する
