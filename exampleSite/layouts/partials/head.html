@@ -16,7 +16,7 @@
 {{ template "_internal/opengraph.html" . }}
 
 {{- with $.Params.images -}}
-<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:card" content="summary"/>
 <meta name="twitter:image" content="https://menglish.jp{{ index . 0 | absURL }}"/>
 {{ else -}}
 {{- $images := $.Resources.ByType "image" -}}
@@ -36,9 +36,7 @@
 {{- end }}
 <meta name="twitter:title" content="{{ .Title }}"/>
 <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}"/>
-{{ with .Site.Social.twitter -}}
-<meta name="twitter:site" content="@{{ . }}"/>
-{{ end -}}
+<meta name="twitter:site" content="@meeowmiya"/>
 
 {{ template "_internal/google_analytics_async.html" . }}
 {{ site.Params.custom_script | safeHTML }}

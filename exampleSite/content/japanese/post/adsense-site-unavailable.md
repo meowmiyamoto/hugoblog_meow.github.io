@@ -46,7 +46,7 @@ robots.txtとはGoogleやTwitterなどの検索エンジンに対して、サイ
 
 ### robots.txtの設定
 
-解決策としては簡単で、robots.txtを通じてGoogleにブログへのアクセスを許可します。まずrootディレクトリにrobots.txtを作り、以下をコピペします。
+解決策としては簡単で、robots.txtを通じてGoogleにブログへのアクセスを許可します。まずrootディレクトリにrobots.txtという名前でtxtファイルを作り、以下をコピペします。
 
 ```javascript
 User-agent: *
