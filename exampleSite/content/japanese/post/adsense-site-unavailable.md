@@ -69,7 +69,7 @@ Sitemap: https://サイトURL/sitemap.xml
 
 
 
-簡単に説明すると、まず最初の2行で、すべての検索エンジン(User-agent: U+002A)にサイト全体のアクセスをブロック(Disallow: /)します。3-14行目は様々なGoogle検索エンジン(Mediapartners-google U+002A, Googlebot-mobile, Adsbot-Google, Googlebot)にサイト全体のアクセスを許可(Allow: /)しています。サイトマップについては次項で解説します。
+簡単に説明すると、まず最初の2行で、すべての検索エンジン(User-agent: \*\)にサイト全体のアクセスをブロック(Disallow: /)します。3-14行目は様々なGoogle検索エンジン(Mediapartners-google \*\, Googlebot-mobile, Adsbot-Google, Googlebot)にサイト全体のアクセスを許可(Allow: /)しています。サイトマップについては次項で解説します。
 
 ## ②サイトマップを設定する
 
