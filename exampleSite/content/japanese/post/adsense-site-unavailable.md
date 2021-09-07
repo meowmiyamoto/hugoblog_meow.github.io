@@ -1,5 +1,5 @@
 ---
-title: "Googleアドセンス「サイトの停止・利用不可」は「サイトマップ」と「robots.txt」で解決しよう【ブログ｜アフィリエイト 】"
+title: "Googleアドセンス「サイトの停止・利用不可」は「サイトマップ」と「robots.txt」で解決しよう【ブログ｜アフィリエイト｜アドセンス不合格｜アドセンス合格】"
 date: 2021-09-05
 lastmod: 2021-09-05
 # post thumb
@@ -29,7 +29,7 @@ share: true
 
 {{< toc >}}
 
-## 「サイトの停止・利用不可」とは
+## 「サイトの停止・利用不可」とは
 
 ![image](../../images/blog-content/adsense-site-unavailable-0.jpg)<br><br>
 「サイトの停止・利用不可」になった場合、👆のようなエラーが出ます。

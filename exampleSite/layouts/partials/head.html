@@ -15,8 +15,9 @@
 
 {{ template "_internal/opengraph.html" . }}
 
-{{- with $.Params.images -}}
-<meta name="twitter:card" content="summary"/>
+<!--{{- with $.Params.images -}}-->
+<meta name="twitter:card" content="summary_large_image"/>
+<!-- rely on og:image instead of twitter:image. This will break 
 <meta name="twitter:image" content="https://menglish.jp{{ index . 0 | absURL }}"/>
 {{ else -}}
 {{- $images := $.Resources.ByType "image" -}}
@@ -33,7 +34,7 @@
 <meta name="twitter:card" content="summary"/>
 {{- end -}}
 {{- end -}}
-{{- end }}
+{{- end }}-->
 <meta name="twitter:title" content="{{ .Title }}"/>
 <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}"/>
 <meta name="twitter:site" content="@meeowmiya"/>
