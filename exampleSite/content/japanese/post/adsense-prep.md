@@ -8,7 +8,7 @@ images:
 # description
 description: "Googleアドセンス「サイトの停止・利用不可」の解決方法を解説します。"
 # Taxonomies
-categories: ["ブログ","メディア運用"]
+categories: ["ブログ","メディア運用", "IT"]
 tags: ["ブログ"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false

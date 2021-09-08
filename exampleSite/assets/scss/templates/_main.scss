@@ -320,6 +320,7 @@
           border: 1px solid $border-color;
           color: $text-color;
           display: inline-block;
+          text-transform: uppercase;
 
           &:hover {
             background-color: $primary-color;
@@ -1166,6 +1167,7 @@
     a {
       position: relative;
       padding-left: 15px;
+      text-transform: uppercase;
 
       &::before {
         position: absolute;
