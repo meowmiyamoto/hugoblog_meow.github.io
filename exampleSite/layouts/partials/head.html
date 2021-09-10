@@ -15,9 +15,8 @@
 
 {{ template "_internal/opengraph.html" . }}
 
-<!--{{- with $.Params.images -}}-->
+{{- with $.Params.images -}}
 <meta name="twitter:card" content="summary_large_image"/>
-<!-- rely on og:image instead of twitter:image. This will break 
 <meta name="twitter:image" content="https://menglish.jp{{ index . 0 | absURL }}"/>
 {{ else -}}
 {{- $images := $.Resources.ByType "image" -}}
