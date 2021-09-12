@@ -21,7 +21,7 @@ share: true
 Wordpressでブログを始めてみたけど、使いにくい。本当におすすめ？
 {{< /say-left >}}
 
-という疑問にお答えし、実際にWordpressで3回ブログで挫折した私がWordpressをオススメしない理由を解説します。
+という疑問にお答えし、実際に私がWordpressでブログを運営しない理由を解説します。
 
 この記事を読んで得られることは次の通りです。
 
@@ -63,7 +63,31 @@ Wordpressのメリットと言えば
 
 ## ③セキュリティが脆弱
 
-Wordpressは、①独自のデータベースからコンテンツを取得して②phpでレンダリングするという仕組みで作られています。膨大なデータやコンテンツを扱う場合には最適ですが、個人ブログなどの小規模運営ではオーバーキルです。ページをロードするたびにデータベースに接続することと、利用者も多く、無料で使えることが合わさって<span class="keiko-red">**セキュリティが非常に脆弱です。**</span>実際に「ハッキングされました申し訳ありません」のアナウンスはツイッターなどでもよく見かけますし、大企業や影響力の大きい人のサイトでもハッキングが起こります。よほどセキュリティに強い人なら話は別ですが、<span class="keiko-red">**ハッキングに対応できる知識がないのであれば尚更Wordpressは避けるべき**</span>でしょう。セキュリティを問題にしてWordpressから他システムに移行する方も後を経ちません。「ライフハック大全」「リストの魔法」などで知られる著名ブロガー堀正岳氏も2020年にWordpressからhugoに移行しています。
+Wordpressは、①独自のデータベースからコンテンツを取得して②phpでレンダリングするという仕組みで作られています。膨大なデータやコンテンツを扱う場合には最適ですが、個人ブログなどの小規模運営ではオーバーキルです。
+
+ページをロードするたびにデータベースに接続することと、利用者も多く、無料で使えることが合わさって<span class="keiko-red">**セキュリティが非常に脆弱です。**</span>実際に「ハッキングされました申し訳ありません」のアナウンスはツイッターなどでもよく見かけますし、大企業や影響力の大きい人のサイトでもハッキングが起こります。よほどセキュリティに強い人なら話は別ですが、<span class="keiko-red">**ハッキングに対応できる知識がないのであれば尚更Wordpressは避けるべき**</span>でしょう。
+
+セキュリティを問題にしてWordpressから他システムに移行する方も後を経ちません。「ライフハック大全」「リストの魔法」などで知られる著名ブロガー堀正岳氏も2020年にWordpressからhugoに移行しています。
+
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://note.com/mehori/n/n1fe46bb7d80c" data-iframely-url="//cdn.iframe.ly/qGqCtmj?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
+
+{{% amazon 
+  itemId="4046021543"
+  title="ライフハック大全―――人生と仕事を変える小さな習慣250"
+  author="堀 正岳  (著)"
+  publisher="KADOKAWA"
+  imageUrl="https://images-fe.ssl-images-amazon.com/images/I/41eLSYJ3J6L._SY291_BO1,204,203,200_QL40_ML2_.jpg"
+%}}
+
+{{% amazon 
+  itemId="4041087848"
+  title="仕事と自分を変える 「リスト」の魔法"
+  author="堀 正岳  (著)"
+  publisher="KADOKAWA"
+  imageUrl="https://images-na.ssl-images-amazon.com/images/I/515CgjIDDvL._SX321_BO1,204,203,200_.jpg"
+%}}
 
 ## ④頻繁なアップデートのマネジメント
 

@@ -61,5 +61,14 @@
 {{- with .Site.Social.facebook_admin }}<meta property="fb:admins" content="{{ . }}" />{{ end }}
 <!-- /open graph -->
 
+<!-- twitter card -->
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:title" content="{{ .Title }}"/>
+<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}"/>
+{{ with .Site.Social.twitter -}}
+<meta name="twitter:site" content="@{{ . }}"/>
+{{ end -}}
+<!-- /twitter card -->
+
 {{ template "_internal/google_analytics_async.html" . }}
 {{ site.Params.custom_script | safeHTML }}
