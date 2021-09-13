@@ -40,7 +40,12 @@ Wordpressでブログを始めてみたけど、使いにくい。本当にお�
 
 <span class="keiko-red">**どうせ知識をつけないとガチ運営できないのはWordpressでも他のプラットフォームでも同じです。それならばわざわざWordpressにこだわる理由は特にありません。**</span>PHPはかなり時代遅れの言語ですし、使いにくくマネジメントコストが非常に高いWordpressに固執する必要はないと考えています。
 
-<!-- 参考までに、当ブログはhugoという静的サイトジェネレーターを使って作られています。hugoの概要とメリットなどはこちらの記事にまとめています。-->
+参考までに、当ブログはhugoというシステムを使って作られています。hugoの概要とメリットなどはこちらの記事にまとめています。
+
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/hugo-intro/" data-iframely-url="//cdn.iframe.ly/kEoFjey?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
+
 
 ## ①Wordpressのメリットをカバーできるプラットフォームは存在する
 
@@ -54,7 +59,11 @@ Wordpressのメリットと言えば
 
 などがありますが、Wordpressのメリットをカバーできるプラットフォームはたくさんあります。この点に魅力を感じているのであれば、Wordpressである必要はありません。
 
-<!-- 繰り返しになりますが、hugoを使って作った当ブログは👆のWordpressのメリットは全てカバーしています。hugoの概要とメリットなどはこちらの記事にまとめています。-->
+繰り返しになりますが、hugoを使って作った当ブログは👆のWordpressのメリットは全てカバーしています。hugoの概要とメリットなどはこちらの記事にまとめています。
+
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/hugo-intro/" data-iframely-url="//cdn.iframe.ly/kEoFjey?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
 
 
 ## ②使いにくい
