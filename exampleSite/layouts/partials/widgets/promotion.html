@@ -1,11 +1,19 @@
 {{ "<!-- Promotion -->" | safeHTML }}
 {{ with site.Params.promotion}}
 <div class="promotion">
-  <img src="{{.image | absURL}}" class="img-fluid w-100" loading="lazy">
+<script type="text/javascript">
+var uri = 'https://imp.tradedoubler.com/imp?type(img)g(22787774)a(3237035)' + new String (Math.random()).substring (2, 11);
+document.write('<a href="https://clk.tradedoubler.com/click?p=264327&a=3237035&g=22787774" target="_BLANK"><img src="'+uri+'" border=0></a>');
+</script><br><br>
+<script type="text/javascript">
+var uri = 'https://imp.tradedoubler.com/imp?type(img)g(22901762)a(3237035)' + new String (Math.random()).substring (2, 11);
+document.write('<a href="https://clk.tradedoubler.com/click?p=264327&a=3237035&g=22901762" target="_BLANK"><img src="'+uri+'" border=0></a>');
+</script>
+  <!--<img src="{{.image | absURL}}" class="img-fluid w-100" loading="lazy">
   <div class="promotion-content">
     <h5 class="text-white mb-3">{{.title | markdownify}}</h5>
     <p class="text-white mb-4">{{.content | markdownify}}</p>
     <a href="{{.button_link | safeURL }}" class="btn btn-primary">{{ .button_label }}</a>
-  </div>
+  </div>-->
 </div>
 {{ end }}

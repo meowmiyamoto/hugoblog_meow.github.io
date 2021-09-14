@@ -77,7 +77,7 @@
             {{ if (fileExists (add `assets/` .)) }}
             {{ $image:= resources.Get . }}
             {{ $imageLG:= $image.Fill "700x330" }}
-            {{ $imageMD:= $image.Fill "510x240" }}
+            {{ $imageMD:= $image.Resize "400x209" }}
             {{ $imageSM:= $image.Fill "380x180" }}
             <picture>
               <source srcset="{{ $imageSM.Permalink }}" media="(max-width: 575px)">
@@ -195,7 +195,7 @@
             {{ if (fileExists (add `assets/` .)) }}
             {{ $image:= resources.Get . }}
             {{ $imageLG:= $image.Fill "700x330" }}
-            {{ $imageMD:= $image.Fill "510x240" }}
+            {{ $imageMD:= $image.Resize "400x209" }}
             {{ $imageSM:= $image.Fill "380x180" }}
             <picture>
               <source srcset="{{ $imageSM.Permalink }}" media="(max-width: 575px)">
