@@ -111,10 +111,11 @@ share: true
 
 ![image](../../images/blog-content/eyecatch-1.jpg)<br><br>
 
-1400405916491476993
+{{< tweet 1400405916491476993 >}}
 
 
-1398472161203933189
+{{< tweet 1398472161203933189 >}}
+
 
 
 ## ②フォントを決める
@@ -137,6 +138,10 @@ share: true
 ### アイキャッチを作る上で役立つフリー画像＆素材
 
 こちらの記事にて、フリー画像素材配布サイトをまとめていますので、参考にしてください。<span class="keiko-red">**色味やスタイルを合わせることができれば、無料素材でも十分**</span>に使えます。同じ作家の作品をつかうと似たスタイルのイラストを効率よく揃えられますよ！
+
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/free-images/" data-iframely-url="//cdn.iframe.ly/XVUO9pF?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
 
 ## ④色彩を変えたバリエーションを作る
 
