@@ -9,7 +9,7 @@ images:
 description: "在米7年、英語ネイティブレベルの私が今まで行ってきたリスニング上達方法を紹介します"
 # Taxonomies
 categories: ["英語独学","リスニング"]
-tags: ["英語独学"]
+tags: ["英語"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 share: true

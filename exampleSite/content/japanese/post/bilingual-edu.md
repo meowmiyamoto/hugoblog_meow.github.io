@@ -9,7 +9,7 @@ images:
 description: "帰国子女の私が短い海外滞在でもバイリンガルを維持するために受けた教育を紹介します"
 # Taxonomies
 categories: ["海外移住","海外留学"]
-tags: ["海外で働く"]
+tags: ["英語"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 share: true
