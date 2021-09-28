@@ -1,5 +1,5 @@
 ---
-title: "海外移住者の私が考える日本に住むメリット・デメリット【日本脱出｜海外移住｜メリット｜日本から逃げる】"
+title: "海外移住者の私が考える日本に住むメリット・デメリット【海外フリーランスが教えます｜日本オワコン｜脱出】"
 date: 2021-09-27
 lastmod: 2021-09-27
 # post thumb
@@ -23,7 +23,7 @@ share: true
 
 という方にオススメの記事です。筆者は日本生まれ日本育ちで、アメリカで大学院をでて現地で働いています。本記事では、日本・海外どちらでの生活も経験した経験に基づいき、日本でのメリット・デメリットを解説していきたいと思います。
 
-筆者経歴
+**筆者経歴**
 
 * 日本生まれ日本育ち
 * 大学院留学のためアメリカに渡米
@@ -62,6 +62,10 @@ share: true
 ### ⑥あまり頑張らなくても快適に生きていける
 ![image](../../images/undraw/undraw_skateboard.svg)<br><br>
 ざっくりまとめると、<span class="keiko-red">**日本ではあまり頑張らなくても、敷かれたレールに乗っていれば快適に暮らすことができます。**</span>誰もが高いバイタリティを持っているわけではない中で、そんなに頑張らなくても快適に暮らせることは非常に大きなメリットです。海外在住者の中でも若いうちは海外でバリバリ働き、体力が衰えた老後は日本に帰りたいという声は多く聞きます。
+
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/living-abroad-fail/" data-iframely-url="//cdn.iframe.ly/AjCoX6A?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
 
 ## 日本に住むデメリット
 

@@ -10,7 +10,7 @@ description: "アメリカ在住の私が思う「海外移住に必要なマイ
 # Taxonomies
 categories: ["キャリア戦略","海外移住","海外フリーランス"]
 tags: ["海外で働く"]
-type: "regular" # available type (epic, trending, popular, or regular)
+type: "popular" # available type (epic, trending, popular, or regular)
 draft: false
 share: true
 ---
