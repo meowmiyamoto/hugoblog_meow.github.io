@@ -86,7 +86,7 @@ SNSは正しく使わなければむしろマイナスの印象を与えるこ�
 営業についてはこちらの記事をご一読ください。
 
 {{< notice "link" >}}
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/sales-technique/" data-iframely-url="//cdn.iframe.ly/kMRmgMJ?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/sales-technique/" data-iframely-url="//cdn.iframe.ly/gABcgq0?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 {{< /notice >}}
 
 
@@ -95,7 +95,7 @@ SNSは正しく使わなければむしろマイナスの印象を与えるこ�
 これはポートフォリオを作るのが一番早いです。ポートフォリオの作り方についてはこちらの記事をご一読ください。ポートフォリオを持って営業に行くイメージです。
 
 {{< notice "link" >}}
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/portfolio/" data-iframely-url="//cdn.iframe.ly/OWZ64mO?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/portfolio/" data-iframely-url="//cdn.iframe.ly/xgOrzwb?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 {{< /notice >}}
 
 ## まとめ

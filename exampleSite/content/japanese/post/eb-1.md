@@ -79,7 +79,7 @@ EB-1が難しいのは、やはり<span class="keiko-red">**非凡で並外れ�
 例えば「イラストレーター」として世界のトップのになるのが難しくても「障害のある子供向けの教育コンテンツを作るイラストレーター」という括りでなら、競合が一気に減って断然トップを狙いやすくなります。とは言え、もちろん大会や業界紙があったり推薦状を集められるぐらいには「業界」として成り立っていないといけないので、良いバランスを探すことがキモになります。
 
 {{< notice "link" >}}
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/side-hustle-niche/" data-iframely-url="//cdn.iframe.ly/YqCt5f3?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/side-hustle-niche/" data-iframely-url="//cdn.iframe.ly/YqCt5f3?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 {{< /notice >}}
 
 ## EB-1申請のために実際に行ったこと

@@ -156,9 +156,9 @@ share: true
 
 👇メディカルイラストレーターになりたい、勉強してみたい！という方向けにより詳しい内容を以下にまとめています。
 {{< notice "link" >}}
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/medical-illustration-tier/" data-iframely-url="//cdn.iframe.ly/0tUQpsS?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/medical-illustration-tier/" data-iframely-url="//cdn.iframe.ly/XJdkFeR?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 👆メディカルイラストレーターになるには？<br><br>
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/medical-illustration-school/" data-iframely-url="//cdn.iframe.ly/pTt5ZKU?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/medical-illustration-school/" data-iframely-url="//cdn.iframe.ly/avR8zbD?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 👆メディカルイラストレーションが学べる学校<br><br>
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/medical-illustration-overall/" data-iframely-url="//cdn.iframe.ly/P8Op4ty?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 👆メディカルイラストレーション大学院受験完全ロードマップ
