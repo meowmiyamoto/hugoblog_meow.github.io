@@ -103,6 +103,14 @@ IRAにはTraditional IRAとRoth IRAの２種類があり、どちらかを選ん
 ![image](../../images/blog-content/us-retirement-4.jpg)
 ![image](../../images/blog-content/us-retirement-5.jpg)<br><br>
 
+
+{{< say-left >}}
+税金もろもろ入れると20-30%ぐらい引かれるんだから、10%のペナルティの方が安くない？
+{{< /say-left >}}
+
+という意見についてです。基本的には20-30%の税金プラス10%のペナルティを取られると考えるのが正しいです。課税時期はTraditionalかRothによって異なりますが、Traditionalなら引き出し時に、Rothなら入金時に20-30%の税金がかかり、その上に10%のペナルティも払うというイメージです。
+
+
 ## SEP-IRA
 
 401(k)付きの会社員がIRAと401(k)で合わせて税優遇された口座で最大25,500ドル積み立てている中、フリーランサーなどの個人事業主はIRAしかないと6000ドルしか積み立てられません。<span class="keiko-red">**フリーランサーが投資の上限額を引き上げるには？の答えがSEP-IRA**</span>です。あまり知られていない口座ですがIRAの上限が大幅に上がったものです。

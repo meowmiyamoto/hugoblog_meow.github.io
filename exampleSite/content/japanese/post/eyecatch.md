@@ -32,6 +32,15 @@ share: true
 
 それでは詳しく見ていきましょう。
 
+<script type="text/javascript">
+var uri = 'https://imp.tradedoubler.com/imp?type(img)g(22787764)a(3237035)' + new String (Math.random()).substring (2, 11);
+document.write('<a href="https://clk.tradedoubler.com/click?p=264327&a=3237035&g=22787764" target="_BLANK"><img src="'+uri+'" border=0></a>');
+</script>
+
+<a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+F5YIIA+4M9K+61Z81" rel="nofollow">
+<img border="0" width="360" height="300" alt="" src="https://www28.a8.net/svt/bgt?aid=211009641917&wid=001&eno=01&mid=s00000021548001017000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3HMO2X+F5YIIA+4M9K+61Z81" alt="">
+
 {{< toc >}}
 
 ## 統一感のあるオシャレなアイキャッチの特徴
@@ -43,6 +52,15 @@ share: true
 * 文字の読みやすさを重視する
 * 写真やイラストのスタイルを統一する
 * 記事の内容と関連のある画像を選ぶ
+
+<script type="text/javascript">
+var uri = 'https://imp.tradedoubler.com/imp?type(img)g(22787764)a(3237035)' + new String (Math.random()).substring (2, 11);
+document.write('<a href="https://clk.tradedoubler.com/click?p=264327&a=3237035&g=22787764" target="_BLANK"><img src="'+uri+'" border=0></a>');
+</script>
+
+<a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+F5YIIA+4M9K+61Z81" rel="nofollow">
+<img border="0" width="360" height="300" alt="" src="https://www28.a8.net/svt/bgt?aid=211009641917&wid=001&eno=01&mid=s00000021548001017000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3HMO2X+F5YIIA+4M9K+61Z81" alt="">
 
 
 ### 色彩を統一する
@@ -59,6 +77,15 @@ share: true
 
 ![image](../../images/blog-content/eyecatch-4.jpg)<br><br>
 
+<script type="text/javascript">
+var uri = 'https://imp.tradedoubler.com/imp?type(img)g(22787764)a(3237035)' + new String (Math.random()).substring (2, 11);
+document.write('<a href="https://clk.tradedoubler.com/click?p=264327&a=3237035&g=22787764" target="_BLANK"><img src="'+uri+'" border=0></a>');
+</script>
+
+<a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+F5YIIA+4M9K+61Z81" rel="nofollow">
+<img border="0" width="360" height="300" alt="" src="https://www28.a8.net/svt/bgt?aid=211009641917&wid=001&eno=01&mid=s00000021548001017000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3HMO2X+F5YIIA+4M9K+61Z81" alt="">
+
 ### 文字の読みやすさを重視する
 
 <span class="keiko-red">**画像が小さくなったり、引きで見たときに、文字がきちんと読めるかどうかをチェック**</span>しましょう。左(NG例)と右(OK例)では読みやすさが圧倒的に違いますよね。
@@ -70,6 +97,15 @@ share: true
 * フォント：字の線が細いものや、飾りの多いものは見にくいので使わない
 * 背景と文字とのコントラストをつける
 * 文字と画像が被らないようにする
+
+<script type="text/javascript">
+var uri = 'https://imp.tradedoubler.com/imp?type(img)g(22787764)a(3237035)' + new String (Math.random()).substring (2, 11);
+document.write('<a href="https://clk.tradedoubler.com/click?p=264327&a=3237035&g=22787764" target="_BLANK"><img src="'+uri+'" border=0></a>');
+</script>
+
+<a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+F5YIIA+4M9K+61Z81" rel="nofollow">
+<img border="0" width="360" height="300" alt="" src="https://www28.a8.net/svt/bgt?aid=211009641917&wid=001&eno=01&mid=s00000021548001017000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3HMO2X+F5YIIA+4M9K+61Z81" alt="">
 
 ### 写真やイラストのスタイルを統一する
 
@@ -87,6 +123,15 @@ share: true
 
 それでは実際に、以上の特徴を取り入れつつアイキャッチを作る方法を見ていきましょう。
 
+<script type="text/javascript">
+var uri = 'https://imp.tradedoubler.com/imp?type(img)g(22787764)a(3237035)' + new String (Math.random()).substring (2, 11);
+document.write('<a href="https://clk.tradedoubler.com/click?p=264327&a=3237035&g=22787764" target="_BLANK"><img src="'+uri+'" border=0></a>');
+</script>
+
+<a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+F5YIIA+4M9K+61Z81" rel="nofollow">
+<img border="0" width="360" height="300" alt="" src="https://www28.a8.net/svt/bgt?aid=211009641917&wid=001&eno=01&mid=s00000021548001017000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3HMO2X+F5YIIA+4M9K+61Z81" alt="">
+
 ## アイキャッチを作る準備
 
 ### アイキャッチを作るツール
@@ -99,11 +144,29 @@ share: true
 * PowerPoint
 * Adobe XD
 
+<script type="text/javascript">
+var uri = 'https://imp.tradedoubler.com/imp?type(img)g(22787764)a(3237035)' + new String (Math.random()).substring (2, 11);
+document.write('<a href="https://clk.tradedoubler.com/click?p=264327&a=3237035&g=22787764" target="_BLANK"><img src="'+uri+'" border=0></a>');
+</script>
+
+<a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+F5YIIA+4M9K+61Z81" rel="nofollow">
+<img border="0" width="360" height="300" alt="" src="https://www28.a8.net/svt/bgt?aid=211009641917&wid=001&eno=01&mid=s00000021548001017000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3HMO2X+F5YIIA+4M9K+61Z81" alt="">
+
 ### 戦略
 
 <span class="keiko-red">**効率よくアイキャッチを作るには準備がすべて**</span>です。具体的には①色彩とフォントを決めて②使うイラストのバリエーションを最初にぜんぶ作ってしまい③色彩とイラストのバリエーションを変えることでパターン数を増やします。例えば<span class="keiko-red">**4色の色彩と10種類のイラストを用意したすれば、4x10=40種類のアイキャッチのパターンができます。**</span>
 
 それでは詳しく見ていきましょう。
+
+<script type="text/javascript">
+var uri = 'https://imp.tradedoubler.com/imp?type(img)g(22787764)a(3237035)' + new String (Math.random()).substring (2, 11);
+document.write('<a href="https://clk.tradedoubler.com/click?p=264327&a=3237035&g=22787764" target="_BLANK"><img src="'+uri+'" border=0></a>');
+</script>
+
+<a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+F5YIIA+4M9K+61Z81" rel="nofollow">
+<img border="0" width="360" height="300" alt="" src="https://www28.a8.net/svt/bgt?aid=211009641917&wid=001&eno=01&mid=s00000021548001017000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3HMO2X+F5YIIA+4M9K+61Z81" alt="">
 
 ## ①統一感のある色彩を選ぶ
 
@@ -116,7 +179,14 @@ share: true
 
 {{< tweet 1398472161203933189 >}}
 
+<script type="text/javascript">
+var uri = 'https://imp.tradedoubler.com/imp?type(img)g(22787764)a(3237035)' + new String (Math.random()).substring (2, 11);
+document.write('<a href="https://clk.tradedoubler.com/click?p=264327&a=3237035&g=22787764" target="_BLANK"><img src="'+uri+'" border=0></a>');
+</script>
 
+<a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+F5YIIA+4M9K+61Z81" rel="nofollow">
+<img border="0" width="360" height="300" alt="" src="https://www28.a8.net/svt/bgt?aid=211009641917&wid=001&eno=01&mid=s00000021548001017000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3HMO2X+F5YIIA+4M9K+61Z81" alt="">
 
 ## ②フォントを決める
 
@@ -127,12 +197,30 @@ share: true
 * 游ゴシック
 * メイリオ
 
+<script type="text/javascript">
+var uri = 'https://imp.tradedoubler.com/imp?type(img)g(22787764)a(3237035)' + new String (Math.random()).substring (2, 11);
+document.write('<a href="https://clk.tradedoubler.com/click?p=264327&a=3237035&g=22787764" target="_BLANK"><img src="'+uri+'" border=0></a>');
+</script>
+
+<a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+F5YIIA+4M9K+61Z81" rel="nofollow">
+<img border="0" width="360" height="300" alt="" src="https://www28.a8.net/svt/bgt?aid=211009641917&wid=001&eno=01&mid=s00000021548001017000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3HMO2X+F5YIIA+4M9K+61Z81" alt="">
+
 ## ③よく使うイラストや写真を集める
 
 
 次に、<span class="keiko-red">**ブログで取り上げるテーマに合わせて、よく使う画像やイラストを集めます。**</span>フォトショやイラレを使って自分でイラストや写真を作ることができればさらに目立つデザインにできますよ！参考までに、私が揃えたイラストには以下のようなものがあります。
 
 ![image](../../images/blog-content/eyecatch-7.jpg)<br><br>
+
+<script type="text/javascript">
+var uri = 'https://imp.tradedoubler.com/imp?type(img)g(22787764)a(3237035)' + new String (Math.random()).substring (2, 11);
+document.write('<a href="https://clk.tradedoubler.com/click?p=264327&a=3237035&g=22787764" target="_BLANK"><img src="'+uri+'" border=0></a>');
+</script>
+
+<a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+F5YIIA+4M9K+61Z81" rel="nofollow">
+<img border="0" width="360" height="300" alt="" src="https://www28.a8.net/svt/bgt?aid=211009641917&wid=001&eno=01&mid=s00000021548001017000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3HMO2X+F5YIIA+4M9K+61Z81" alt="">
 
 
 ### アイキャッチを作る上で役立つフリー画像＆素材
@@ -143,6 +231,15 @@ share: true
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/free-images/" data-iframely-url="//cdn.iframe.ly/XVUO9pF?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 {{< /notice >}}
 
+<script type="text/javascript">
+var uri = 'https://imp.tradedoubler.com/imp?type(img)g(22787764)a(3237035)' + new String (Math.random()).substring (2, 11);
+document.write('<a href="https://clk.tradedoubler.com/click?p=264327&a=3237035&g=22787764" target="_BLANK"><img src="'+uri+'" border=0></a>');
+</script>
+
+<a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+F5YIIA+4M9K+61Z81" rel="nofollow">
+<img border="0" width="360" height="300" alt="" src="https://www28.a8.net/svt/bgt?aid=211009641917&wid=001&eno=01&mid=s00000021548001017000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3HMO2X+F5YIIA+4M9K+61Z81" alt="">
+
 ## ④色彩を変えたバリエーションを作る
 
 アイキャッチでは3-4色を割合を変えてローテーションすることで効率よく数種類のパターンを作ることができます。例えば以下の例だと、同じイラストで色のバリエーションを変えるだけで4種類のアイキャッチを作ることができます。
@@ -150,11 +247,29 @@ share: true
 
 ![image](../../images/blog-content/eyecatch-6.jpg)<br><br>
 
+<script type="text/javascript">
+var uri = 'https://imp.tradedoubler.com/imp?type(img)g(22787764)a(3237035)' + new String (Math.random()).substring (2, 11);
+document.write('<a href="https://clk.tradedoubler.com/click?p=264327&a=3237035&g=22787764" target="_BLANK"><img src="'+uri+'" border=0></a>');
+</script>
+
+<a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+F5YIIA+4M9K+61Z81" rel="nofollow">
+<img border="0" width="360" height="300" alt="" src="https://www28.a8.net/svt/bgt?aid=211009641917&wid=001&eno=01&mid=s00000021548001017000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3HMO2X+F5YIIA+4M9K+61Z81" alt="">
+
 
 ## ④文字と微調整を調整すれば5分でアイキャッチが作れる
 
 
 それぞれのイラストのレイアウトに合わせて色彩のパターンを全種類作ります。あとは記事のタイトルに合わせて文字を入れ、微調整をするだけでアイキャッチが作れます。
+
+<script type="text/javascript">
+var uri = 'https://imp.tradedoubler.com/imp?type(img)g(22787764)a(3237035)' + new String (Math.random()).substring (2, 11);
+document.write('<a href="https://clk.tradedoubler.com/click?p=264327&a=3237035&g=22787764" target="_BLANK"><img src="'+uri+'" border=0></a>');
+</script>
+
+<a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+F5YIIA+4M9K+61Z81" rel="nofollow">
+<img border="0" width="360" height="300" alt="" src="https://www28.a8.net/svt/bgt?aid=211009641917&wid=001&eno=01&mid=s00000021548001017000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3HMO2X+F5YIIA+4M9K+61Z81" alt="">
 
 ## まとめ
 

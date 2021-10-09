@@ -183,6 +183,14 @@ UI/UX系多めでシンプルかつ遊び心のあるデザインが特徴。ベ
 ## 写真
 ヘッダーなど大きな画像や、動画や写真合成にも。
 
+### Canva
+
+<a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+F5YIIA+4M9K+61Z81" rel="nofollow">
+<img border="0" width="600" height="500" alt="" src="https://www28.a8.net/svt/bgt?aid=211009641917&wid=001&eno=01&mid=s00000021548001017000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3HMO2X+F5YIIA+4M9K+61Z81" alt="">
+
+写真素材のイチオシです。7,500万点以上の素材が使いたい放題です。透明背景もあり、すぐに使えます。
+
 ### Unsplash
 
 <div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 56.25%;"><a href="https://unsplash.com/" data-iframely-url="//cdn.iframe.ly/42s9JM"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script><br>
@@ -194,12 +202,6 @@ UI/UX系多めでシンプルかつ遊び心のあるデザインが特徴。ベ
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.freepik.com" data-iframely-url="//cdn.iframe.ly/t9wRHpI?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script><br>
 
 イラストから写真まで幅広くカバー。オープンソースなので様々なアーティストが参加していて、psdやsvgも落とせます。有料版も含まれているので検索時に"free"をチェックするのを忘れずに
-
-### Canva
-
-<u><a href="https://www.canva.com/" target="_blank">リンクはこちら</a></u><br>
-
-360°好きなアングルで透明背景でダウンロード可能。無料版はwatermark付き。カバーしてないシーンないんじゃないかというぐらいアイテムが豊富
 
 ### BEIZ images（日本語）
 
