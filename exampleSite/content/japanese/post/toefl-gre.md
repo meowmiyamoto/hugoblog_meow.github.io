@@ -57,11 +57,22 @@ TOEFL iBTは<span class="keiko-red">**留学生としての英語スキルの証
 * GRE Generalスコア300以上 
 
 
-<!-- 参考までに、私のアメリカ大学院受験の全貌はこちらの記事からどうぞ -->
+ 参考までに、私のアメリカ大学院受験の全貌はこちらの記事からどうぞ
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/medical-illustration-overall/" data-iframely-url="//cdn.iframe.ly/P8Op4ty?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
+
+<a href="https://px.a8.net/svt/ejp?a8mat=3HMOV2+9CDXKI+430S+BZVU9" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www29.a8.net/svt/bgt?aid=211010654565&wid=001&eno=01&mid=s00000019054002015000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=3HMOV2+9CDXKI+430S+BZVU9" alt="">　<a href="https://px.a8.net/svt/ejp?a8mat=3HMOV2+9CDXKI+430S+C0B9T" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www27.a8.net/svt/bgt?aid=211010654565&wid=001&eno=01&mid=s00000019054002017000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=3HMOV2+9CDXKI+430S+C0B9T" alt="">
 
 ## 戦略：GREとTOEFLは同時に勉強する
 
-海外大学院受験において、<span class="keiko-red">**ぶっちゃけGREとTOEFLの優先順位は足切り対策程度です。**</span>研究や推薦状の方が遥かに重要なため、基本的にはあまり時間をかけずにサクッと済ませることが理想的です。
+海外大学院受験において、<span class="keiko-red">**ぶっちゃけGREとTOEFLの優先順位は足切り対策程度です。**</span>
+
+研究や推薦状の方が遥かに重要なため、基本的にはあまり時間をかけずにサクッと済ませることが理想的です。
 
 ### GREが突破できる英語力があればTOEFLは余裕
 
@@ -69,19 +80,37 @@ TOEFL iBTは<span class="keiko-red">**留学生としての英語スキルの証
 
 > GRE ＞＞＞ TOEFL
 
-WritingはTOEFLもGREも小論文が課題ですが、GREの方が遥かに出題も難しく、より高度なライティングを求められますし、GRE VerbalをカバーしていればTOEFLのリーディングは余裕です。これらをカバーした段階で基礎の英語力はかなり上がるはずです。TOEFLのSpeakingやListeningについては詳しく後述します。
+WritingはTOEFLもGREも小論文が課題ですが、GREの方が遥かに出題も難しく、より高度なライティングを求められますし、GRE VerbalをカバーしていればTOEFLのリーディングは余裕です。
+
+これらをカバーした段階で基礎の英語力はかなり上がるはずです。TOEFLのSpeakingやListeningについては詳しく後述します。
 
 それではまずGRE対策について見ていきましょう。
 
+<a href="https://px.a8.net/svt/ejp?a8mat=3HMOV2+9CDXKI+430S+BZVU9" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www29.a8.net/svt/bgt?aid=211010654565&wid=001&eno=01&mid=s00000019054002015000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=3HMOV2+9CDXKI+430S+BZVU9" alt="">　<a href="https://px.a8.net/svt/ejp?a8mat=3HMOV2+9CDXKI+430S+C0B9T" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www27.a8.net/svt/bgt?aid=211010654565&wid=001&eno=01&mid=s00000019054002017000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=3HMOV2+9CDXKI+430S+C0B9T" alt="">
+
 ## GRE対策
 
-Verbal、Writingは問題の難解さがレベチで、<span class="keiko-red">**英語が得意でもこの二つで高得点を目指すのはかなり難しい**</span>です。一方で<span class="keiko-red">**数学にあたるQuantitativeは中学レベルの数学の問題しか出題されません。**</span>「角度」や「直径」などの数学的な専門用語を覚える必要はありますが、単語さえ覚えてしまえば理系科目が苦手でも高得点は容易です。
+Verbal、Writingは問題の難解さがレベチで、<span class="keiko-red">**英語が得意でもこの二つで高得点を目指すのはかなり難しい**</span>です。
 
-GREはVerbal、Quantitativeにおいて最低点130点、最高点170点というシステムです。スコア300を越えるためには、<span class="keiko-red">**Verbal, Writingで一問も答えられなくても(130点)、Quantitativeで満点(170点)を取れれば300点を突破可能**</span>で、実際そう悪い条件ではありません。
+一方で<span class="keiko-red">**数学にあたるQuantitativeは中学レベルの数学の問題しか出題されません。**</span>
+
+「角度」や「直径」などの数学的な専門用語を覚える必要はありますが、単語さえ覚えてしまえば理系科目が苦手でも高得点は容易です。
+
+GREはVerbal、Quantitativeにおいて最低点130点、最高点170点というシステムです。
+
+スコア300を越えるためには、<span class="keiko-red">**Verbal, Writingで一問も答えられなくても(130点)、Quantitativeで満点(170点)を取れれば300点を突破可能**</span>で、実際そう悪い条件ではありません。
 
 ### Verbal
 
-三科目の中で最難関で、とにかく<span class="keiko-red">**英単語の引き出しを増やすことに注力するべき**</span>です。日本語でのGRE対策教材はかなり少なく、ぶっちゃけクオリティも低いので英英で勉強することをオススメします。参考までに、私が利用した日本語教材を紹介します。
+三科目の中で最難関で、とにかく<span class="keiko-red">**英単語の引き出しを増やすことに注力するべき**</span>です。
+
+日本語でのGRE対策教材はかなり少なく、ぶっちゃけクオリティも低いので英英で勉強することをオススメします。
+
+参考までに、私が利用した日本語教材を紹介します。
 
 {{% amazon 
  itemId="4757420331"
@@ -92,9 +121,13 @@ GREはVerbal、Quantitativeにおいて最低点130点、最高点170点とい�
 %}}
 
 
-GREの出題単語はかなり難解なので<span class="keiko-red">**TOEFLや受験対策用の教材、ましてやTOEICの単語帳では全く勉強になりません。**</span>この点は注意してください。
+GREの出題単語はかなり難解なので<span class="keiko-red">**TOEFLや受験対策用の教材、ましてやTOEICの単語帳では全く勉強になりません。**</span>
 
-主な教材としてｈこちらのFlash Cardを参考にしました。<span class="keiko-red">**移動中やちょっとした空き時間でも勉強できるところがオススメ**</span>です。
+この点は注意してください。
+
+主な教材としてｈこちらのFlash Cardを参考にしました。
+
+<span class="keiko-red">**移動中やちょっとした空き時間でも勉強できるところがオススメ**</span>です。
 
 {{% amazon 
  itemId="1506249728"
@@ -119,11 +152,15 @@ GREの出題単語はかなり難解なので<span class="keiko-red">**TOEFLや�
 
 ### Quantitative
 
-繰り返しになりますが、英語力を抜きにすれば出題課題は中学レベルの数学です。過去問を解きまくれば必要な単語を覚えますので、<span class="keiko-red">**10回分ぐらい過去問を解けば問題ない**</span>かと思います。
+繰り返しになりますが、英語力を抜きにすれば出題課題は中学レベルの数学です。
+
+過去問を解きまくれば必要な単語を覚えますので、<span class="keiko-red">**10回分ぐらい過去問を解けば問題ない**</span>かと思います。
 
 ### Writing
 
-Verbal同様、高得点を狙うというよりは<span class="keiko-red">**「可能な部分で点数を稼ぐ」**</span>というスタンスです。私が受けたときと変わっていなければ一限目はWritingなので、準備運動の気持ちでやると良いと思います。
+Verbal同様、高得点を狙うというよりは<span class="keiko-red">**「可能な部分で点数を稼ぐ」**</span>というスタンスです。
+
+私が受けたときと変わっていなければ一限目はWritingなので、準備運動の気持ちでやると良いと思います。
 
 * エッセイとしての構成がきちんとできている
 * 聞かれたことに（稚拙であっても）きちんと答えている
@@ -132,7 +169,15 @@ Verbal同様、高得点を狙うというよりは<span class="keiko-red">**「
 
 ## TOEFL対策
 
-繰り返しになりますが、一度GRE対策をすればTOEFLは楽勝です。GREでカバーされていないリスニングとスピーキング学習法については👇の記事を参考にしてください。
+<a href="https://px.a8.net/svt/ejp?a8mat=3HMOV2+9CDXKI+430S+BZVU9" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www29.a8.net/svt/bgt?aid=211010654565&wid=001&eno=01&mid=s00000019054002015000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=3HMOV2+9CDXKI+430S+BZVU9" alt="">　<a href="https://px.a8.net/svt/ejp?a8mat=3HMOV2+9CDXKI+430S+C0B9T" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www27.a8.net/svt/bgt?aid=211010654565&wid=001&eno=01&mid=s00000019054002017000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=3HMOV2+9CDXKI+430S+C0B9T" alt="">
+
+繰り返しになりますが、一度GRE対策をすればTOEFLは楽勝です。
+
+GREでカバーされていないリスニングとスピーキング学習法については👇の記事を参考にしてください。
 
 
 ### リスニング学習法
@@ -144,7 +189,9 @@ Verbal同様、高得点を狙うというよりは<span class="keiko-red">**「
 
 ## 何度でも受け直し可能！
 
-TOEFLもGREも、安くはありませんがお金さえあれば<span class="keiko-red">**何度でも受け直し可能**</span>です。大学院入試におけるTOEFL、GREの優先順位は低いので、あまり時間をかけすぎるのは良い戦略とは言えませんが、早めに受け、受け直し可能と知っておくことで精神的にはかなり楽になります。
+TOEFLもGREも、安くはありませんがお金さえあれば<span class="keiko-red">**何度でも受け直し可能**</span>です。
+
+大学院入試におけるTOEFL、GREの優先順位は低いので、あまり時間をかけすぎるのは良い戦略とは言えませんが、早めに受け、受け直し可能と知っておくことで精神的にはかなり楽になります。
 
 ## まとめ
 

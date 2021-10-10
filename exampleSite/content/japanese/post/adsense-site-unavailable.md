@@ -23,7 +23,9 @@ share: true
 
 という方はぜひ参考にして頂ければと思います。
 
-<span class="keiko-red">**robots.txtとサイトマップを揃えれば多くの場合、この問題は解決します。**</span>ブログ自体とは全く関係のないテクニカル部分ですが、SEO強化にもつながるので一度確認しておいて損のない内容だと思います。
+<span class="keiko-red">**robots.txtとサイトマップを揃えれば多くの場合、この問題は解決します。**</span>
+
+ブログ自体とは全く関係のないテクニカル部分ですが、SEO強化にもつながるので一度確認しておいて損のない内容だと思います。
 
 それでは詳しく見ていきましょう。
 
@@ -42,11 +44,15 @@ share: true
 
 ### robots.txtとは
 
-robots.txtとはGoogleやTwitterなどの検索エンジンに対して、サイトのどの部分にアクセスしてよいかを表記したものです。デフォルトの場合、Googleがブログにアクセスできていない可能性があり、そのために「サイト使用不可」のエラーが出ます。
+robots.txtとはGoogleやTwitterなどの検索エンジンに対して、サイトのどの部分にアクセスしてよいかを表記したものです。
+
+デフォルトの場合、Googleがブログにアクセスできていない可能性があり、そのために「サイト使用不可」のエラーが出ます。
 
 ### robots.txtの設定
 
-解決策としては簡単で、<span class="keiko-red">**robots.txtを作成してGoogleにブログへのアクセスを許可します。**</span>まずrootディレクトリにrobots.txtという名前でtxtファイルを作り、以下をコピペします。
+解決策としては簡単で、<span class="keiko-red">**robots.txtを作成してGoogleにブログへのアクセスを許可します。**</span>
+
+まずrootディレクトリにrobots.txtという名前でtxtファイルを作り、以下をコピペします。
 
 ```javascript
 User-agent: *
@@ -67,18 +73,26 @@ Allow: /
 Sitemap: https://サイトURL/sitemap.xml
 ```
 
-簡単に説明すると、まず最初の2行で、すべての検索エンジン(User-agent: \*\)にサイト全体のアクセスをブロック(Disallow: /)します。3-14行目は様々なGoogle検索エンジン(Mediapartners-google \*\, Googlebot-mobile, Adsbot-Google, Googlebot)にサイト全体のアクセスを許可(Allow: /)しています。サイトマップについては次項で解説します。
+簡単に説明すると、まず最初の2行で、すべての検索エンジン(User-agent: \*\)にサイト全体のアクセスをブロック(Disallow: /)します。
+
+3-14行目は様々なGoogle検索エンジン(Mediapartners-google \*\, Googlebot-mobile, Adsbot-Google, Googlebot)にサイト全体のアクセスを許可(Allow: /)しています。
+
+サイトマップについては次項で解説します。
 
 ## ②サイトマップを設定する
 
 ### サイトマップとは
 
-サイトマップとは、サイトのページ構成を一覧で記載したテキストファイルで、検索エンジンにサイト内容をわかりやすく伝えます。<span class="keiko-red">**SEO強化に重要なサイトマップはアドセンスにも大きな役割を担っています。**</span>
+サイトマップとは、サイトのページ構成を一覧で記載したテキストファイルで、検索エンジンにサイト内容をわかりやすく伝えます。
+
+<span class="keiko-red">**SEO強化に重要なサイトマップはアドセンスにも大きな役割を担っています。**</span>
 
 
 ### Googleサーチコンソールに登録する
 
-サイトマップの登録にはGoogle サーチコンソールを使用します。アカウントを作成後、左上のメニューから「プロパティを追加」をクリックします。
+サイトマップの登録にはGoogle サーチコンソールを使用します。
+
+アカウントを作成後、左上のメニューから「プロパティを追加」をクリックします。
 
 ![image](../../images/blog-content/adsense-site-unavailable-1.jpg)<br><br>
 
