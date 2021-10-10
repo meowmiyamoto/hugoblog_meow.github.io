@@ -1,12 +1,12 @@
 ---
 title: "情報商材を買わなくてもTwitterのフォロワーは5000人まで伸ばせる【無料｜SNS運用｜少ないツイートでバズる】"
 date: 2021-05-25
-lastmod: 2021-08-08
+lastmod: 2021-10-09
 # post thumb
 images:
   - "images/blog/twitter-strategy.jpg"
 # description
-description: "半年で3000人ほどフォロワーを増やしました私のTwitter運用術を公開します"
+description: "半年で3000人ほどフォロワーを増やした私のTwitter運用術を公開します"
 # Taxonomies
 categories: ["SNS運用","Webマーケティング"]
 tags: ["SNS運用"]
@@ -104,19 +104,22 @@ Twitterフォロワーを伸ばす方法は有料情報商材を中心に多く�
   imageUrl="https://images-na.ssl-images-amazon.com/images/I/51Z9bgnCJvL._SY491_BO1,204,203,200_.jpg"
 %}}
 
-
-
 「ツイートづくり」が一回できるようになれば、良ツイートは量産できるようになります。私がやっている手順は以下の通りです。
 
 1. <u><a href="https://twitter.com/search-advanced?lang=ja" target="_blank">Advanced Search</a></u>でインフルエンサーの過去ツイを検索
 2. 編集し、ツイートを作る
-3. <u><a href="https://social-dog.net/" target="_blank">Social Dog</a></u>で予約投稿する
+3. <u><a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+ECS9V6+3VAG+5ZEMQ" target="_blank">Social Dog</a></u>で予約投稿する
 
 自分ルールとして「パクって良い」を公言している人のツイートしか「編集」せず、3ヵ月以上前のものしか使っていません。
 
 <!-- Twitter advanced searchの使い方 -->
 
-<!-- Social Dogの使い方-->
+ツイートの予約投稿や管理、分析などは<a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+ECS9V6+3VAG+5ZEMQ" rel="nofollow">Social Dog （ソーシャルドッグ）</a>いうツールを使って行っています。👇の記事で詳しく紹介しているので、合わせてご覧ください。
+
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/socialdog/" data-iframely-url="//cdn.iframe.ly/PUdYQpO?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
+
 
 ### 半年「ツイート作り」したら徐々にラクになる
 

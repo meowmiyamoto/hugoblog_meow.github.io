@@ -25,7 +25,7 @@ share: true
 SNSやツイッター運用は面倒くさいし、苦手だな。好きじゃない。でも仕事柄マーケティングの意味でやらなきゃいけない。どうにか苦痛を軽減しながら続けられるようにしたい
 {{< /say-left >}}
 
-<span class="keiko-red">**私はもともとSNSが苦手で、できるだけやらずにいたいと思っています。**</span>実際、運営当初は1年半かけてリソースを割いたのに全く伸びずに「骨折り損のくたびれ儲け」という感じでした。<a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+ECS9V6+3VAG+5ZEMQ" rel="nofollow"><u>ソーシャルドッグ</u></a>を使うようになってからは<span class="keiko-red">**Twitter運用の負担が減り、効率も爆上がりしました。**</span>
+<span class="keiko-red">**私はもともとSNSが苦手で、**</span>実際、運営当初は1年半かけてリソースを割いたのに全く伸びずに「骨折り損のくたびれ儲け」という感じでした。<a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+ECS9V6+3VAG+5ZEMQ" rel="nofollow"><u>ソーシャルドッグ</u></a>を使うようになってからは<span class="keiko-red">**Twitter運用の負担が減り、効率も爆上がりしました。**</span>
 
 
 **実績とタイムライン**
