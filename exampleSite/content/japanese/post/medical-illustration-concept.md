@@ -79,20 +79,20 @@ share: true
 
 ### シェーマ 
 
-![image](http://maomiyamoto.com/img/scientific_figure.png)
+![image](../../images/blog-content/medical-illustration-concept-1.jpg)
 
 
 ### 学術論文表紙
 
-![image](http://maomiyamoto.com/img/portfolio/nanoparticle_mockup.png)
+![image](../../images/blog-content/medical-illustration-concept-2.jpg)
 
 ### 図解、患者教育
 
-![image](http://maomiyamoto.com/img/portfolio/diabetes_mockup.png)
+![image](../../images/blog-content/medical-illustration-concept-3.jpg)
 
 ### ウェブサイト制作
 
-![image](http://maomiyamoto.com/img/strategy.png)
+![image](../../images/blog-content/medical-illustration-concept-4.jpg)
 
 ### 医療従事者教育
 
