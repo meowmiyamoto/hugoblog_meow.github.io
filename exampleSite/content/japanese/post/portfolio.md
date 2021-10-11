@@ -81,7 +81,12 @@ share: true
 
 「イラストだけ」よりも、実際の使用例がある方が具体的なイメージがしやすいです。
 
-<!--モックアップが簡単に作れるテンプレートを配布しているサイトを以下で紹介しているので、ぜひご覧ください。-->
+モックアップが簡単に作れるテンプレートを配布しているサイトを以下で紹介しているので、ぜひご覧ください。
+
+
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/smartmockups/" data-iframely-url="//cdn.iframe.ly/GiKWdG2?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
 
 
 ### 「一緒にやりたい人」が明白

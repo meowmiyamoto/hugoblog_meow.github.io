@@ -8,8 +8,8 @@ images:
 # description
 description: "CanvaプラグインSmartmockupsについてを解説します。"
 # Taxonomies
-categories: ["SNS運用","Webマーケティング"]
-tags: ["SNS運用"]
+categories: ["フリーランス","イラスト","ポートフォリオ","イラストレーター"]
+tags: ["フリーランス"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 share: true
@@ -29,7 +29,8 @@ share: true
 > モックアップとは？<br><br>
 商品ビジュアルの完成系のこと。例えばイラストだと最終的には書籍やポスターなどの商品に使われますよね。実際にイラストが商品になったときにどう見えるか、書籍やポスターの形で見せるビジュアルをモックアップと言います。
 
-モックアップの例
+**モックアップの例**
+![image](../../images/blog-content/smartmockup-0.jpg#center)
 
 このサービスを知るまでは、私はフォトショップを使ってちまちまモックアップを作っていましたが、なんだかんだ写真を編集していると30分、1時間...と経ってしまいます。
 
