@@ -237,6 +237,9 @@ Index fundというのは市場の動きやデータを見ながら投資先をA
 
 最後にオススメ書籍を紹介します。ぜひ参考にしてみてください！
 
+
+「役に立った」と思っていただけたら、シェアいただけますと幸いです。ブログやWEBサイトなどでのご紹介もとても嬉しいです!
+
 {{% amazon 
   itemId="1523505745"
   title="I Will Teach You to Be Rich: No Guilt. No Excuses. No BS. Just a 6-Week Program That Works."

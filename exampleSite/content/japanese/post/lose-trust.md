@@ -8,7 +8,7 @@ images:
 # description
 description: "海外在住の私の思う「海外拠点のメリット」について解説します。"
 # Taxonomies
-categories: ["人間関係"]
+categories: ["人間関係", "マインドセット","豊かに暮らす"]
 tags: ["人間関係"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
@@ -112,3 +112,5 @@ share: true
 なので私の言っていることは甘いかもしれません。
 
 が、<span class="keiko-red">**いちいち気に留めないことで自分が幸せに生きていられるという現実もあります。**</span>
+
+「役に立った」と思っていただけたら、シェアいただけますと幸いです。ブログやWEBサイトなどでのご紹介もとても嬉しいです!

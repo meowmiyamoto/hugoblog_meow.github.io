@@ -160,6 +160,8 @@ SmartmockupsはAIを使っており、<span class="keiko-red">**デザインを�
 
 以上「CanvaのSmartmockupsで誰でも超簡単にオンラインでおしゃれなモックアップを作ろう！」でした！Canvaを使えばモックアップ作成を効率化できます。ぜひ無料で体験してみてください！
 
+「役に立った」と思っていただけたら、シェアいただけますと幸いです。ブログやWEBサイトなどでのご紹介もとても嬉しいです!
+
 <a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+F5YIIA+4M9K+60H7L" rel="nofollow">
 <img border="0" width="300" height="250" alt="" src="https://www23.a8.net/svt/bgt?aid=211009641917&wid=001&eno=01&mid=s00000021548001010000&mc=1"></a>
 <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=3HMO2X+F5YIIA+4M9K+60H7L" alt="">　<a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+F5YIIA+4M9K+61Z81" rel="nofollow">

@@ -166,3 +166,5 @@ imageUrl="https://images-na.ssl-images-amazon.com/images/I/51fmMLhprKL._SX352_BO
 
 ぜひチャレンジしてみてください！
 
+「役に立った」と思っていただけたら、シェアいただけますと幸いです。ブログやWEBサイトなどでのご紹介もとても嬉しいです!
+

@@ -178,6 +178,8 @@ Twitter Validatorはデバッグできないのでしらみ潰しに試すしか
 
 より詳しく見てみたいという方は、以下のtwitter developer公式サイトを参考にしてください。
 
+「役に立った」と思っていただけたら、シェアいただけますと幸いです。ブログやWEBサイトなどでのご紹介もとても嬉しいです!
+
 {{< notice "link" >}}
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://developer.twitter.com/en/docs/twitter-for-websites/cards/guides/troubleshooting-cards" data-iframely-url="//cdn.iframe.ly/JWqXDXh?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 {{< /notice >}}

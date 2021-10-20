@@ -10,7 +10,7 @@ description: "海外フリーランサーである私が「好きなことで生
 # Taxonomies
 categories: ["フリーランス", "キャリア戦略"]
 tags: ["フリーランス"]
-type: "trending" # available type (epic, trending, popular, or regular)
+type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 share: true
 ---
@@ -99,3 +99,5 @@ YouTuberが好きなことをして生計を立てているキャンペーンか
 * **幸せや自分ができる範囲を自分の頭で考える**
 * **「好きなこと」は指標のひとつ**
 * **手持ちのカード全てを見て戦略を立てる方が現実的**
+
+「役に立った」と思っていただけたら、シェアいただけますと幸いです。ブログやWEBサイトなどでのご紹介もとても嬉しいです!

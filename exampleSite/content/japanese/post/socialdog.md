@@ -8,7 +8,7 @@ images:
 # description
 description: "SNS苦手だけどSocial Dogを使って半年で3000人フォロワーを増やしました"
 # Taxonomies
-categories: ["SNS運用","Webマーケティング"]
+categories: ["SNS運用","おすすめ商品"]
 tags: ["SNS運用"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
@@ -195,6 +195,8 @@ Social Dogからの投稿はツイートに表示されます。
 ## まとめ
 
 以上「SNS苦手な人にTwitter管理＆分析ツール『Social Dog （ソーシャルドッグ）』がオススメです！」でした！ソーシャルドッグを使うことでSNS人生がかなり捗るので、ぜひ無料で14日間、体験してみてください！
+
+「役に立った」と思っていただけたら、シェアいただけますと幸いです。ブログやWEBサイトなどでのご紹介もとても嬉しいです!
 
 <a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+ECS9V6+3VAG+601S1" rel="nofollow">
 <img border="0" width="728" height="90" alt="" src="https://www20.a8.net/svt/bgt?aid=211009641868&wid=001&eno=01&mid=s00000018052001008000&mc=1"></a>

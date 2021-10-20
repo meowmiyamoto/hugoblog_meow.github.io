@@ -48,3 +48,6 @@ fpsはiPhone側でも動画編集ソフト側でも設定可能ですが、二�
 
 ## ⑤「オフ」をチェック
 ![image](../../images/blog-content/video-sound-unsync-5.jpg#center)<br><br>
+
+
+「役に立った」と思っていただけたら、シェアいただけますと幸いです。ブログやWEBサイトなどでのご紹介もとても嬉しいです!

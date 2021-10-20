@@ -10,7 +10,7 @@ description: "プロのフリーランサーである私が相手を不快にさ
 # Taxonomies
 categories: ["フリーランス", "イラスト", "イラストレーター"]
 tags: ["フリーランス"]
-type: "trending" # available type (epic, trending, popular, or regular)
+type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 share: true
 ---
@@ -147,3 +147,5 @@ share: true
 * **断らないといけないときは「なるはや」で断る**
 * **同意した状況から状況が変わったら、いつでも断る権利はある**
 * **「どう思われるか」ではなくビジネス的に「結果を出せるか」で考える**
+
+「役に立った」と思っていただけたら、シェアいただけますと幸いです。ブログやWEBサイトなどでのご紹介もとても嬉しいです!

@@ -48,6 +48,9 @@ share: true
 
 {{< tweet 1407465985846689795 >}}
 
+<a href="https://px.a8.net/svt/ejp?a8mat=3HMOV2+9DKSS2+2N96+67Z9U" rel="nofollow"><u>職場で使えるオンライン英会話</u></a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=3HMOV2+9DKSS2+2N96+67Z9U" alt="">
+
 ### スピーキングできれば頭ひとつ抜けられる
 
 👆のようなことがあるので、逆にスピーキングができれば（日本人の間では）英語力は頭ひとつ抜けられます。
@@ -99,6 +102,9 @@ share: true
 理由は「教科書に載っている英語が日常英語としては不自然だから」です。
 
 それよりも、現地の人が日常的に触れるものを使う方が自然で使える英語が身につきます。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=3HMOV2+9DKSS2+2N96+67Z9U" rel="nofollow"><u>職場で使えるオンライン英会話</u></a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=3HMOV2+9DKSS2+2N96+67Z9U" alt="">
 
 ### 海外ドラマ
 
@@ -152,6 +158,9 @@ share: true
 「話し相手」を正しく選び、学びを伸ばす環境を選ぶかどうかで勝敗が決まると言ってもおかしくありません。
 
 それでは正しい話し相手・環境について詳しく見ていきましょう。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=3HMOV2+9DKSS2+2N96+67Z9U" rel="nofollow"><u>職場で使えるオンライン英会話</u></a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=3HMOV2+9DKSS2+2N96+67Z9U" alt="">
 
 ### 発音を気にする人を避けること
 
@@ -213,3 +222,5 @@ share: true
 発音に気をとられることなく、怖がらずに「自然に言葉がでてくる」ようにすればスピーキングはできるようになりますよ。
 
 ぜひチャレンジしてみてください！
+
+「役に立った」と思っていただけたら、シェアいただけますと幸いです。ブログやWEBサイトなどでのご紹介もとても嬉しいです!
