@@ -8,7 +8,7 @@ images:
 # description
 description: "プロのフリーランサーである私が相手を不快にさせずにフリーランスの案件を断る方法を解説します。"
 # Taxonomies
-categories: ["フリーランス", "イラスト", "イラストレーター"]
+categories: ["フリーランス", "人間関係"]
 tags: ["フリーランス"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false

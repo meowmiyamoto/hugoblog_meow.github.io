@@ -8,7 +8,7 @@ images:
 # description
 description: "フリーランサーになりたての人が優先的にやるべきことをまとめました。"
 # Taxonomies
-categories: ["副業","フリーランス","ワークライフバランス"]
+categories: ["副業","フリーランス","豊かに暮らす"]
 tags: ["フリーランス"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
