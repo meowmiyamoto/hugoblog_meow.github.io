@@ -108,7 +108,11 @@ share: true
   imageUrl="https://m.media-amazon.com/images/I/61agZtkT49L.jpg"
 %}}
 
-<!--他にも私自身が実践している方法を👇でまとめています。-->
+他にも私自身が実践している方法を👇でまとめています。
+
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/cut-smartphone-time/" data-iframely-url="//cdn.iframe.ly/tizOCse?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
 
 
 ## 自分の幸せを自分で守る
