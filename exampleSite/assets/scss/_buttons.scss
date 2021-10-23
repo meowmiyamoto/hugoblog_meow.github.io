@@ -5,8 +5,6 @@
   font-weight: 700;
   text-transform: uppercase;
   padding: 10px 22px;
-  border-radius: 50px;
-  border: 1px solid;
   position: relative;
   z-index: 1;
   transition: .2s ease;
@@ -24,6 +22,8 @@
   background: $primary-color;
   color: $white;
   border-color: $primary-color;
+  border-radius: 50px;
+  border: 1px solid;
 
   &:active,
   &:hover,
@@ -38,6 +38,8 @@
   background: transparent;
   color: $primary-color;
   border-color: $primary-color;
+  border-radius: 50px;
+  border: 1px solid;
 
   &:active,
   &:hover,
@@ -45,6 +47,21 @@
   &.active {
     background: $primary-color !important;
     border-color: $primary-color !important;
+    color: $white;
+  }
+}
+
+.btn-text-primary{
+  background: #FF744E;
+  color: $white;
+  border-color: #FF744E;
+
+  &:active,
+  &:hover,
+  &.focus,
+  &.active {
+    background: #FF744E !important;
+    border-color: #FF744E !important;
     color: $white;
   }
 }

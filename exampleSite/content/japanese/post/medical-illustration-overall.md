@@ -10,7 +10,7 @@ description: "メディカルイラストレーション修士プログラム合
 # Taxonomies
 categories: ["大学院留学", "メディカルイラストレーター"]
 tags: ["メディカルイラストレーター"]
-type: "trending" # available type (epic, trending, popular, or regular)
+type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 share: true
 ---

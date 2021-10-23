@@ -19,6 +19,8 @@ share: true
 本記事ではツイッター管理＆分析ツール「<a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+ECS9V6+3VAG+5ZEMQ" rel="nofollow"><u>Social Dog （ソーシャルドッグ）</u></a>」についてレビューします。
 <a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+ECS9V6+3VAG+5ZEMQ" rel="nofollow"><img src="../../images/blog-content/socialdog-10.jpg#center"></a>
 
+<div class="text-btn"><a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+ECS9V6+3VAG+5ZEMQ" class="btn btn-text-primary mb-2">今すぐ無料で14日間お試し登録！</a></div><br><br>
+
 <a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+ECS9V6+3VAG+5ZEMQ" rel="nofollow">ソーシャルドッグ</a>はこんな人にオススメです。
 
 {{< say-left >}}
@@ -77,6 +79,8 @@ UIもかなりわかりやすく、カレンダービューでツイート予約
 <img border="0" width="728" height="90" alt="" src="https://www29.a8.net/svt/bgt?aid=211009641868&wid=001&eno=01&mid=s00000018052001061000&mc=1"></a>
 <img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=3HMO2X+ECS9V6+3VAG+6BEQ9" alt="">
 
+<div class="text-btn"><a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+ECS9V6+3VAG+5ZEMQ" class="btn btn-text-primary mb-2">今すぐ無料で14日間お試し登録！</a></div><br><br>
+
 
 有料プランの詳細は次の通りです。
 
@@ -97,7 +101,7 @@ UIもかなりわかりやすく、カレンダービューでツイート予約
 <a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+ECS9V6+3VAG+601S1" rel="nofollow">
 <img border="0" width="728" height="90" alt="" src="https://www20.a8.net/svt/bgt?aid=211009641868&wid=001&eno=01&mid=s00000018052001008000&mc=1"></a>
 <img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=3HMO2X+ECS9V6+3VAG+601S1" alt="">
-
+<div class="text-btn"><a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+ECS9V6+3VAG+5ZEMQ" class="btn btn-text-primary mb-2">今すぐ無料で14日間お試し登録！</a></div><br><br>
 
 ## メリット②ツイート分析
 
@@ -116,7 +120,7 @@ Twitterには各ツイートの分析機能がありますが、アカウント�
 <a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+ECS9V6+3VAG+6BEQ9" rel="nofollow">
 <img border="0" width="728" height="90" alt="" src="https://www29.a8.net/svt/bgt?aid=211009641868&wid=001&eno=01&mid=s00000018052001061000&mc=1"></a>
 <img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=3HMO2X+ECS9V6+3VAG+6BEQ9" alt="">
-
+<div class="text-btn"><a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+ECS9V6+3VAG+5ZEMQ" class="btn btn-text-primary mb-2">今すぐ無料で14日間お試し登録！</a></div><br><br>
 
 ## デメリット　予約投稿を好まない人も
 
@@ -164,6 +168,7 @@ Social Dogからの投稿はツイートに表示されます。
 <a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+ECS9V6+3VAG+601S1" rel="nofollow">
 <img border="0" width="728" height="90" alt="" src="https://www20.a8.net/svt/bgt?aid=211009641868&wid=001&eno=01&mid=s00000018052001008000&mc=1"></a>
 <img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=3HMO2X+ECS9V6+3VAG+601S1" alt="">
+<div class="text-btn"><a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+ECS9V6+3VAG+5ZEMQ" class="btn btn-text-primary mb-2">今すぐ無料で14日間お試し登録！</a></div><br><br>
 
 ## Social Dog登録方法
 
@@ -201,6 +206,7 @@ Social Dogからの投稿はツイートに表示されます。
 <a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+ECS9V6+3VAG+601S1" rel="nofollow">
 <img border="0" width="728" height="90" alt="" src="https://www20.a8.net/svt/bgt?aid=211009641868&wid=001&eno=01&mid=s00000018052001008000&mc=1"></a>
 <img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=3HMO2X+ECS9V6+3VAG+601S1" alt="">
+<div class="text-btn"><a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+ECS9V6+3VAG+5ZEMQ" class="btn btn-text-primary mb-2">今すぐ無料で14日間お試し登録！</a></div><br><br>
 
 {{< notice "link" >}}
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/twitter-strategy/" data-iframely-url="//cdn.iframe.ly/1cgV3v9?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>

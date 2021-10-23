@@ -29,6 +29,7 @@ enableRobotsTXT = true
 # site variables
 [params.variables]
 primary_color = "#41C9B4"
+secondary_color = "#FF744E"
 text_color = "#555"
 text_color_dark = "#333"
 text_color_light = "#777"

@@ -1,5 +1,5 @@
 ---
-title: "売れるイラストの特徴をプロのイラストレーターが徹底分析してみた【フリーランス｜オリジナル】"
+title: "売れるイラストの特徴をプロのイラストレーターが徹底分析してみた【フリーランス｜オリジナル｜需要のあるイラスト｜どんなイラストが売れる？】"
 date: 2021-05-04
 lastmod: 2021-05-08
 # post thumb
@@ -10,7 +10,7 @@ description: "プロのフリーランサーが「売れるイラスト」につ
 # Taxonomies
 categories: ["フリーランス","イラスト"]
 tags: ["フリーランス"]
-type: "regular" # available type (epic, trending, popular, or regular)
+type: "trending" # available type (epic, trending, popular, or regular)
 draft: false
 share: true
 ---
@@ -30,8 +30,7 @@ share: true
 
 <span class="keiko-red">**売れるイラストは「使いやすい9割、オリジナル1割」です。**</span>
 
-フリーランスではオリジナリティよりも「基本」がしっかりしている「商業型イラストレーター」を目指す方が圧倒的に戦略的です。
-
+フリーランスではオリジナリティよりも「これをこういうスタイルで描いてください」と言われて100%対応できる「商業型イラストレーター」を目指す方が圧倒的に戦略的です。
 
 それでは詳しく見ていきましょう。
 
