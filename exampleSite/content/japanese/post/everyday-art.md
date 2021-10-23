@@ -166,6 +166,10 @@ share: true
 
 しかし、<span class="keiko-red">**あなたは「休まずやっている人」として知られたいのか「上達する人」として知られたいのか一度、考えましょう。**</span>
 
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.25%; padding-top: 120px;"><a href="https://menglish.jp/post/post-everyday/" data-iframely-url="//cdn.iframe.ly/lab5o2Z"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
+
 <span class="keiko-red">**戦略なしに進める期間には限られています。**</span>
 
 長くても6週間ぐらいで一回切って戦略を立て直した方が良いでしょう。
@@ -209,7 +213,7 @@ share: true
 「『一週間かけて本気の作品を作る』を一年間やる」の検証もしていますので、よければご覧ください。
 
 {{< notice "link" >}}
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/one-art-per-week/" data-iframely-url="//cdn.iframe.ly/KNDZBOu?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.25%; padding-top: 120px;"><a href="https://menglish.jp/post/one-art-per-week/" data-iframely-url="//cdn.iframe.ly/KNDZBOu"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 {{< /notice >}}
 
 「役に立った」と思っていただけたら、シェアいただけますと幸いです。ブログやWEBサイトなどでのご紹介もとても嬉しいです!
