@@ -31,6 +31,11 @@ share: true
 
 私自身、ブログ界隈のメインストリームであるWordpressやレンタルブログでは満足できずにいました。
 
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/wordpress-not-really/" data-iframely-url="//cdn.iframe.ly/t9Uuwja?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script><br><br>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/note-not-really/" data-iframely-url="//cdn.iframe.ly/906Ba69?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
+
 Hugoは少し学習コストがありますが、<span class="keiko-red">**使いやすさ・自由度・セキュリティ・SEO・ページのサイズなど多くの面において他のブログサービスとは圧倒的に一線を画しています。**</span>
 
 それでは詳しく見ていきましょう。
@@ -81,9 +86,9 @@ Wordpressなど、CMS（コンテンツ管理システム）を使ってペー�
 
 そして、それぞれの言語を学ぶ必要があります。
 
-しかし今からブログを始めるのであればWordpressが使うPHPはかなり時代遅れの言語ですし、どうせ知識をつけないとガチ運営できないのはWordpressでも他のプラットフォームでも同じです。
+しかし今からブログを始めるのであれば、どうせ知識をつけないとガチ運営できないのはWordpressでも他のプラットフォームでも同じです。
 
-そのため、静的サイトジェネレーターを使うためのラーニングコストはWordpressを学ぶためのものと同等と考えてオッケーです。
+そのため、<span class="keiko-red">**静的サイトジェネレーターを使うためのラーニングコストはWordpressを学ぶためのものと同等と考えてオッケーです。**</span>
 
 当ブログは静的サイトジェネレーターの中でもGo言語を使ったHugoを使用してブログを運営しています。
 
@@ -133,11 +138,15 @@ Hugoは標準装備で高機能のため、有料プラグインがほとんど�
 
 ### ⑥界隈のクリーンさ
 
-Wordpressやレンタルブログがまだまだ主流なブログ界隈では、胡散臭い人は山ほどいます。
+Wordpressやレンタルブログがまだまだ主流なブログ界隈では、胡散臭い人が山ほどいます。
 
 参入障壁がちょっとだけ高いが故に、<span class="keiko-red">**Hugoや他の静的サイトジェネレーター界隈は胡散臭いブロガーはあんまりいません。**</span>
 
-界隈のクリーンさはブログ運営におけるメンタル面やブランディングにおいて重要です。
+何度かチャレンジしてWordpressもレンタルブログも個人的にはあまり良さを感じられませんでした。
+
+そのため手放しで「Wordpress最高！」という人には少し身構えるようになりました。
+
+ブログ運営の「できるだけ正直でいたい」というブランディング的にWordpressを意識的に外れたという経緯もあります。
 
 ### ⑦SEO
 

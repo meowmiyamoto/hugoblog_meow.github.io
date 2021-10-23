@@ -76,7 +76,10 @@ share: true
 
 多くの人は「現実的な目標設定ができていない」のが原因で毎日更新も成長記録もストップします。詳しくは👇の記事に書いていますので参考にしてください。
 
-<!-- -->
+
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/everyday-art/" data-iframely-url="//cdn.iframe.ly/DHLvx5E?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
 
 ## ③積み上げられない
 

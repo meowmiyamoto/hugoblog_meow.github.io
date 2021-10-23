@@ -209,6 +209,7 @@ share: true
 「『一週間かけて本気の作品を作る』を一年間やる」の検証もしていますので、よければご覧ください。
 
 {{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/one-art-per-week/" data-iframely-url="//cdn.iframe.ly/KNDZBOu?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 {{< /notice >}}
 
 「役に立った」と思っていただけたら、シェアいただけますと幸いです。ブログやWEBサイトなどでのご紹介もとても嬉しいです!

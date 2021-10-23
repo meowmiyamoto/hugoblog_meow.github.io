@@ -15,7 +15,7 @@ draft: false
 share: true
 ---
 
-こんにちは！めお(<u><a href="https://twitter.com/meeowmiya" target="_blank">@meeowmiya</a></u>)です。
+こんにちは！めお(<a href="https://twitter.com/meeowmiya" target="_blank">@meeowmiya</a>)です。
 
 {{< say-left >}}
 1週間に1枚、1年間（=52週間）作品を毎週作ってSNSにアップしたら上達するか？
@@ -182,6 +182,7 @@ SNSであれイラスト仲間であれ家族であれ、良くない作品を�
 「一日一絵」の検証もしていますので、よければご覧ください。
 
 {{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/everyday-art/" data-iframely-url="//cdn.iframe.ly/DHLvx5E?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 {{< /notice >}}
 
 「役に立った」と思っていただけたら、シェアいただけますと幸いです。ブログやWEBサイトなどでのご紹介もとても嬉しいです!
