@@ -37,6 +37,18 @@ share: true
 
 {{< toc >}}
 
+## 日本の年金制度だけでは足りないのか？
+
+もうすぐ定年になる人にとっては年金で十分に暮らしていける可能性はありますが、<span class="keiko-red">**現在働き盛りの人は日本の年金だけではかなり不安というのが正直なところです。**</span>
+
+一方で「年金制度は破綻している」という現実はありますが、年金制度の優れた点は65歳（または60歳）から"死ぬまで"もらえることです。
+
+海外移住したら年金をもらえるのか？についてはこちらをご覧ください。
+
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/jp-retirement/" data-iframely-url="//cdn.iframe.ly/n3vielT?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
+
 ## アメリカ年金制度のしくみ
 ![image](../../images/blog-content/us-retirement-3.jpg)<br><br>
 

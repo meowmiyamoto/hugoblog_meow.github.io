@@ -6,7 +6,7 @@ lastmod: 2021-10-24
 images:
   - "images/blog/jp-retirement.jpg"
 # description
-description: "味重視で、ニューヨークで個人的においしかったアイスクリーム・ジェラート専門店を8つ、厳選してご紹介します。"
+description: "海外移住すると年金は受け取れるのか問題について解説します。"
 # Taxonomies
 categories: ["海外移住","海外フリーランス","お金のこと"]
 tags: ["海外で働く"]
@@ -99,5 +99,10 @@ share: true
 ## まとめ
 
 以上、「海外移住すると年金は受け取れるのか問題」でした！追加でわかったことがあれば随時更新していきます。
+
+アメリカへの移住者は、アメリカでの年金制度もぜひご検討ください。
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/us-retirement/" data-iframely-url="//cdn.iframe.ly/OBSmYVe?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
 
 「役に立った」と思っていただけたら、シェアいただけますと幸いです。ブログやWEBサイトなどでのご紹介もとても嬉しいです!
