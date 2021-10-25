@@ -97,11 +97,9 @@ share: true
 
 ### Bizseek
 
-<!-- change to affiliate link when approved -->
+<a href="https://px.a8.net/svt/ejp?a8mat=3HMZ1V+9Z0EK2+3QHY+5ZMCH" rel="nofollow"><img src="../../images/blog-content/bizseek.jpg#center"></a>
 
-<a href="https://www.bizseek.jp/" rel="nofollow"><img src="../../images/blog-content/bizseek.jpg#center"></a>
-
-<div class="text-btn"><a href="https://www.bizseek.jp/" class="btn btn-text-primary mb-2">今すぐ無料登録！</a></div><br><br>
+<div class="text-btn"><a href="https://px.a8.net/svt/ejp?a8mat=3HMZ1V+9Z0EK2+3QHY+5ZMCH" class="btn btn-text-primary mb-2">今すぐ無料登録！</a></div><br><br>
 
 手数料は業界内最安級なのが魅力的です。なんと他社の手数料の「半額」！登録者がまだ少ないので、高額案件を狙いやすいのも特徴です。
 
