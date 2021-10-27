@@ -204,7 +204,7 @@ share: true
 「使いやすい」ものを真似ることが「売れる」ことへの第一歩です。ぜひチャレンジしてみてください。
 
 {{< notice "link" >}}
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/sales-technique/" data-iframely-url="//cdn.iframe.ly/gABcgq0?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.25%; padding-top: 120px;"><a href="https://menglish.jp/post/original-illustration/" data-iframely-url="//cdn.iframe.ly/kpJvnO6"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 {{< /notice >}}
 
 「役に立った」と思っていただけたら、シェアいただけますと幸いです。ブログやWEBサイトなどでのご紹介もとても嬉しいです!
