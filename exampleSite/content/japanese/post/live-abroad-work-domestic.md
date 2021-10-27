@@ -175,7 +175,7 @@ SNSを使うのが得意な人は、SNS経由で案件獲得も可能です。
 帰国の際にはポートフォリオをまとめたり、SNSで告知するなどして帰国時の活動を最大限活用できるようにしています。
 
 {{< notice "link" >}}
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/portfolio/" data-iframely-url="//cdn.iframe.ly/xgOrzwb?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.25%; padding-top: 120px;"><a href="https://menglish.jp/post/sales-technique/" data-iframely-url="//cdn.iframe.ly/gABcgq0"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 {{< /notice >}}
 
 ## ※就労ビザなしでの労働は違法

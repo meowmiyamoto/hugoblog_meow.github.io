@@ -89,15 +89,15 @@ share: true
 
 ### 新しいスキルを身につけるための基本ステップ
 「スキルがない」という人に向けて、新しいスキルを手に入れるときに自分のとるステップを解説します。
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/skill/" data-iframely-url="//cdn.iframe.ly/0RZ06W9?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.25%; padding-top: 120px;"><a href="https://menglish.jp/post/skill/" data-iframely-url="//cdn.iframe.ly/0RZ06W9"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 ### イラストスキルを身につけるために通った学校
 私がイラストレーターになるまでに通った学校を解説します。学校やスクール選びに参考にしてください。
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/illustration-school/" data-iframely-url="//cdn.iframe.ly/TsgOLTB?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.25%; padding-top: 120px;"><a href="https://menglish.jp/post/illustration-school/" data-iframely-url="//cdn.iframe.ly/M8clIPV"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 ### ニッチ戦略
 この記事の前提である「独立」つまり「それだけで食っていける」を目指すためにはニッチを見極めるのは重要です。同じスキルでも、熟練度とニッチによってフリーランスには簡単にも無理ゲーにもなります。
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/side-hustle-niche/" data-iframely-url="//cdn.iframe.ly/YqCt5f3?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.25%; padding-top: 120px;"><a href="https://menglish.jp/post/side-hustle-niche/" data-iframely-url="//cdn.iframe.ly/Vbdp4hx"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 
 ## ②質の良いクライアントとつながる「営業」
@@ -111,14 +111,14 @@ share: true
 こちらの記事では、営業に関するよくある勘違いについて解説しています。
 
 苦手意識を取り払って自分のスタイルを見つけることで営業は楽しいものになりますし、うまく営業することで営業自体も減らしていくことができます。
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/sales-mistake/" data-iframely-url="//cdn.iframe.ly/xivqw0Z?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.25%; padding-top: 120px;"><a href="https://menglish.jp/post/sales-mistake/" data-iframely-url="//cdn.iframe.ly/xivqw0Z"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 ### 営業が苦手でもやりやすい営業術
 これまでに営業職での経験がないと、苦手意識を感じやすいスキルです。
 
 営業もスキルのひとつなので、練習を積めば得意になってきます。この記事では、初めてでも始めやすい営業の手法について紹介します。
 
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/sales-technique/" data-iframely-url="//cdn.iframe.ly/gABcgq0?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.25%; padding-top: 120px;"><a href="https://menglish.jp/post/sales-technique/" data-iframely-url="//cdn.iframe.ly/gABcgq0"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 
 ## ツールを上手に使う
@@ -132,10 +132,10 @@ share: true
 
 ### ポートフォリオ
 
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/portfolio/" data-iframely-url="//cdn.iframe.ly/xgOrzwb?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.25%; padding-top: 120px;"><a href="https://menglish.jp/post/portfolio/" data-iframely-url="//cdn.iframe.ly/xgOrzwb"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 ### 単価設定
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/pricing/" data-iframely-url="//cdn.iframe.ly/rIfOpCo?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.25%; padding-top: 120px;"><a href="https://menglish.jp/post/pricing/" data-iframely-url="//cdn.iframe.ly/rIfOpCo"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 ## 中級者以上向けの積み上げ
 フリーランスを開始するにあたって必要なのは以上です。
@@ -151,7 +151,7 @@ share: true
 * 節税
 
 {{< notice "link" >}}
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/freelance-sns/" data-iframely-url="//cdn.iframe.ly/7iYCouV?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.25%; padding-top: 120px;"><a href="https://menglish.jp/post/freelance-sns/" data-iframely-url="//cdn.iframe.ly/7iYCouV"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 {{< /notice >}}
 
 ## まとめ

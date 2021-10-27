@@ -1,7 +1,7 @@
 ---
-title: "売れるイラストを描くコツをプロのイラストレーターが徹底分析してみた【フリーランス｜オリジナル｜需要のあるイラスト｜どんなイラストが売れる？】"
+title: "売れるイラストを描くコツをプロのイラストレーターが徹底分析してみた【フリーランス｜オリジナル｜需要のあるイラスト｜共通点】"
 date: 2021-05-04
-lastmod: 2021-05-08
+lastmod: 2021-10-26
 # post thumb
 images:
   - "images/blog/illustration-that-sells.jpg"
@@ -18,123 +18,193 @@ share: true
 こんにちは！めお(<u><a href="https://twitter.com/meeowmiya" target="_blank">@meeowmiya</a></u>)です。
 
 {{< say-left >}}
-フリーランスとして求められている「売れるイラスト」って何？どう練習すればいいの？
+イラストを描き始めたけど、なかなか売れない。売れるイラストってどうやったら描けるの？
 {{< /say-left >}}
 
 こういった疑問にお応えします。この記事を読んで得られることは次の通りです。
 
+* **需要が多く、売れやすいイラストの本質的な特徴がわかる**
+* **売れやすいイラストを分析し、自分のイラストに反映する方法がわかる**
+* **自分のイラストが「売れるレベル」に達しているか調べる方法がわかる**
 
-* **商業型イラストレーターと作家型イラストレーターの違いがわかる**
-* **受注型フリーランスで求められるスキルがわかる**
-* **需要が多く、売れやすいイラストの特徴がわかる**
+<span class="keiko-red">**売れるイラストには本質的に「商品が売れる」という共通点があります。**</span>
 
-<span class="keiko-red">**売れるイラストは「使いやすい9割、オリジナル1割」です。**</span>
-
-フリーランスではオリジナリティよりも「これをこういうスタイルで描いてください」と言われて100%対応できる「商業型イラストレーター」を目指す方が圧倒的に戦略的です。
+「商品が売れる」から逆算すれば、ジャンル別にどういうイラストが売れるかを分析することができ、自分自身のイラストにも反映させることができます。
 
 それでは詳しく見ていきましょう。
 
 {{< toc >}}
 
-## 商業型イラストレーターと作家型イラストレーターの違い
+## 売れるイラストは「見たことがある」
 
-売れるイラストを理解する上で、「商業型」と「作家型」という2種類のイラストレーターを紹介します。
+普段生活している中でよく目にするイラストを分析してみましょう。
 
-### 作家型イラストレーター
-![image](../../images/undraw/undraw_art_museum.svg)<br><br>
+イラストレーターやデザイナーなら審美眼が鋭く、ついつい「すごい」「画力が高い」「デザインが美しい」など芸術性の高い作品に目が行くかもしれません。
 
-「この作品と言えばこの人」のような独特の世界観、作風や商品が売りです。
+しかし、<span class="keiko-red">**それよりも「どこかで見たことある」ことの方が多いはずだと思います。**</span>
 
-「ぜひこの人の絵柄がほしい」と言われるイラストレーターにとって憧れの存在。広義で言うと庵野秀明やイーロン・マスク、スタートアップなど<span class="keiko-red">**まだ具現化されていない（＝オリジナルな）需要を生み出す」イノベーター**</span>を指します。
+テレビをつければ「見たことのあるタレント」が出ています。
 
-このビジネスモデルは<span class="keiko-red">**作ろうとしているオリジナリティに本当に需要がある」と証明するところから始まる**</span>ため、資金調達（投資を受ける、など）から始めなければならず、利益が発生するまでに時間を要します。
+ブログやWEBサイトも「見たことのあるレイアウト」だし、使われる写真もなんとなく似ていますよね。
 
-当たればデカイですが、売れなければ価値が低く、トレンドに左右されて飽きられると詰みます。
+化粧品コーナーに行けば、「似たタッチのイラスト」や「似た色味」で埋め尽くされているし、書籍の挿絵もなんとなく似ています。
 
-### 商業型イラストレーター
-![image](../../images/undraw/undraw_mobile_prototyping.svg)<br><br>
-「これをこういうスタイルで描いてください」と言われて100%対応できる何でも屋です。作家型と比べると華やかさに欠けますが、様々な要求に対応できる盤石なイラストスキルがあります。
+つまり、<span class="keiko-red">**売れているイラストは「どこかで見たことがある」イラスト**</span>です。
 
-作家型イラストレーターとの最大の違いは<span class="keiko-red">**既に需要のあるものを作る**</span>ことです。「これをやってください」と言われる（＝既に需要があるとわかっている）のでリスクが低く、<span class="keiko-red">**利益に結びつくまでが早い上に息が長い**</span>です。
+### 「どこかで見たことがある」は「売れる保証がされている」
+
+{{< say-left >}}
+なぜ「どこかで見たことがある」イラストで溢れているの？
+{{< /say-left >}}
+
+<span class="keiko-red">**ビジネスにおけるイラストの役割は「作品をよりよく見せること」では必ずしもなく「売ること」にあります。**</span>
+
+一度、逆の立場になって考えてみましょう。
+
+あなたがディレクターなら、商品のテレビCMに売れっ子か知名度の低いタレント、どっちを使いたいですか？
+
+ほぼ間違いなく売れっ子ですよね。
+
+<span class="keiko-red">**知名度の低いタレントを起用すると「知らない」とスルーされる確率が上がります。**</span>
+
+スルーされると商品が売れません。
+
+一方で<span class="keiko-red">**「見たことがある」ものには親近感を覚えますし、警戒心も下げることができ、「買ってもらえる」可能性があがります。**</span>
+
+「買ってもらえる」戦略や素材は繰り返し使われます。
+
+その結果「どこかで見たことがある」ものになっていきます。
+
+つまり<span class="keiko-red">**「どこかで見たことがある」ものは、見たことが何度もあればあるほど、既に「売れる」という前例があることを意味しています。**</span>
 
 
-### 受注型フリーランスなら「商業型」
+キレイなイラストと、売れる保証がされているイラストを天秤にかけたとき、経営判断はほぼ間違いなく「売れる保証がされているイラスト」です。
 
-受注型フリーランスのほとんどは「既にある需要」に対応する案件です。
+つまり、<span class="keiko-red">**売れるイラストとは「どこかで見たことがある」を完ぺきに再現したイラストです。**</span>
 
-そのため、フリーランスを目指すなら断然「商業型」がオススメです。
+余談になりますが、たとえ見た目が汚くても、それで「売れる」なら問題ありません。
 
-## 受注型フリーランスに求められる「商業型」スキル
+ごちゃごちゃして決して美しいとは言えない「チラシ」の概念をネットに持ち込んで成功した「楽天」が良い例です。
 
-受注型フリーランスにおいて求められる「商業型」スキルについて紹介します。
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 62.5%; padding-top: 120px;"><a href="https://gendai.ismedia.jp/articles/-/50702" data-iframely-url="//cdn.iframe.ly/bJIOCIa"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
 
-これらのスキルのうち半分（かそれ以上）はイラストスキルではない、というのが持論です。
 
-### 人は「最もリスクが低い選択肢」を選ぶ
+## 「使いやすいイラスト」の分析方法
 
-> Clients don't choose the best option. They choose the least risky option.<br>
-(クライアントは「最良の選択肢」を選ばない。彼らは「最もリスクが低い選択肢」を選ぶ) -Chris Do 
 
-{{< youtube AnDfEVSEdZc >}}
+次に、「どこかで見たことがある」イラストを分析する方法を紹介します。
 
-フリーランサーはあくまで「クライアントをサポートする」役割で、我々には<span class="keiko-red">**「最良」ではなく「最もリスクが低い」ことが求められています。**</span>
+<span class="keiko-red">**「どこかで見たことがある」イラストは使われるジャンルによってタッチが少しずつ違います。**</span>
 
-フリーランサーは、ビジネスにおいて「リスクが低い」要素を集めることの方が「オリジナルであること」より遥かに重要です。
+例えば「女性雑誌 イラスト」で検索した結果がこちらになります。
+![image](../../images/blog-content/illustration-that-sells-1.jpg)<br><br>
 
-* 締め切りを守る
-* 約束を守る
-* 報連相がしっかりできる
-* 返信が早い
-* 機密情報を漏らさない
+次に「書籍 挿絵 イラスト」で検索した結果がこちらです。
+![image](../../images/blog-content/illustration-that-sells-2.jpg)<br><br>
 
-など、基本的なことを完ぺきに守れるフリーランサーは多くはいません。
+かなり雰囲気が違うこと、そしてそれぞれに何となくパターンがあることがお分かりいただけるかと思います。
 
-{{< tweet 1391188264611192835 >}}
+1. ジャンルごとのパターンを検索する
+2. ジャンルごとのパターンを言語化する<br>
+例えば、書籍挿絵なら「線が太い」「白黒」「デフォルメ」などが挙げられます
+3. 「使いやすいイラストのパターン」を真似する
 
-### 多くのことがそこそこできる
-![image](../../images/undraw/undraw_design_tools.svg)<br><br>
-信頼のおけるフリーランサーを探すのにはコストがかかるため、<span class="keiko-red">**多くのことがそこそこできるフリーランサーの方が便利に重宝されます。**</span>
 
-「パンク修理がめちゃくちゃうまいが、それしかできない自転車屋」よりも「特に尖ったスキルはないけど、どんな自転車を持っていっても直す自転車屋」を目指すイメージです。
+自分が専門にしたい分野に合わせてこのような分析を行うことで「売れやすい」イラストに近づきます。
 
-## 需要のある「使いやすいイラスト」の特徴
+うまくできたイラストなどはポートフォリオにしてまとめておくと、実際に売り出していきやすくなります。
 
-オリジナルなことは求められてないとなると、やっぱり気になるのは「需要のあるイラスト」だと思います。
 
-「使いやすいイラスト」をリサーチし、理解するには次をすればオッケーです。
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.25%; padding-top: 120px;"><a href="https://menglish.jp/post/portfolio/" data-iframely-url="//cdn.iframe.ly/xgOrzwb"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
 
-1. 分野ごとのパターンを理解する
-2. 「使いやすいイラストのパターン」を真似する
+## 「売れるイラスト」に達しているか検証する方法
 
-### ①「使いやすいパターン」を理解する
-![image](../../images/undraw/med_illust_search.png)<br><br>
-私の専門分野は「医療系イラスト」ですが、画像検索するとこんな感じ。
+十分に練習を積んでポートフォリオが充実してきたら、<span class="keiko-red">**実際に売ってみることが一番わかりやすいと思います。**</span>
 
-かなり特徴的ですよね。実際、こういうスタイルを散々練習しました。
+### 営業する
 
-同じように、<span class="keiko-red">**書籍なら書籍、WebならWebで「使いやすいイラスト」にはパターンがあります。**</span>
+ポートフォリオを持って営業をかけてみましょう。
 
-自分がやりたい分野を画像検索して「使いやすいパターン」をリストアップします。
+<span class="keiko-red">**良いイラストだと思ってもらえれば、仕事上での繋がりができ、案件に繋がります。**</span>
 
-Pinterestボードを作ってみてもいいかもしれません。
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.25%; padding-top: 120px;"><a href="https://menglish.jp/post/sales-technique/" data-iframely-url="//cdn.iframe.ly/gABcgq0"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
 
-### ②「使いやすいパターン」を真似する
-![image](../../images/undraw/undraw_programmer.svg)<br><br>
-一度「使いやすいパターン」を理解出来たら、あとは自分でも再現できるようにひたすら練習します。
+### クラウドソーシングサービスを使う
 
-ちなみに「使いやすいパターン」の中にはデッサンなどの基本ができてないものもたくさんあるので、最速で「売れる」ようになるには、やはり「よく使われているものを真似する」のが一番かと思います。
+クラウドソーシングとは、案件や仕事を発注したい企業などと、仕事を受注したいフリーランサーを繋げてくれるマッチングサービスのことです。
 
-### オリジナリティは勝手に出てくるようになる
 
-あくまで裏方でサポート役に徹していても、基礎を完ぺきにやりこむ過程で、経験と個性は交わり、嫌でもオリジナリティはにじみ出てきます。無理に追い求める必要はありません。
+クラウドソーシングではロゴ、アイコン、商品紹介漫画などをはじめ、イラストを必要とする様々なお仕事を見つけることができます。
 
+<span class="keiko-red">**誰でも無料で手軽に始めやすく、スキルアップを目指す方も数多く在籍しています。**</span>
+
+### ココナラ
+<a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+6VOCFM+2PEO+OU7CX" rel="nofollow"><img src="../../images/blog-content/coconala.jpg#center"></a>
+
+<div class="text-btn"><a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+6VOCFM+2PEO+OU7CX" class="btn btn-text-primary mb-2">今すぐ無料登録！</a></div><br><br>
+
+業界最大手の<a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+6VOCFM+2PEO+OU7CX" target="_blank">ココナラ</a>は200種類以上のカテゴリから豊富なサービスを揃え、サービス提供はすべてオンライン上で行うため時差や働く場所を気にする必要がないのが魅力です。
+
+### スキルクラウド
+
+<a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+F5D2WI+45YW+NVHCY" rel="nofollow"><img src="../../images/blog-content/skillcrowd.jpg#center"></a>
+
+<div class="text-btn"><a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+F5D2WI+45YW+NVHCY" class="btn btn-text-primary mb-2">今すぐ無料登録！</a></div><br><br>
+
+通常、公募された案件に応募しないと案件獲得できないクラウドソーシングサービスですが、<a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+F5D2WI+45YW+NVHCY" target="_blank">スキルクラウド</a>は出品者として仕事を依頼できるため、営業が苦手な方にオススメです。	
+
+
+### Bizseek
+
+<a href="https://px.a8.net/svt/ejp?a8mat=3HMZ1V+9Z0EK2+3QHY+5ZMCH" rel="nofollow"><img src="../../images/blog-content/bizseek.jpg#center"></a>
+
+<div class="text-btn"><a href="https://px.a8.net/svt/ejp?a8mat=3HMZ1V+9Z0EK2+3QHY+5ZMCH" class="btn btn-text-primary mb-2">今すぐ無料登録！</a></div><br><br>
+
+手数料は業界内最安級なのが魅力的です。なんと他社の手数料の「半額」！登録者がまだ少ないので、高額案件を狙いやすいのも特徴です。
+
+### SKIMA
+
+<a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+F4RNAQ+43HQ+6R201" rel="nofollow"><img src="../../images/blog-content/skima.jpg#center"></a>
+
+<div class="text-btn"><a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+F4RNAQ+43HQ+6R201" class="btn btn-text-primary mb-2">今すぐ無料登録！</a></div><br><br>
+
+<a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+F4RNAQ+43HQ+6R201" target="_blank">SKIMA</a>はイラストに特化したクラウドソーシングサービスです。オリジナルキャラクターなど、漫画っぽいタッチが得意な方に特にオススメです！
+
+### ランサーズ
+
+<!-- change to affiliate link when approved -->
+
+<a href="https://www.lancers.jp/" rel="nofollow"><img src="../../images/blog-content/lancers.jpg#center"></a>
+
+<div class="text-btn"><a href="https://www.lancers.jp/" class="btn btn-text-primary mb-2">今すぐ無料登録！</a></div><br><br>
+
+
+日本最大級のお仕事マッチングサイトで、常時1000件のお仕事が登録されているため、あなたに合った仕事を見つけやすいのが特徴です！
+
+### クラウドワークス
+
+<!-- change to affiliate link when approved -->
+
+<a href="https://crowdworks.jp/" rel="nofollow"><img src="../../images/blog-content/crowdworks.jpg#center"></a>
+
+<div class="text-btn"><a href="https://crowdworks.jp/" class="btn btn-text-primary mb-2">今すぐ無料登録！</a></div><br><br>
+
+専属キャリアサポーターを通して、報酬額や勤務地、職種やスキルなど、ワーカーの希望に合った案件を獲得できます。営業が苦手な方に特にオススメです！
 
 ## まとめ
 
-以上、売れるイラストとスキルについてでした！
-
-フリーランスでは自分自身が「最もリスクが低い選択肢」であることが大切なので、オリジナリティは枝葉末節かなと思います。
+以上、「売れるイラストを描くコツをプロのイラストレーターが徹底分析してみた」でした！
 
 「使いやすい」ものを真似ることが「売れる」ことへの第一歩です。ぜひチャレンジしてみてください。
+
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/sales-technique/" data-iframely-url="//cdn.iframe.ly/gABcgq0?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
 
 「役に立った」と思っていただけたら、シェアいただけますと幸いです。ブログやWEBサイトなどでのご紹介もとても嬉しいです!
