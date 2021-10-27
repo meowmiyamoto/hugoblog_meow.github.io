@@ -73,11 +73,13 @@ share: true
 * 一緒に働いた実績がある
 * 情報提供してくれる人がいる
 
-私は独立したとき、一番最初に案件をもらったのは前職でした。
+私は独立したとき、<span class="keiko-red">**一番最初に案件をもらったのは元勤務先でした。**</span>
 
 仕事のサイクルがわかっているし、元同僚にも話を聞きやすく営業しやすかったため比較的早く案件につながりました。
 
-<!--こちらで詳しく書いているのでご一読ください。-->
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.25%; padding-top: 120px;"><a href="https://menglish.jp/post/first-client-employer/" data-iframely-url="//cdn.iframe.ly/CoOm1U1"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
 
 ## 「ぜひあなたに」と言われるために
 <span class="keiko-red">**「お金を持っているあなたと仲良くなりたい」と聞いて嬉しい人はいません。**</span>
