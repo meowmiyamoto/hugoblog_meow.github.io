@@ -10,7 +10,7 @@ description: "プロのフリーランサーが「売れるイラストレータ
 # Taxonomies
 categories: ["フリーランス","イラスト"]
 tags: ["フリーランス"]
-type: "trending" # available type (epic, trending, popular, or regular)
+type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 share: true
 ---
