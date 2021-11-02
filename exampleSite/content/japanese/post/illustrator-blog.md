@@ -9,7 +9,7 @@ images:
 # description
 description: "イラストレーターがブログ運用するなら収益化より「ブランディング」を狙うべきだという話を解説します。"
 # Taxonomies
-categories: ["ブランディング","キャリア戦略","ブログ","イラストレーター"]
+categories: ["WEBマーケティング","キャリア戦略","ブログ","イラストレーター"]
 tags: ["ブログ"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false

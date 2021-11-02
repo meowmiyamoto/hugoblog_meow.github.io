@@ -4,7 +4,7 @@ date: 2021-10-31
 lastmod: 2021-10-31
 # post thumb
 images:
-  - "images/blog/first-client-employer.jpg"
+  - "images/blog/bring-luck-career.jpg"
 # description
 description: "成功する人は「人が面倒くさがってやらないコネ作りや根回し、実績作り」をしており、これが決定打となって成功しています。"
 # Taxonomies
