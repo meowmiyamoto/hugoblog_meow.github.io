@@ -129,6 +129,10 @@ SNSを定期的に観測していて後からわかったことですが、<span
 
 そういう<span class="keiko-red">**需要のありそうなところに営業をかける方が仕事には繋がりやすいです。**</span>
 
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.25%; padding-top: 120px;"><a href="https://menglish.jp/post/illustration-that-sells/" data-iframely-url="//cdn.iframe.ly/oVrErCU"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
+
 また、<span class="keiko-red">**仕事を通してイラストを描く方が結局は上達します。**</span>
 
 ## ポートフォリオは充実したか？
@@ -142,7 +146,7 @@ SNSを定期的に観測していて後からわかったことですが、<span
 ポートフォリオ目的で作品を増やしたいのであれば「こういう風に売り出したいから、こういう作品を揃える」と戦略的にやった方が「尖った」ポートフォリオになると思います。
 
 {{< notice "link" >}}
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/portfolio/" data-iframely-url="//cdn.iframe.ly/xgOrzwb?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.25%; padding-top: 120px;"><a href="https://menglish.jp/post/portfolio/" data-iframely-url="//cdn.iframe.ly/xgOrzwb"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 {{< /notice >}}
 
 ## 毎週イラストをやってよかったこと
@@ -182,7 +186,7 @@ SNSであれイラスト仲間であれ家族であれ、良くない作品を�
 「一日一絵」の検証もしていますので、よければご覧ください。
 
 {{< notice "link" >}}
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menglish.jp/post/everyday-art/" data-iframely-url="//cdn.iframe.ly/DHLvx5E?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.25%; padding-top: 120px;"><a href="https://menglish.jp/post/everyday-art/" data-iframely-url="//cdn.iframe.ly/DHLvx5E"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 {{< /notice >}}
 
 「役に立った」と思っていただけたら、シェアいただけますと幸いです。ブログやWEBサイトなどでのご紹介もとても嬉しいです!

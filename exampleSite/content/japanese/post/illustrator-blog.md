@@ -122,8 +122,11 @@ SEO狙いの記事が必ずしも良い記事とは限りません。
 
 なぜなら、こういった行動こそが「信用」になるからです。
 
-
 誠実にブログを書くことは👆のような信用を積み上げる行為そのものだと信じています。
+
+{{< notice "link" >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.25%; padding-top: 120px;"><a href="https://menglish.jp/post/bring-luck-career/" data-iframely-url="//cdn.iframe.ly/eHRWui6"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /notice >}}
 
 ## イラストレーターとしてブログ運用する時のアプローチ
 
