@@ -44,21 +44,9 @@ SEOとは、Search Engine Optimization（検索エンジン最適化）の略で
 
 <span class="keiko-red"> **あなたのウェブサイトが検索結果の1ページ目に表示されなければ、存在しないのとほぼ同じです。**</span>
 
-検索1ページ目のSEOランキングとクリック率 (2021年版)
+**<a href="https://www.searchenginejournal.com/google-first-page-clicks/374516/" target="_blank">検索1ページ目のSEOランキングとクリック率 (2021年版)</a>**
 
-SEOランキング　| クリック率
---- | ---
-1位 | 28.5%
-2位 | 15.7%
-3位 | 11.0%
-4位 | 8.0%
-5位 | 7.2%
-6位 | 5.1%
-7位 | 4.0%
-8位 | 3.2%
-9位 | 2.8%
-10位 | 2.5%
-検索2ページ目| 2.5%以下
+![image](../../images/blog-content/seo-for-new-website-1.jpg)<br><br>
 
 SEO対策は、複雑なパズルのようなものです。
 

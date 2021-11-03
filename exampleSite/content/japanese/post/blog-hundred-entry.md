@@ -35,7 +35,7 @@ share: true
 
 2019年から半年かけて毎日noteを更新し、200記事ぐらい書いたことがあります。
 
-そのnoteは<a href="" target="_blank"><u>こちら</u></a>です（今はアクセス数が低い記事をほとんど非表示にし、少しずつブログに移行しています）。
+そのnoteは<a href="" target="_blank">こちら</a>です（今はアクセス数が低い記事をほとんど非表示にし、少しずつブログに移行しています）。
 
 <span class="keiko-red"> **当時の経験から言えるのは、収益化やアクセス数の意味では100記事書いても何の結果も得られません。**</span>
 
@@ -55,7 +55,9 @@ share: true
 
 ## 52-100記事ゾーンを超えないとアクセスが伸び始めるゾーンに入らない
 
-<span class="keiko-red"> **インターネット上には600億のブログがあり、<a href="https://neilpatel.com/blog/5-simple-steps-thatll-help-you-determine-how-often-you-need-to-blog/" target="_blank"><u>こちらのサイト</u></a>によればアクセスが伸び始めるのは52-100記事を超えたあたりからです。**</span>
+<span class="keiko-red"> **インターネット上には600億のブログがあり、<a href="https://neilpatel.com/blog/5-simple-steps-thatll-help-you-determine-how-often-you-need-to-blog/" target="_blank">こちらのサイト</a>によればアクセスが伸び始めるのは52-100記事を超えたあたりからです。**</span>
+
+![image](../../images/blog-content/blog-hundred-entry-1.jpg)<br><br>
 
 つまり、100記事ないとスタート地点にすら立てません。なかなか厳しい話ですが...
 

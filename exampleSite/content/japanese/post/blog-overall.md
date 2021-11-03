@@ -8,7 +8,7 @@ images:
 # description
 description: "今までのブログ関連の記事をまとめ、ブログ開設後半年までにやるべきことを全てまとめました。"
 # Taxonomies
-categories: ["メディア運営","WEBマーケティング"]
+categories: ["メディア運用","WEBマーケティング"]
 tags: ["ブログ"]
 type: "trending" # available type (epic, trending, popular, or regular)
 draft: false
