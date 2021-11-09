@@ -27,7 +27,9 @@ share: true
 * **売れやすいイラストを分析し、自分のイラストに反映する方法がわかる**
 * **自分のイラストが「売れるレベル」に達しているか調べる方法がわかる**
 
-<span class="keiko-red">**売れるイラストには本質的に「商品が売れる」という共通点があります。**</span>
+すべてのビジネス判断は、利益（＝売上）が増えるか？に基づいており、「イラストを起用する」というビジネス判断も例外ではありません。
+
+<span class="keiko-red">**売れるイラストは、本質的に、「使われることで利益（＝売上）をもたらす」という共通点があります。**</span>
 
 「商品が売れる」から逆算すれば、ジャンル別にどういうイラストが売れるかを分析することができ、自分自身のイラストにも反映させることができます。
 
@@ -151,6 +153,14 @@ share: true
 
 業界最大手の<a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+6VOCFM+2PEO+OU7CX" target="_blank">ココナラ</a>は200種類以上のカテゴリから豊富なサービスを揃え、サービス提供はすべてオンライン上で行うため時差や働く場所を気にする必要がないのが魅力です。
 
+### クラウドワークス
+
+<a href="https://px.a8.net/svt/ejp?a8mat=3HMWPM+8Y3J1U+2OM2+TVJ4X" rel="nofollow"><img src="../../images/blog-content/crowdworks.jpg#center"></a>
+
+<div class="text-btn"><a href="https://px.a8.net/svt/ejp?a8mat=3HMWPM+8Y3J1U+2OM2+TVJ4X" class="btn btn-text-primary mb-2">今すぐ無料登録！</a></div><br><br>
+
+<a href="https://px.a8.net/svt/ejp?a8mat=3HMWPM+8Y3J1U+2OM2+TVJ4X">クラウドワークス</a>では、専属キャリアサポーターを通して、報酬額や勤務地、職種やスキルなど、ワーカーの希望に合った案件を獲得できます。営業が苦手な方に特にオススメです！
+
 ### スキルクラウド
 
 <a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+F5D2WI+45YW+NVHCY" rel="nofollow"><img src="../../images/blog-content/skillcrowd.jpg#center"></a>
@@ -176,6 +186,7 @@ share: true
 
 <a href="https://px.a8.net/svt/ejp?a8mat=3HMO2X+F4RNAQ+43HQ+6R201" target="_blank">SKIMA</a>はイラストに特化したクラウドソーシングサービスです。オリジナルキャラクターなど、漫画っぽいタッチが得意な方に特にオススメです！
 
+
 ### ランサーズ
 
 <!-- change to affiliate link when approved -->
@@ -186,16 +197,6 @@ share: true
 
 
 日本最大級のお仕事マッチングサイトで、常時1000件のお仕事が登録されているため、あなたに合った仕事を見つけやすいのが特徴です！
-
-### クラウドワークス
-
-<!-- change to affiliate link when approved -->
-
-<a href="https://crowdworks.jp/" rel="nofollow"><img src="../../images/blog-content/crowdworks.jpg#center"></a>
-
-<div class="text-btn"><a href="https://crowdworks.jp/" class="btn btn-text-primary mb-2">今すぐ無料登録！</a></div><br><br>
-
-専属キャリアサポーターを通して、報酬額や勤務地、職種やスキルなど、ワーカーの希望に合った案件を獲得できます。営業が苦手な方に特にオススメです！
 
 ## まとめ
 
