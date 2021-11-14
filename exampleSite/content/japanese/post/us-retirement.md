@@ -1,7 +1,7 @@
 ---
 title: "海外在住すると老後はどうなる？アメリカ\"年金\"事情【401(k)｜Roth IRA｜Traditional IRA｜SEP IRA｜HSA】"
 date: 2021-09-28
-lastmod: 2021-09-28
+lastmod: 2021-11-12
 # post thumb
 images:
   - "images/blog/us-retirement.jpg"
@@ -177,6 +177,58 @@ IRA同様、RothかTraditionalかを開設時に選びます。銀行口座は�
 基本的には20-30%の税金プラス10%のペナルティを取られると考えるのが正しいです。
 
 課税時期はTraditionalかRothによって異なりますが、Traditionalなら引き出し時に、Rothなら入金時に20-30%の税金がかかり、その上に10%のペナルティも払うというイメージです。
+
+## 退職年金の引き出しについて
+
+<span class="keiko-red">**59歳半以降になると、退職年金口座からの引き出しはペナルティなしで可能になります。**</span>
+
+### 米国での課税について
+
+Roth IRAの場合は、米国に非課税でお金を引き出すことが可能です。
+
+このとき、最初にRoth IRAを拠出した年の1/1から5年経っていないと非課税にはならないのでご注意ください（5年ルールやfive year ruleと呼ばれます）。
+
+例えば60歳を超えていても、最初にRoth IRAに拠出した年齢が56歳以上であれば、5年ルールを満たしていないので、引き出す額は課税対象になります。
+
+Traditional IRAは引き出し時に課税対象になります。
+
+### 日本での課税について（日本に帰国してからの引き出しはオススメしません！）
+
+
+Roth IRAを日本に帰国してから引き出す場合は元本(contribution)は2021年の段階では課税はされません。
+
+しかし、<span class="keiko-red">**日本では利益(earnings)が課税され、メリットが無くなるのでご注意ください。**</span>
+
+
+Traditional IRAの場合は米国も日本も二重課税になるので、ご注意ください。
+
+### アメリカ退職年金の引き出し方
+
+現時点では、日本に帰国するかに関わらず、<span class="keiko-red">**アメリカの銀行口座を維持して、定期的にアメリカから日本への送金を行うのが課税が一番少ないかと思います。**</span>
+
+用意すべき口座は３つです。
+
+1. Roth IRAまたは401(k)
+2. アメリカの個人口座(checking account)
+3. 日本の普通預金口座
+
+手順は次の通りです。このようにすることで<span class="keiko-red">**「年金での受け取り」ではなく「アメリカ普通口座からの送金」になります。**</span>送料はかかりますが、課税対象にはなりません。
+
+1. ネットバンキングで、Roth IRAまたは401(k)からアメリカの個人口座に送金する
+2. アメリカの個人口座から日本の普通預金口座に送金する（海外送金にはWISEがオススメです！）
+
+アメリカではネットバンクでも店舗を構える銀行でも、ほとんどの銀行がアプリやオンライン経由で送金が可能になっています。
+
+<span class="keiko-red">**カスタマーサービスのチャットや電話などを使いつつ退職口座から個人口座への送金方法を調べましょう。**</span>
+
+<span class="keiko-red">**海外送金には<a href="https://wise.prf.hn/click/camref:1100lkChi/creativeref:1011l51936" rel="sponsored">WISE</a>（旧Transfer Wise）がダントツにオススメです。**</span>
+
+世界中の通貨に使える送金サービスで、海外送金と比べて格段に安く、操作もカンタンで送金も早いため、引き出しの際にできるだけ送料をおさえるにはピッタリです。
+
+<a href="https://wise.prf.hn/click/camref:1100lkChi/creativeref:1011l51936" rel="sponsored"><img src="https://wise-creative.prf.hn/source/camref:1100lkChi/creativeref:1011l51936" border="0"/></a>
+<div class="text-btn"><a href="https://wise.prf.hn/click/camref:1100lkChi/creativeref:1011l51936" class="btn btn-text-primary mb-2">今すぐ無料登録！</a></div><br><br>
+
+通常、アメリカの銀行口座はアメリカでの住所と紐づけなので、<span class="keiko-red">**帰国の場合は①アメリカに手紙を受け取れる家や住所を用意するか②アメリカに住所がなくても口座維持可能な銀行サービスにRoth IRAを移動させるのを忘れないようにしましょう。**</span>
 
 
 ## SEP-IRA
