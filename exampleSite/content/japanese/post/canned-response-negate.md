@@ -29,9 +29,12 @@ share: true
 
 特定のメールアドレスに自動通知を送信する方法も紹介しています。
 
+
 基本的にはやり方は👆と同じで、フィルターの設定方法だけが違います。
 
-必要な箇所まで読み飛ばしたい場合は<a href="">こちらをクリック</a>してください。
+必要な箇所まで読み飛ばしたい場合は<a href="https://menglish.jp/post/canned-response-negate/#%E7%89%B9%E5%AE%9A%E3%81%AE%E4%BA%BA%E3%81%AB%E3%81%A0%E3%81%91%E8%87%AA%E5%8B%95%E9%80%9A%E7%9F%A5%E3%82%92%E9%80%81%E4%BB%98%E3%81%99%E3%82%8B%E8%A8%AD%E5%AE%9A%E3%82%92%E3%81%99%E3%82%8B">こちらをクリック</a>してください。
+
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.25%; padding-top: 120px;"><a href="https://menglish.jp/post/canned-response/" data-iframely-url="//cdn.iframe.ly/VBuDD4v"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 それでは詳しく見ていきましょう。
 
@@ -88,9 +91,9 @@ Gメールのデフォルトの不在通知の設定では、<span class="keiko-
 ![image](../../images/blog-content/canned-response-8.jpg)<br><br>
 
 
-## ③特定の人にだけ自動通知を送付する設定をする
+## ③自動送信しない人を指定する
 
-歯車から**すべての設定を表示**を選択
+<span class="keiko-red">**歯車**</span>から<span class="keiko-red">**すべての設定を表示**</span>を選択
 
 
 ![image](../../images/blog-content/canned-response-1.jpg)<br><br>
@@ -202,6 +205,7 @@ Gメールのデフォルトの不在通知の設定では、<span class="keiko-
 以上「Gmailで指定したEメールアドレス以外に自動通知を送る方法」でした！
 
 特定のEメールアドレスにだけ自動通知を送る方法も紹介していますので、合わせてご覧ください。
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.25%; padding-top: 120px;"><a href="https://menglish.jp/post/canned-response/" data-iframely-url="//cdn.iframe.ly/VBuDD4v"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 
 「役に立った」と思っていただけたら、シェアいただけますと幸いです。ブログやWEBサイトなどでのご紹介もとても嬉しいです!

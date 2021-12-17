@@ -30,6 +30,8 @@ A社の人にだけ不在通知を送りたい。でも、他の人には自動�
 
 **指定したメールアドレス<span class="keiko-red">以外に**</span>自動通知を送信する方法も紹介していますので、設定がしやすい方に合わせてご覧ください。
 
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.25%; padding-top: 120px;"><a href="https://menglish.jp/post/canned-response-negate/" data-iframely-url="//cdn.iframe.ly/ej6DaGy"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+
 それでは詳しく見ていきましょう。
 
 {{< toc >}}
@@ -97,7 +99,7 @@ A社の人にだけ不在通知を送りたい。でも、他の人には自動�
 
 ## ③特定の人にだけ自動通知を送付する設定をする
 
-歯車から**すべての設定を表示**を選択
+<span class="keiko-red">**歯車**</span>から<span class="keiko-red">**すべての設定を表示**</span>を選択
 
 
 ![image](../../images/blog-content/canned-response-1.jpg)<br><br>
@@ -209,7 +211,9 @@ From欄に、自動通知したいEメールアドレスを入力し、<span cla
 
 以上「Gmailで特定のEメールアドレスに自動通知を送る方法」でした！
 
-特定のメールアドレス**以外に**自動通知を送信する方法も紹介していますので、合わせてご覧ください。
+**指定したメールアドレス<span class="keiko-red">以外に**</span>自動通知を送信する方法も紹介していますので、合わせてご覧ください。
+
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.25%; padding-top: 120px;"><a href="https://menglish.jp/post/canned-response-negate/" data-iframely-url="//cdn.iframe.ly/ej6DaGy"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 
 「役に立った」と思っていただけたら、シェアいただけますと幸いです。ブログやWEBサイトなどでのご紹介もとても嬉しいです!
