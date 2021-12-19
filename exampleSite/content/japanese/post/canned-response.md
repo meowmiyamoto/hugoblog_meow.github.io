@@ -28,7 +28,7 @@ A社の人にだけ不在通知を送りたい。でも、他の人には自動�
 
 本記事では、こういった疑問にお答えし、<span class="keiko-red">**特定のEメールアドレスにだけ自動通知を送る方法を紹介します。**</span>
 
-**指定したメールアドレス<span class="keiko-red">以外に**</span>自動通知を送信する方法も紹介していますので、設定がしやすい方に合わせてご覧ください。
+**指定したメールアドレス<span class="keiko-red">以外に**</span>自動通知を送信する方法も紹介していますので、設定しやすい方に合わせてご覧ください。
 
 <div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.25%; padding-top: 120px;"><a href="https://menglish.jp/post/canned-response-negate/" data-iframely-url="//cdn.iframe.ly/ej6DaGy"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
