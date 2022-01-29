@@ -1,7 +1,7 @@
 ---
 title: "PMS・生理痛を薬なしで乗り切るために食生活を改善した結果【体験談｜砂糖断ち｜乳製品断ち｜玄米｜頭痛薬｜低用量ピル】"
 date: 2022-01-28
-lastmod: 2021-01-28
+lastmod: 2022-01-28
 # post thumb
 images:
   - "images/blog/pms-food.jpg"
