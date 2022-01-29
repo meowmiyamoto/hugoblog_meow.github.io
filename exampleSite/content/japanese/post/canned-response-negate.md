@@ -9,7 +9,7 @@ images:
 description: "Gmailで特定のEメールアドレス以外にだけ自動通知を送る方法について解説します。"
 # Taxonomies
 categories: ["IT"]
-tags: ["IT"]
+tags: ["ライフハック"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 share: true

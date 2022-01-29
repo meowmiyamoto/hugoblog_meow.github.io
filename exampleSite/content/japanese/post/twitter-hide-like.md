@@ -9,7 +9,7 @@ images:
 description: "ツイッターの「○○さんがいいねしました」を完全に消す・非表示にする・表示しない方法を解説します。"
 # Taxonomies
 categories: ["SNS運用", "IT"]
-tags: ["IT"]
+tags: ["ライフハック"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 share: true

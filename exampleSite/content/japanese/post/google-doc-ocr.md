@@ -9,7 +9,7 @@ images:
 description: "Googleドライブを使ってたったの2ステップで画像をOCR化する方法を解説します。"
 # Taxonomies
 categories: ["IT"]
-tags: ["IT"]
+tags: ["ライフハック"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 share: true

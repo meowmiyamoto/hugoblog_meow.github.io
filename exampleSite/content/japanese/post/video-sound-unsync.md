@@ -9,7 +9,7 @@ images:
 description: "iPhoneで撮影した動画の編集時の音ズレを直す方法について解説します。"
 # Taxonomies
 categories: ["IT"]
-tags: ["IT"]
+tags: ["ライフハック"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 share: true

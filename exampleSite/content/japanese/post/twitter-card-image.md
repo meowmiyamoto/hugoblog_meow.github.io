@@ -9,7 +9,7 @@ images:
 description: "Twitterカードが正しく表示されない問題の解決方法をまとめています。"
 # Taxonomies
 categories: ["ブログ","メディア運用", "SNS運用", "IT"]
-tags: ["IT"]
+tags: ["ライフハック"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 share: true

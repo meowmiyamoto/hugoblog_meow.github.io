@@ -9,7 +9,7 @@ images:
 description: "YouTube動画で音声を自動でテキスト化する「文字起こし機能」を紹介します"
 # Taxonomies
 categories: ["IT"]
-tags: ["IT"]
+tags: ["ライフハック"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 share: true
