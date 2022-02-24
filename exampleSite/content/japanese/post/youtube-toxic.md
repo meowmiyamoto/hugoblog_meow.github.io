@@ -125,7 +125,7 @@ YouTubeは確かに便利なツールで、仕事で役に立つ動画やトレ�
 
 ## YouTubeを見ない方法
 
-手法としては至って簡単で、<span class="keiko-red">**パソコンからYouTubeをブラウザからブロックしました。**</span>
+手法としては至って簡単で、<span class="keiko-red">**YouTubeをブラウザからブロックしました。**</span>
 
 使ったのは<a href=”https://chrome.google.com/webstore/detail/block-site/nkedbnokglppcmiencngilkkhhnpcfjb” target=”_blank”>**Block Site**</a>というChromeプラグインです（無料です）。
 
