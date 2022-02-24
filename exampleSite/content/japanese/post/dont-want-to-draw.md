@@ -6,7 +6,7 @@ lastmod: 2021-02-23
 images:
   - "images/blog/dont-want-to-draw.jpg"
 # description
-description: "売れるレベルのイラストについてプロのイラストレーターが解説します。"
+description: "練習するのがつらくなり、描けなくなったときの対処法をプロのイラストレーターが解説します。"
 # Taxonomies
 categories: ["フリーランス","イラスト"]
 tags: ["フリーランス"]
