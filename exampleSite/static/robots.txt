@@ -4,6 +4,8 @@ Disallow: /archives/
 Disallow: /preview/
 Disallow: /profiles/
 Disallow: /search
+Disallow: /404
+
 
 User-agent: Mediapartners-Google* 
 Allow: /

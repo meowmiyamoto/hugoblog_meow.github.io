@@ -1,7 +1,7 @@
 ---
 title: "つらくてイラストが全く描けなくなった私が、描くのがまた楽しくなり上達サイクルに入るまでに行った対処法【スランプ｜怖い｜練習｜気力｜きつい｜しんどい｜燃え尽き症候群】"
 date: 2022-02-23
-lastmod: 2021-02-23
+lastmod: 2022-02-23
 # post thumb
 images:
   - "images/blog/dont-want-to-draw.jpg"
