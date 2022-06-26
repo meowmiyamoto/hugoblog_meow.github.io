@@ -150,9 +150,7 @@ share: true
 
 これはデッサンなどでつまづき、「正確に描かなきゃ」にこだわる人に効く考え方です。
 
-例えば、元ワーナー・ブラザースのアーティストで「アイアンマン2」「かいじゅうたちのいるところ」などの絵コンテを手掛け、裸婦デッサンではアメリカで知らない人はいない<a href="https://soul-stories.com/inspiration/ryan-woodward/" target="_blank">ライアン・ウッドワード(Ryan Woodward)</a>の作品を見てみましょう。
-![image](../../images/blog-content/woodward-example.jpg)<br><br>
-
+例えばこれは、元ワーナー・ブラザースのアーティストで「アイアンマン2」「かいじゅうたちのいるところ」などの絵コンテを手掛け、裸婦デッサンではアメリカで知らない人はいない<a href="http://ryanwoodwardart.com/" target="_blank">ライアン・ウッドワード(Ryan Woodward)</a>のポートフォリオです。
 
 めちゃくちゃうまいのはもちろんなのですが、よく見ると次のようなことがわかると思います。
 
