@@ -22,7 +22,7 @@ share: true
 {{< /say-left >}}
 
 
-本記事では、こういった疑問にお答えし、<span class="keiko-red">**こういった疑問にお答えし、Googleドキュメントに背景をつける方法**</span>を紹介します。
+本記事では、こういった疑問にお答えし、<span class="keiko-red">**Googleドキュメントに背景をつける方法**</span>を紹介します。
 
 パワポやGoogleスライドとは仕様が違うため、<span class="keiko-red">**GoogleドキュメントやWord文書は、背景を設定することができません。**</span>
 
