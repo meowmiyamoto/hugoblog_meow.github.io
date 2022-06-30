@@ -39,6 +39,8 @@ Webサイト全体の画像が欲しいときのやり方として一番簡単�
 1. スクロールしながらブラウザのスクリーンショットを上から下までキャプチャする
 2. 後でつなぎ合わせる
 
+![image](../../images/blog-content/chrome-website-screenshot-0.jpg)<br><br>
+
 これには次のようなデメリットがあります。
 
 * とにかく面倒くさい
@@ -50,16 +52,13 @@ Webサイト全体の画像が欲しいときのやり方として一番簡単�
 もちろん、<span class="keiko-red">**つなぎ合わせなどの面倒な作業も不要**</span>です。
 
 
-<img src="../../images/blog-content/gdoc-bg-1.jpg" width="50%"><br><br>
-
-
 ### ①Chromeブラウザを開き、スクショしたいWebサイトを開く
 
 <span class="keiko-red">**Chrome**</span>を開き、スクショしたいWebサイトにアクセスします。
 
 ![image](../../images/blog-content/chrome-website-screenshot-1.jpg)<br><br>
 
-### ②デベロッパーツールを開く
+## ②デベロッパーツールを開く
 
 Webサイトにアクセスした状態で、<span class="keiko-red">**デベロッパーツール**</span>を開きます。
 やり方は3通りあります。
