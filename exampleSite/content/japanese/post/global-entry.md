@@ -1,7 +1,7 @@
 ---
 title: "アメリカ入国のファストパス、グローバルエントリーの申請方法"
-date: 2022-07-04
-lastmod: 2022-07-04
+date: 2022-08-01
+lastmod: 2022-08-01
 # post thumb
 images:
   - "images/blog/global-entry.jpg"
