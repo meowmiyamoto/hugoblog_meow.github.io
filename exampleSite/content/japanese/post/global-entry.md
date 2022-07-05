@@ -6,7 +6,7 @@ lastmod: 2022-08-01
 images:
   - "images/blog/global-entry.jpg"
 # description
-description: "アメリカ。"
+description: "アメリカ税関の公式プログラム「グローバルエントリー」を使えばアメリカ入国やアメリカ国内旅行の手荷物検査をスピーディに終わらせることができます。"
 # Taxonomies
 categories: ["豊かに暮らす", "海外移住"]
 tags: ["ライフハック"]
@@ -57,7 +57,7 @@ Global Entryには<a href="../global-entry/#tsa-precheck%E3%81%A8%E3%81%AF">TSA 
 👇のリンクからアカウントを作成し、手順に従って質問に答えていき、最後に手数料を払って終了です。
 
 {{< notice "link2" >}}
-  <a href="https://ttp.dhs.gov/" target="blank"><u>Department of Homeland and Security｜Official Trusted Traveler Program</u></a><br>
+  <a href="https://ttp.dhs.gov/" target="blank"><u>Department of Homeland and Security｜Official Trusted Traveler Program</u></a>
 {{< /notice >}}
 
 <span class="keiko-red">**手数料は2022年7月時点で$100で、一度申請が通ればTSA Precheckも含めて5年間有効**</span>です。
